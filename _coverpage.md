@@ -1,14 +1,14 @@
-<!-- _coverpage.md -->
+---
+date: ''
+title: ''
+updated: 2023-12-3T23:11:15.331+8:0
+---
+# 羊毛百科 **2023**
 
-![logo](icon.svg)
+> **一个神奇的网站。**
 
-# docsify <small>4.12.1</small>
+* **简单、轻便 (压缩后 \~21kB)**
+* **无需生成 html 文件**
+* **众多主题**
 
-> A magical documentation site generator.
-
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#headline)
+[进入商城](http://kmshop.zjkmkj.com/) [进入百科](./)
