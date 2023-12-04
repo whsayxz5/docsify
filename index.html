@@ -1,47 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="UTF-8">
   <title>羊毛百科</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="icon" href="favour.ico">
-  <meta charset="UTF-8">
   <link rel="stylesheet" href="vue.css">
   <link rel="stylesheet" href="//at.alicdn.com/t/font_539333_ah8wb2hv6yknvcxr.css">
-
 </head>
 <body>
-  <div id="app">进入中</div>
-  <footer id="mb-footer"></footer>
 
-<div style="display: block;" class="customer-service" id='dianji'>
-	<style id="styleyzfh5-data-1627199310627">
-@media (max-height:600px),(max-width:1000px){
-	[yzfh5-data-1627199310627].main-contact{position:fixed;bottom:60px;right:15px;z-index:100000000000000000}
-	[yzfh5-data-1627199310627].main-contact .icon{display:block;width:30px;height:30px;background-image:url(https://yzf.qq.com/xv/web/static/img/chat-btn.png);background-size:100% 100%;vertical-align:-3px}
-	[yzfh5-data-1627199310627].main-contact .chat-btn{padding:10px;display:-webkit-box;display:-ms-flexbox;display:flex;font-size:12px;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;text-decoration:none;padding:5px 10px;border-radius:4px}
-	[yzfh5-data-1627199310627].main-contact .chat-btn .txt{display:block;margin-top:-2px}
-	[yzfh5-data-1627199310627].main-contact .dot{width:12px;height:12px;border-radius:50%;position:absolute;top:-6px;right:-6px;background:#ed4343;border:1px solid #fff;box-shadow:0 2px 4px 0 rgba(0,0,0,.5)}
-	[yzfh5-data-1627199310627].main-contact .state{display:none}}
-@media (min-height:600px) and (min-width:1000px){
-	[yzfh5-data-1627199310627].main-contact{position:fixed;bottom:60px;right:15px;z-index:100000000000000000}
-	[yzfh5-data-1627199310627].main-contact .icon{display:block;width:30px;height:30px;background-image:url(https://yzf.qq.com/xv/web/static/img/chat-btn.png);background-size:100% 100%;vertical-align:-3px}
-	[yzfh5-data-1627199310627].main-contact .chat-btn{padding:10px;display:-webkit-box;display:-ms-flexbox;display:flex;font-size:12px;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;text-decoration:none;padding:5px 10px;border-radius:4px}
-	[yzfh5-data-1627199310627].main-contact .chat-btn .txt{display:block;margin-top:-2px}
-	[yzfh5-data-1627199310627].main-contact .dot{width:12px;height:12px;border-radius:50%;position:absolute;top:-6px;right:-6px;background:#ed4343;border:1px solid #fff;box-shadow:0 2px 4px 0 rgba(0,0,0,.5)}
-	[yzfh5-data-1627199310627].main-contact .state{display:none}}
-[yzfh5-data-1627199310627] .chat-btn{display:inline-block;margin-bottom:0;font-weight:400;text-align:center;-ms-touch-action:manipulation;touch-action:manipulation;cursor:pointer;background-image:none;border:none;white-space:nowrap;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;min-width:50px;padding:7px 10px;font-size:15px;color:#fff;background-color:#4979ff;box-sizing:border-box;vertical-align:middle}
-@media (max-height:600px),(max-width:1000px){[yzfh5-data-1627199310627].main-chat{position:fixed;top:0;left:0;right:0;bottom:0;z-index:10000000000000000}[yzfh5-data-1627199310627].main-chat .main-iframe{width:100%;height:100%;position:fixed;top:0;bottom:0;left:0;right:0}}
-@media (min-height:600px) and (min-width:1000px){[yzfh5-data-1627199310627].main-chat{position:fixed;width:375px;max-height:667px;height:calc(100vh - 100px);right:50px;bottom:50px;background:#fafafb;box-shadow:0 2px 8px 0 rgba(0,0,0,.14);overflow:hidden}[yzfh5-data-1627199310627].main-chat .main-iframe{width:100%;height:100%}}
-</style>
+  <div id="app"></div>
 
-<div yzfh5-data-1627199310627="" id="yzfh5-main-contact-1627199310627" class="main-contact" style="display: block;width: 56px;">
-    <a href="javascript:;" id="yzfh5-chat-btn-1627199310627" class="chat-btn" style="background-color: rgb(9, 197, 247);">
-        <i class="icon" id="yzfh5-icon-1627199310627"></i>
-        <span class="txt">客服</span>
-    </a>
 
-</div>
 <div style="    position: fixed;bottom: 60px;right: 80px;z-index: 100000000000000000;">
 <i class="iconfont icon_service " ></i>
         <div class="message" style="
@@ -89,8 +61,7 @@
   </div>
 </div>
 
-<script src="./jquery.min.js"></script>
-<script src="./jquery-1.3.2.min.js"></script>
+
 <script>
   /**
    * 客服挂件
@@ -123,66 +94,67 @@
 
 
 
-  <script>
+<script>
     window.$docsify = {
       //logo: '/media/logo.ico',
       themeColor: '#00A8E1',
       name: '羊毛百科',
       loadNavbar: true,
       loadSidebar: true,
-      //coverpage: true,
-      subMaxLevel: 2,
-      auto2top: true,
-	    maxLevel: 3,
-      notFoundPage: true,
-      //repo: 'https://wiki.zjkm.xyz',
+      coverpage: true,
+    // subMaxLevel: 2表示只显示h1~h2的标题，对应#和##
+    subMaxLevel: 4,
+    // 小屏设备下合并导航栏到侧边栏
+    mergeNavbar: true,
+    maxLevel: 3,
+    // 加载 summary.md
+    loadSidebar: '_sidebar.md',
+    alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+    },
+    auto2top: true,//切换页面后是否自动跳转到页面顶部
+    search: 'auto',
+    //全文搜索
+    search: {
+      maxAge: 86400000,
+      paths: '/',
+      placeholder: '搜索...',
+      noData: '未找到结果，换个搜索词试试？',
+    },
+    copyCode: {
+      buttonText : '复制',
+      errorText  : '复制失败',
+      successText: '已复制'
+    },
+    //外链打开方式
+    externalLinkTarget: '_blank',
 
-      //alias: {
-      //  '/.*/_sidebar.md': '/_sidebar.md'
-      //},
-
-
-      search: {
-      maxAge: 86400000, // 过期时间，单位毫秒，默认一天
-      //paths: [], // or 'auto'
-      placeholder: '搜索',
-      noData: '找不到结果',
-      // 搜索标题的最大程级, 1 - 6
-      depth: 4
-      },
-
-
-      formatUpdated: '{YYYY} 年 {MM} 月 {DD} 日', 
-      plugins: [
-        function (hook, vm) {
-          hook.beforeEach(function (html) {
-            //var url = 'https://docsify-whsayxz5.vercel.app/start/' + vm.route.file
-            //var editHtml = '[:memo: Edit Document](' + url + ')\n'
-    
-            var update = '\n\n'
-           return update
-              + '<h1></h1>'
-              + '<img src="https://img.shields.io/badge/更新于-{docsify-updated}-brightgreen.svg" >'
-              + '\n\n'
-              + '<h1></h1>'
-              + '\n\n'
-              + html
-              + '\n\n----\n\n'
-              + ':heart:&nbsp;&nbsp;Copyright © 2023 卡盟百科'
-              
-          })
-        }
-      ]
     }
-  </script>
-<script src="./zoom-image.min.js"></script>
-<script src="./docsify.min.js"></script>
-<script src="./emoji.min.js"></script>
-<script src="./search.min.js"></script>
-<script src="./watermark.js"></script>
+  
+</script>
+
+<!-- 搜索 -->
+<script src="js/search.js"></script>
+<!-- 主代码 -->
+<script src="js/docsify.min.js"></script>
+<!-- 复制代码到剪贴板 -->
+<script src="js/docsify-copy-code.min.js"></script>
+<!-- 图片缩放 -->
+<script src="js/zoom-image.js"></script>
+<!-- 字数统计 -->
+<script src="js/countable.js"></script>
+<!-- 上一章、 下一章 -->
+<script src="js/docsify-pagination.min.js"></script>
+<!-- 表情 -->
+<script src="js/emoji.min.js"></script>
+<!-- 水印 -->
+<script src="js/watermark.js"></script>
+
+
+
+
 <!--下面打水印-->
 <script>
-
 
 var scrollFunc = function (e) {undefined
 //alert(1);
@@ -206,58 +178,6 @@ watermark.load({ watermark_txt: "浙江卡盟" , watermark_alpha: 0.08,watermark
 
 </script>
 
-
-
-
-
-<!--
-<script src="https://yzf.qq.com/xv/web/static/chat_sdk/yzf_chat.min.js"></script>
-  <script>
-    //参数说明
-    //sign：公司渠道唯一标识，复制即可，无需改动
-    //uid：用户唯一标识，如果没有则不填写，默认为空
-    //data：用于传递用户信息，最多支持5个，参数名分别为c1,c2,c3,c4,c5；默认为空
-    //selector：css选择器(document.querySelector, 如#btnid .chat-btn等)，用于替换默认的常驻客服入口
-    //callback(type, data): 回调函数,type表示事件类型， data表示事件相关数据
-    //type支持的类型：newmsg有新消息，error云智服页面发生错误， close聊天窗口关闭
-    window.yzf && window.yzf.init({
-      sign: '37ef9b97da2102c3741596bb19e5e764c41105321630ba9634f304bf88082b7ef58caf04548e653ed39eed524188709e452703',
-      uid: '',
-      data: {
-        c1: '',
-        c2: '',
-        c3: '',
-        c4: '',
-        c5: ''
-      },
-      selector: '',
-      callback: function(type, data){}
-    })
-    //window.yzf.close() 关闭1已打开的回话窗口
-</script>-->
-
-
-  <!--
-  <script>
-  ((window.gitter = {}).chat = {}).options = {
-    room: 'wiki/Lobby'
-  };
-  </script>
-  <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
-  <script src="//cdn.jsdelivr.net/npm/@markbattistella/docsify-sidebarfooter@4.0.0"></script>
-  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-  -->
-
-<!--
-<link rel="stylesheet" href="https://kmbk.zjkmkj.com/Public/xiabiao/xiabiao.css">
-<div class="progress" style="opacity: 0; width: 0%;"></div>
-<a class="s-xguide-down
- trans"
- href="javascript:void(0);"
- onclick="return
- false;"
- hidefocus=""></a>
- -->
 
 </body>
 </html>
