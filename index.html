@@ -9,10 +9,22 @@
   <link rel="stylesheet" href="vue.css">
   <link rel="stylesheet" href="//at.alicdn.com/t/font_539333_ah8wb2hv6yknvcxr.css">
   <style>
-    #customerServiceBtn {
+    #customerServiceContainer {
       position: fixed;
       bottom: 20px;
       right: 20px;
+    }
+
+    #customerServiceBackground {
+      width: 50px;
+      height: 50px;
+      background-color: #4BA5DC; /* 天蓝色 */
+      border-radius: 50%;
+      position: absolute;
+      z-index: -1; /* 将背景置于按钮下层 */
+    }
+
+    #customerServiceBtn {
       background: url('https://yzf.qq.com/xv/web/static/img/chat-btn.png') no-repeat;
       background-size: cover;
       width: 50px;
@@ -22,7 +34,8 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      filter: sepia(0.5) hue-rotate(190deg);
+      position: relative;
+      z-index: 1; /* 将按钮置于背景上层 */
     }
   </style>
 
@@ -34,8 +47,11 @@
   <div id="app"></div>
   <footer id="mb-footer"></footer>
 
+  <div id="customerServiceContainer">
+    <div id="customerServiceBackground"></div>
+    <a id="customerServiceBtn" href="https://work.weixin.qq.com/ca/cawcdefd4b421df61a" target="_blank"></a>
+  </div>
 
-  <a id="customerServiceBtn" href="https://work.weixin.qq.com/ca/cawcdefd4b421df61a" target="_blank"></a>
 
 <script>
     window.$docsify = {
