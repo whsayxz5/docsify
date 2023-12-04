@@ -30,7 +30,7 @@
 
   <div id="app"></div>
   <footer id="mb-footer"></footer>
-  
+
   <a id="customerServiceBtn" href="https://work.weixin.qq.com/ca/cawcdefd4b421df61a" target="_blank"></a>
 
   </div>
@@ -71,9 +71,31 @@
     //外链打开方式
     externalLinkTarget: '_blank',
 
-    }
+    formatUpdated: '{YYYY} 年 {MM} 月 {DD} 日', 
+    
+    plugins: [
+                function (hook, vm) {
+                       hook.beforeEach(function (html) { // 页眉
 
-</script>
+                      const header = [
+                      '<img src="https://img.shields.io/badge/updata-{docsify-updated}-brightgreen.svg" >',       
+         ].join("");
+                    return header + html;
+                });                 
+                                 
+                    hook.afterEach(function (html) { // 页脚
+                        const footer = [
+                        "<footer style='text-align: center;'>",
+                        '<span>Copyright © 2021-2024 <a href="https://github.com/rameosu/rameo" target="_blank">Rameo</a>. All rights reserved.',
+                        "</footer>",
+                    ].join("");
+                    return html + footer;
+                });
+              }
+           ]
+
+    }
+  </script>
 
 <!-- 搜索 -->
 <script src="js/search.js"></script>
