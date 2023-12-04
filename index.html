@@ -8,120 +8,67 @@
   <link rel="icon" href="favour.ico">
   <link rel="stylesheet" href="vue.css">
   <link rel="stylesheet" href="//at.alicdn.com/t/font_539333_ah8wb2hv6yknvcxr.css">
+  <style>
+    #customerServiceBtn {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #3498db;
+      color: #fff;
+      border: none;
+      border-radius: 50%;
+      width: 50px;
+      height: 50px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    #qrCodePopup {
+      display: none;
+      position: fixed;
+      bottom: 80px;
+      right: 80px;
+      width: 150px;
+      height: 150px;
+    }
+
+    #qrCodePopup img {
+      width: 100%;
+      height: 100%;
+      border-radius: 10px;
+    }
+  </style>
+  
 </head>
+
+
 <body>
 
   <div id="app"></div>
   <footer id="mb-footer"></footer>
 
-<div style="display: block;" class="customer-service" id='dianji'>
-	<style id="styleyzfh5-data-1627199310627">
-@media (max-height:600px),(max-width:1000px){
-	[yzfh5-data-1627199310627].main-contact{position:fixed;bottom:60px;right:15px;z-index:100000000000000000}
-	[yzfh5-data-1627199310627].main-contact .icon{display:block;width:30px;height:30px;background-image:url(https://yzf.qq.com/xv/web/static/img/chat-btn.png);background-size:100% 100%;vertical-align:-3px}
-	[yzfh5-data-1627199310627].main-contact .chat-btn{padding:10px;display:-webkit-box;display:-ms-flexbox;display:flex;font-size:12px;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;text-decoration:none;padding:5px 10px;border-radius:4px}
-	[yzfh5-data-1627199310627].main-contact .chat-btn .txt{display:block;margin-top:-2px}
-	[yzfh5-data-1627199310627].main-contact .dot{width:12px;height:12px;border-radius:50%;position:absolute;top:-6px;right:-6px;background:#ed4343;border:1px solid #fff;box-shadow:0 2px 4px 0 rgba(0,0,0,.5)}
-	[yzfh5-data-1627199310627].main-contact .state{display:none}}
-@media (min-height:600px) and (min-width:1000px){
-	[yzfh5-data-1627199310627].main-contact{position:fixed;bottom:60px;right:15px;z-index:100000000000000000}
-	[yzfh5-data-1627199310627].main-contact .icon{display:block;width:30px;height:30px;background-image:url(https://yzf.qq.com/xv/web/static/img/chat-btn.png);background-size:100% 100%;vertical-align:-3px}
-	[yzfh5-data-1627199310627].main-contact .chat-btn{padding:10px;display:-webkit-box;display:-ms-flexbox;display:flex;font-size:12px;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;text-decoration:none;padding:5px 10px;border-radius:4px}
-	[yzfh5-data-1627199310627].main-contact .chat-btn .txt{display:block;margin-top:-2px}
-	[yzfh5-data-1627199310627].main-contact .dot{width:12px;height:12px;border-radius:50%;position:absolute;top:-6px;right:-6px;background:#ed4343;border:1px solid #fff;box-shadow:0 2px 4px 0 rgba(0,0,0,.5)}
-	[yzfh5-data-1627199310627].main-contact .state{display:none}}
-[yzfh5-data-1627199310627] .chat-btn{display:inline-block;margin-bottom:0;font-weight:400;text-align:center;-ms-touch-action:manipulation;touch-action:manipulation;cursor:pointer;background-image:none;border:none;white-space:nowrap;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;min-width:50px;padding:7px 10px;font-size:15px;color:#fff;background-color:#4979ff;box-sizing:border-box;vertical-align:middle}
-@media (max-height:600px),(max-width:1000px){[yzfh5-data-1627199310627].main-chat{position:fixed;top:0;left:0;right:0;bottom:0;z-index:10000000000000000}[yzfh5-data-1627199310627].main-chat .main-iframe{width:100%;height:100%;position:fixed;top:0;bottom:0;left:0;right:0}}
-@media (min-height:600px) and (min-width:1000px){[yzfh5-data-1627199310627].main-chat{position:fixed;width:375px;max-height:667px;height:calc(100vh - 100px);right:50px;bottom:50px;background:#fafafb;box-shadow:0 2px 8px 0 rgba(0,0,0,.14);overflow:hidden}[yzfh5-data-1627199310627].main-chat .main-iframe{width:100%;height:100%}}
-</style>
+<button id="customerServiceBtn" onclick="openCustomerService()">客服</button>
 
-<div yzfh5-data-1627199310627="" id="yzfh5-main-contact-1627199310627" class="main-contact" style="display: block;width: 56px;">
-    <a href="javascript:;" id="yzfh5-chat-btn-1627199310627" class="chat-btn" style="background-color: rgb(9, 197, 247);">
-        <i class="icon" id="yzfh5-icon-1627199310627"></i>
-        <span class="txt">客服</span>
-    </a>
-
-</div>
-
-
-<div style="    position: fixed;bottom: 60px;right: 80px;z-index: 100000000000000000;">
-<i class="iconfont icon_service " ></i>
-        <div class="message" style="
-    right: 50px;
-    bottom: 0;
-    padding-right: 14px;
-    text-align: center;
-    display: none;
-    ">
-
-            <div class="message-warp" style="cursor: default;
-    box-sizing: border-box;
-    width: 310px;
-    max-height: 397px;
-    box-shadow: 0 4px 8px rgb(0 0 0 / 2%);
-    border: 1px solid #e9e9e9;
-    background: #ffffff;
-    border-radius: 6px;
-    padding: 28px 4px 24px;">
-                <h5 style="font-size: 18px;
-    color: #000000;
-    line-height: 24px;
-    margin: 0 0 3px;
-    font-weight: 600;">添加专属客服</h5>
-                <p style="margin: 0;
-    font-size: 14px;
-    line-height: 24px;
-    white-space: nowrap;
-    color: #8c8889;">一对一为您答疑解惑</p>
-              <div class="QRcode" style="background-image: url('/media/kf.jpg');width: 160px;
-    height: 160px;
-    margin: 14px auto 6px;
-    background-size: cover;
-    background-position: center;
-    background-color: #d8d8d8;"></div>
-              <p class="user" style="margin: 0;
-    font-size: 14px;
-    line-height: 24px;
-    white-space: nowrap;
-    color: #8c8889;">立即扫码添加我吧！</p>
-                <!--<div class="line"></div>-->
-                
-            </div>
-        </div>
+  <div id="qrCodePopup">
+    <img src="/media/kf.jpg" alt="QR Code">
   </div>
-</div>
 
-
-<script>
-  /**
-   * 客服挂件
-   */
-
-  var customerMessage = $('.message');
-  var $dianji = $('#dianji');
-
-
-  if (/(iPhone|iPad|iPod|iOS|Android)/i.test(navigator.userAgent)) {
-  	$dianji.click(function () {
-  		//customerMessage.show();
-	  	window.location.href="https://work.weixin.qq.com/ca/cawcdefd4b421df61a"; 
-	    //$('html ,body').animate({scrollTop: 0}, 300);
-	  });
-  } else {
-	  $dianji.mouseover(function () {
-  		customerMessage.show();
-	  	//window.location.href="https://work.weixin.qq.com/ca/cawcdefd4b421df61a"; 
-	    //$('html ,body').animate({scrollTop: 0}, 300);
-	  });
-	  $dianji.mouseout(function () {
-  		customerMessage.hide();
-	  	//window.location.href="https://work.weixin.qq.com/ca/cawcdefd4b421df61a"; 
-	    //$('html ,body').animate({scrollTop: 0}, 300);
-	  });
-	  
-  }
-</script>
-
+  <script>
+    function openCustomerService() {
+      var isMobile = window.innerWidth <= 768; // Adjust the breakpoint as needed
+      if (isMobile) {
+        window.location.href = "https://work.weixin.qq.com/ca/cawcdefd4b421df61a";
+      } else {
+        var qrCodePopup = document.getElementById("qrCodePopup");
+        qrCodePopup.style.display = "block";
+        setTimeout(function() {
+          qrCodePopup.style.display = "none";
+        }, 5000); // Adjust the display duration of the QR code as needed
+      }
+    }
+  </script>
 
 
 <script>
