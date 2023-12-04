@@ -9,35 +9,13 @@
   <link rel="stylesheet" href="vue.css">
   <link rel="stylesheet" href="//at.alicdn.com/t/font_539333_ah8wb2hv6yknvcxr.css">
   <style>
-    #customerServiceBtn {
+    /* Add custom styles for the floating button */
+    #floating-btn {
       position: fixed;
       bottom: 20px;
       right: 20px;
-      background-color: #3498db;
-      color: #fff;
-      border: none;
-      border-radius: 50%;
-      width: 50px;
-      height: 50px;
       cursor: pointer;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    #qrCodePopup {
-      display: none;
-      position: fixed;
-      bottom: 80px;
-      right: 80px;
-      width: 150px;
-      height: 150px;
-    }
-
-    #qrCodePopup img {
-      width: 100%;
-      height: 100%;
-      border-radius: 10px;
+      z-index: 1000;
     }
   </style>
   
@@ -49,27 +27,10 @@
   <div id="app"></div>
   <footer id="mb-footer"></footer>
 
-<button id="customerServiceBtn" onclick="openCustomerService()">客服</button>
-
-  <div id="qrCodePopup">
-    <img src="/media/kf.jpg" alt="QR Code">
-  </div>
-
-  <script>
-    function openCustomerService() {
-      var isMobile = window.innerWidth <= 768; // Adjust the breakpoint as needed
-      if (isMobile) {
-        window.location.href = "https://work.weixin.qq.com/ca/cawcdefd4b421df61a";
-      } else {
-        var qrCodePopup = document.getElementById("qrCodePopup");
-        qrCodePopup.style.display = "block";
-        setTimeout(function() {
-          qrCodePopup.style.display = "none";
-        }, 5000); // Adjust the display duration of the QR code as needed
-      }
-    }
-  </script>
-
+<!-- Add floating button HTML -->
+  <a id="floating-btn" href="https://work.weixin.qq.com/ca/cawcdefd4b421df61a" target="_blank">
+    <img src="https://yzf.qq.com/xv/web/static/img/chat-btn.png" alt="Chat Button">
+  </a>
 
 <script>
     window.$docsify = {
