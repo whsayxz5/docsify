@@ -72,27 +72,26 @@
     externalLinkTarget: '_blank',
 
     formatUpdated: '{YYYY} 年 {MM} 月 {DD} 日', 
-    
     plugins: [
                 function (hook, vm) {
                        hook.beforeEach(function (html) { // 页眉
 
-                      return '\n\n<h1></h1>'
+                       return '\n\n<h1></h1>'
               + '<img src="https://img.shields.io/badge/更新于-{docsify-updated}-brightgreen.svg" >'
               + '\n\n'
               + '<h1></h1>'
               + '\n\n'
               + html
-                });                 
+                        })                 
                                  
-                    hook.afterEach(function (html) { // 页脚
+                       hook.afterEach(function (html) { // 页脚
                         const footer = [
                         "<footer style='text-align: center;'>",
                         '<span>Copyright © 2021-2024 <a href="https://github.com/rameosu/rameo" target="_blank">Rameo</a>. All rights reserved.',
                         "</footer>",
                     ].join("");
                     return html + footer;
-                });
+                })
               }
            ]
 
