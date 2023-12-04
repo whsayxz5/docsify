@@ -77,10 +77,12 @@
                 function (hook, vm) {
                        hook.beforeEach(function (html) { // 页眉
 
-                      const header = [
-                      '<img src="https://img.shields.io/badge/updata-{docsify-updated}-brightgreen.svg" >',       
-         ].join("");
-                    return header + html;
+                      return '\n\n<h1></h1>'
+              + '<img src="https://img.shields.io/badge/更新于-{docsify-updated}-brightgreen.svg" >'
+              + '\n\n'
+              + '<h1></h1>'
+              + '\n\n'
+              + html
                 });                 
                                  
                     hook.afterEach(function (html) { // 页脚
