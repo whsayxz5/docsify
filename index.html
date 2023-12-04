@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8">
   <title>羊毛百科</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="icon" href="favour.ico">
+  <meta charset="UTF-8">
   <link rel="stylesheet" href="vue.css">
   <link rel="stylesheet" href="//at.alicdn.com/t/font_539333_ah8wb2hv6yknvcxr.css">
   <style>
@@ -13,7 +13,7 @@
       position: fixed;
       bottom: 20px;
       right: 20px;
-      background: url('media/kf.png') no-repeat;
+      background: url('media/202312041931681.png') no-repeat;
       background-size: cover;
       width: 50px;
       height: 50px;
@@ -25,58 +25,55 @@
     }
   </style>
 
+</head>
 
 <body>
-
   <div id="app"></div>
   <footer id="mb-footer"></footer>
-
   <a id="customerServiceBtn" href="https://work.weixin.qq.com/ca/cawcdefd4b421df61a" target="_blank"></a>
 
-  </div>
-
-
-<script>
+  <script>
     window.$docsify = {
       //logo: '/media/logo.ico',
       themeColor: '#00A8E1',
       name: '羊毛百科',
       loadNavbar: true,
       loadSidebar: true,
-    //coverpage: true,
-    // subMaxLevel: 2表示只显示h1~h2的标题，对应#和##
-    subMaxLevel: 4,
-    // 小屏设备下合并导航栏到侧边栏
-    mergeNavbar: true,
-    maxLevel: 3,
-    // 加载 summary.md
-    loadSidebar: '_sidebar.md',
-    alias: {
-      '/.*/_sidebar.md': '/_sidebar.md'
-    },
-    auto2top: true,//切换页面后是否自动跳转到页面顶部
-    search: 'auto',
+      //coverpage: true,
+      subMaxLevel: 2,
+      auto2top: true,
+	    maxLevel: 3,
+      notFoundPage: true,
+      //repo: 'https://wiki.zjkm.xyz',
+
+      //alias: {
+      //  '/.*/_sidebar.md': '/_sidebar.md'
+      //},
+    
+      auto2top: true,//切换页面后是否自动跳转到页面顶部
+    
+      search: 'auto',
     //全文搜索
     search: {
       maxAge: 86400000,
       paths: '/',
       placeholder: '搜索...',
-      noData: '未找到结果，换个搜索词试试？',
+      noData: '未找到结果',
     },
-    copyCode: {
+    
+      copyCode: {
       buttonText : '复制',
       errorText  : '复制失败',
       successText: '已复制'
-    },
-    //外链打开方式
-    externalLinkTarget: '_blank',
-
-    formatUpdated: '{YYYY} 年 {MM} 月 {DD} 日', 
+      },
+      formatUpdated: '{YYYY} 年 {MM} 月 {DD} 日', 
       plugins: [
         function (hook, vm) {
           //afterEach beforeEach
           hook.beforeEach(function (html) {
-
+            //var url = 'https://ymbk-1256172758.cos.ap-shanghai.myqcloud.com/start/' + vm.route.file
+            //var editHtml = '[:memo: Edit Document](' + url + ')\n'
+  
            return '\n\n<h1></h1>'
               + '<img src="https://img.shields.io/badge/更新于-{docsify-updated}-brightgreen.svg" >'
               + '\n\n'
@@ -84,7 +81,7 @@
               + '\n\n'
               + html
           })
-    
+
           hook.afterEach(function (html) {
            return  html+ '<hr/>'+ '<footer>Copyright © 2023 卡盟百科</footer>'
           })
@@ -109,9 +106,6 @@
 <script src="js/emoji.min.js"></script>
 <!-- 水印 -->
 <script src="js/watermark.js"></script>  
-
-
-
 
 <!--下面打水印-->
 <script>
@@ -139,7 +133,7 @@ watermark.load({ watermark_txt: "浙江卡盟" , watermark_alpha: 0.08,watermark
 </script>
 
 
-
+<!--
 <link rel="stylesheet" href="https://kmbk.zjkmkj.com/Public/xiabiao/xiabiao.css">
 <div class="progress" style="opacity: 0; width: 0%;"></div>
 <a class="s-xguide-down
@@ -148,8 +142,7 @@ watermark.load({ watermark_txt: "浙江卡盟" , watermark_alpha: 0.08,watermark
  onclick="return
  false;"
  hidefocus=""></a>
-
-
+ -->
 
 </body>
 </html>

@@ -40,8 +40,8 @@ a.floating_a:hover {width: 105px;background: #ff3a3b;color:#fff; text-decoration
 .floating_shop .floating_ree .iconfont{ font-size:25px;}
 .floating_goin .floating_ree{ line-height:58px;}
 .floating_shop .floating_ree .floating_sp{font-size:25px;}
-.floating_shop .floating_ree .floating_bak{ background:url(https://wiki.zjkmkj.com/media/bg_mini.png); width:20px; height:24px; text-align:center; position:absolute; top:2px; color:#fff; font-size:12px; left:11px; line-height:20px;}
-.floating_shop .floating_ree .floating_bac{ background:url(https://wiki.zjkmkj.com/media/bg_mini.png); width:20px; height:24px; text-align:center; position:absolute; top:2px; color:#fff; font-size:12px; left:22px; line-height:20px;}
+.floating_shop .floating_ree .floating_bak{ background:url(../media/bg_mini.png); width:20px; height:24px; text-align:center; position:absolute; top:2px; color:#fff; font-size:12px; left:11px; line-height:20px;}
+.floating_shop .floating_ree .floating_bac{ background:url(../media/bg_mini.png); width:20px; height:24px; text-align:center; position:absolute; top:2px; color:#fff; font-size:12px; left:22px; line-height:20px;}
 .left_floating ul li a{display:block;background: #6a6a6c;}
 .left_floating ul li a:hover{background: #333;}
 

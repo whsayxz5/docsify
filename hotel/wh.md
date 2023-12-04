@@ -67,7 +67,7 @@
 
 **三、在线账号激活**
 
-1.登录[:link: 万豪官网](www.marriott.com)，点右上角` Sign In or Join`，在弹出的界面里点`Create online account`，在左边需要完善的`Membership Information`里，`Member Number`填上上面的飞猪给你的会员号，其他信息按实际来，
+1.登录[:link: 万豪官网](https://www.marriott.com)，点右上角` Sign In or Join`，在弹出的界面里点`Create online account`，在左边需要完善的`Membership Information`里，`Member Number`填上上面的飞猪给你的会员号，其他信息按实际来，
 
 2.Country/Region填CHINA，Zip/Postal code不用填，然后点continue
 
