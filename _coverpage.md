@@ -1,14 +1,12 @@
----
-date: ''
-title: ''
-updated: 2023-12-3T23:11:15.331+8:0
----
-# 羊毛百科 **2023**
+<img src="media/logo.png" alt="logo" style="zoom: 15%;" />
 
-> **一个神奇的网站。**
+# 羊毛百科 <small>2023</small>
 
-* **简单、轻便 (压缩后 \~21kB)**
-* **无需生成 html 文件**
-* **众多主题**
+> 一个神奇的网站。
 
-[进入商城](http://kmshop.zjkmkj.com/) [进入百科](./)
+- 简单、轻便 (压缩后 ~21kB)
+- 无需生成 html 文件
+- 众多主题
+
+[进入商城](http://kmshop.zjkmkj.com/)
+[进入百科](./)
