@@ -8,23 +8,11 @@
   <link rel="icon" href="favour.ico">
   <link rel="stylesheet" href="vue.css">
   <link rel="stylesheet" href="//at.alicdn.com/t/font_539333_ah8wb2hv6yknvcxr.css">
-  <style>
-    #customerServiceContainer {
+<style>
+    #customerServiceBtn {
       position: fixed;
       bottom: 20px;
       right: 20px;
-    }
-
-    #customerServiceBackground {
-      width: 60px; /* 大一点点 */
-      height: 60px; /* 大一点点 */
-      background-color: #1496DA; /* 天蓝色 */
-      border-radius: 4px; /* 圆角矩形 */
-      position: absolute;
-      z-index: -1; /* 将背景置于按钮下层 */
-    }
-
-    #customerServiceBtn {
       background: url('https://yzf.qq.com/xv/web/static/img/chat-btn.png') no-repeat;
       background-size: cover;
       width: 50px;
@@ -35,11 +23,19 @@
       align-items: center;
       justify-content: center;
       position: relative;
-      z-index: 1; /* 将按钮置于背景上层 */
+      z-index: 2;
+    }
+
+    #customerServiceBtn::before {
+      content: "";
+      position: absolute;
+      width: 70px; /* 背景直径大一点 */
+      height: 70px; /* 背景直径大一点 */
+      background-color: #1496DA; /* 背景颜色 */
+      border-radius: 50%; /* 圆形背景 */
+      z-index: 1; /* 确保在客服按钮下层 */
     }
   </style>
-
-</head>
 
 
 <body>
