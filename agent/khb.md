@@ -12,7 +12,7 @@
 
 [<img src="https://wiki.zjkmkj.com/media/202307051704076.png" style="zoom:50%;" />](http://khb.lzfdata.com/khbzy/#/pages/login/reg_code?pretel=18969764555&pretypeid=3)
 
-##### 二、下载 APP`快付宝-展业版`
+##### 二、下载 APP`快付宝-展业端`
 
 [点此下载](http://khb.lzfdata.com/khbzy/#/pages/user/down)
 

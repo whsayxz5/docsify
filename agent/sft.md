@@ -10,7 +10,7 @@
 
 **一、提交代理申请**
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://jinshuju.net/f/LEus0w)
+[👉 点我联系羊毛哥注册](http://u.zjkmkj.com/unVf1  )
 
 **二、快速自助下单**
 

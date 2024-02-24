@@ -18,11 +18,9 @@
 
 ##### 三、升级方案`积分`
 
-**全行有分：**[合利宝](tool/hlb.md)/[易收钱](tool/ysq.md)/[米易收](tool/mys.md)
+**全行有分：**[合利宝](tool/hlb.md)/[付惠码](tool/fhm.md)
 
-**精准时间表：**[合利宝](tool/hlb.md)
-
-**精准固定商户：**[易收钱](tool/ysq.md)/[米易收](tool/mys.md)/[拉卡拉](tool/lkl.md)
+**精准固定商户：**[付惠码](tool/fhm.md)/[拉卡拉](tool/lkl.md)
 
 >  如有任何问题，欢迎随时咨询我司客服
 
@@ -43,9 +41,9 @@
 
 ##### 一、快速下单
 
-[<img src="https://wiki.zjkmkj.com/media/202210242313695.png" alt="1569425353473233.png" style="zoom:33%;" />](https://kmshop.zjkmkj.com/pages/goods_details/index?id=34)
+[<img src="https://wiki.zjkmkj.com/media/202312181637185.png" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
 
-> 新用户建议使用[合利宝](tool/hlb.md)，联动建议老机器用户切换，上面下单可直达[杉付宝](
+> 新用户建议使用[合利宝](tool/hlb.md)
 
 > 达标退款：进入[:link: 我的订单](http://kmshop.zjkmkj.com/pages/users/order_list/index)，点击退款，选择已达标即可
 

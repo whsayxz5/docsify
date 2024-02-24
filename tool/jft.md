@@ -10,9 +10,9 @@
 
 # 金飞天购买
 
-##### 一、快速下单
+##### 一、已淘汰，请升级
 
-[<img src="https://wiki.zjkmkj.com/media/202208211422837.png" alt="1569425353473233.png" style="zoom:33%;" />](https://kmshop.zjkmkj.com/pages/goods_details/index?id=36)
+[<img src="https://wiki.zjkmkj.com/media/202312181647730.png" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
 
 > 达标退款：进入[:link: 我的订单](http://kmshop.zjkmkj.com/pages/users/order_list/index)，点击退款，选择已达标即可
 

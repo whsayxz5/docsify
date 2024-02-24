@@ -152,6 +152,8 @@
 
 <img src=../media/1611035370101456.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/20/gravity/northeast/dx/20/dy/20/batch/1/degree/45 width=400 style="zoom:67%;" />
 
+
+
 **一、年费标准**
 
 2000元/年，消费20万免次年年费

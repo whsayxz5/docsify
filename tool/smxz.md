@@ -12,51 +12,47 @@
 
 ##### 一、风控提醒
 
-支付宝/微信目前全面严控，与机器/用户/玩法都无关，不存在无风控随便刷的路子。
+支付宝全面严控，微信通过率较高，与机器/用户/玩法都无关，过不过完全随缘。以下方法可适当提高成功率：
 
-以下方法可适当提高成功率：
+1、多码牌/多账户轮流刷，可减少风控
 
-1、多码牌、多支付宝账户轮流刷，可解决部分风控问题
-
-2、切忌小额多笔，尽量一次大额过，减少信用卡交易次数
+2、切忌小额多笔频繁刷，尽量大额单笔，减少交易次数
 
 ##### 二、使用建议
 
-扫码不适合作为常规交易渠道，建议优先考虑刷卡/银联扫码
+扫码限制较多，建议作为辅助，优先考虑刷卡
 
-👉[合利宝](https://wiki.zjkmkj.com/#/tool/hlb)（推荐，自营长期不涨价）
+👉[合利宝](https://wiki.zjkmkj.com/#/tool/hlb)（支持自定义行业，笔笔有分）
 
-👉[钱小宝](https://wiki.zjkmkj.com/#/tool/qxb)（ 0.35%pay，可固定 mcc）
+👉[安心付](https://wiki.zjkmkj.com/#/tool/axf)（支持自定义行业，笔笔有分）
 
-👉[恒信通](https://wiki.zjkmkj.com/#/tool/hxt)（ 0.3%pay，全行有分）
+👉[云付宝](https://wiki.zjkmkj.com/#/tool/yfb)（支持自定义行业，笔笔有分）
 
-👉[盛刷](https://wiki.zjkmkj.com/#/tool/ss)（蓝牙无需流量，全行有分）
+👉[恒信通](https://wiki.zjkmkj.com/#/tool/hxt)（支持自定义行业，笔笔有分）
+
+👉[钱小宝](https://wiki.zjkmkj.com/#/tool/qxb)（支持自定义行业，笔笔有分）
 
 ------
 
 # 扫码神器
 
-##### 一、功能对比
+##### 一、功能一览
 
-[聚收银](tool/jys.md)`（免费注册，单笔2万）`
+![image-20240129232802385](https://wiki.zjkmkj.com/media/202401292328417.png)
 
-[拉卡拉](tool/lkl.md)`（免费注册，单笔5万）`
+##### 二、微信/支付宝
 
-[米易收](tool/mys.md)/[易收钱](tool/ysq.md)/[有钱收](tool/yqs.md)/[易收钱](易碰碰/ypp.md)`（免费注册，单笔1千）`
+👉[付惠码](tool/fhm.md)`（免费注册，单笔1万）`
 
-![28411700055107_.pic](https://wiki.zjkmkj.com/media/202311152133137.png)
+👉[易收钱](tool/ysq.md)`（免费注册，单笔1万）`
 
-**二、主要区别**`（无实际意义）`
+👉[拉卡拉](tool/lkl.md)`（免费注册，单笔5万）`
 
-**扫码：**[聚收银](tool/jsy.md)、[拉卡拉](tool/lkl.md)
+##### 三、银联快捷/云闪付
 
-**机器：**[合利宝/收盈通](tool/hlb.md)、[钱小宝](tool/qxb.md)、[恒信通](tool/hxt.md)
+👉[聚收银](tool/jys.md)`（免费注册，单笔2万）`
 
-**三、羊毛哥建议**
-
-**必备：**[聚收银](tool/jsy.md)、[拉卡拉](tool/lkl.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)
-
-**可选：**[钱小宝](tool/qxb.md)、[恒信通](tool/hxt.md)、[申鑫](tool/sx.md)
+👉[享云付](tool/ldxyf.md)`（免费注册，单笔2万）`
 
 ------
 

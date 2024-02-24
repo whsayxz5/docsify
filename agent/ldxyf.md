@@ -12,13 +12,15 @@
 
 ##### 一、加入代理（立即开通）
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://igl.umpay.com/Invite/register?refid=2923)
+[<img src="../media/apply.png" style="zoom:50%;" />](https://igl.tyfpay.com.cn/static/xyf/register/index.html?popularizeCode=b6b&name=浙江卡盟)
+
+> 注册年龄18周岁到60周岁
 
 ##### 二、下载并实名认证
 
 下载`享云付展业版APP`-我的，按照提示完成实名认证
 
-> APP： [点此下载]([:link: 点我下载](https://igl.umpay.com/distribute?key=zyxt))
+> APP： [点此下载](https://igl.tyfpay.com.cn/static/xyf/agent/index.html?wework_cfm_code=NB%2FrO2xgu2W%2BMzouFcZMbfNbYxfjUr%2F%2BhHP04GQ9SgHAnxIsfYAuV83kTgch17oXz6wkiInH%2BslThs0mHbRGzCaV5yJzJF5NQQJ9JEUNWgo64kqlHpS%2FUiQ%3D)
 >
 > PC后台网址：[点此访问](https://izy.umpay.com)
 
@@ -32,17 +34,17 @@
 
 ##### 四、推广用户/推广代理
 
-**邀请用户：**按照第六步入网、绑定码牌SN即可使用（用户归属由码牌归属决定）
+**邀请用户：**按照[👉用户教程](tool/ldxyf.md)入网、绑定码牌SN即可使用`（用户归属由码牌归属决定）`
 
 **邀请下级代理：**享云付展业版APP-首页-拓展代理，发给下级代理注册
 
 ##### 五、操作说明
 
-**码牌绑定、客户入网等流程：**[点我直达](tool/ldxyf.md)
+[👉点我直达](tool/ldxyf.md)
 
-**六、费率修改**
+##### **六、费率修改**
 
-APP首页-商户管理-修改费率-确认设置
+代理APP-商户管理-找到直属商户-结算费率修改查看
 
 ------
 

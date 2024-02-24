@@ -9,9 +9,9 @@
 
 # 金小宝购买
 
-##### 一、已升级为金飞天
+##### 一、已淘汰，请升级
 
-[<img src="https://wiki.zjkmkj.com/media/202208211424959.png" alt="1569425353473233.png" style="zoom:33%;" />](https://kmshop.zjkmkj.com/pages/goods_details/index?id=36)
+[<img src="https://wiki.zjkmkj.com/media/202312181643249.png" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
 
 > 达标退款：进入[:link: 我的订单](http://kmshop.zjkmkj.com/pages/users/order_list/index)，点击退款，选择已达标即可
 

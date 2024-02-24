@@ -20,7 +20,7 @@
 
 **刷卡`优先`：**[合利宝](tool/hlb.md)/[钱小宝](tool/qxb.md)
 
-**扫码`辅助`：**[米易收](tool/mys.md)/[易收钱](tool/ysq.md)/[拉卡拉](tool/lkl.md)
+**扫码`辅助`：**[付惠码](tool/fhm.md)/[拉卡拉](tool/lkl.md)/[聚收银](tool/jsy.md)
 
 
 

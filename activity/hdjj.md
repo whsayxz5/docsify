@@ -25,7 +25,7 @@
 
 活动原文：[点我直达](#activity/zhdb)
 
-神器：[米易收](tool/mys.md)、[易收钱](tool/ysq.md)等
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)等
 
 ##### （二）白金卡达标会员
 
@@ -55,7 +55,7 @@
 
 活动路径：中国银行APP首页搜“冬奥主题信用卡”-快捷支付5倍积分(二期)
 
-活动神器：[米易收](tool/mys.md)、[易收钱](tool/ysq.md)
+活动神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)
 
 **（五）青春卡5倍积分**
 
@@ -65,7 +65,7 @@
 
 活动路径：持长城无界青春卡Plus版的持卡人使用该卡绑定并通过支付渠道
 
-活动神器：[米易收](tool/mys.md)、[易收钱](tool/ysq.md)等
+活动神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)
 
 **（六）车卡返现**
 
@@ -133,7 +133,7 @@
 
 领取路径：农行掌银APP-信用卡-浓情相伴
 
-神器：[米易收](tool/mys.md)、[易收钱](tool/ysq.md)等
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)等
 
 **（五）小米/携程/地铁/加油站**
 
@@ -177,7 +177,7 @@
 
 活动途径：建设积分商城首页-入口广告、[PC端入口](http://jf.ccb.com/exchangecenter/search/product.jhtml?keyword=%E6%9C%89%E7%A4%BC&scoreRegion=%E7%A7%AF%E5%88%86%E8%8C%83%E5%9B%B4&exchangeChannel=net)
 
-神器：[碰碰通](tool/ppt.md)等
+神器：[钱小宝](tool/qxb.md)等
 
 **（二）星级用户多倍积分**
 
@@ -185,7 +185,7 @@
 
 活动姿势：[点我查看](activity/jhlzf)
 
-神器：[碰碰通](tool/ppt.md)
+神器：[钱小宝](tool/qxb.md)
 
 **（三）火车票满减**
 
@@ -314,7 +314,7 @@
 
 活动途径：浦大喜奔APP-搜索“高端卡权益”
 
-神器：[米易收](tool/mys.md)、[易收钱](tool/ysq.md)
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)
 
 -----
 
@@ -332,7 +332,7 @@
 
 领取路径：每日消费后，在掌上生活-发现-账户管家-点击刚才的消费记录领取
 
-神器：首选支付宝[米易收](tool/mys.md)、[易收钱](tool/ysq.md)等
+神器：首选支付宝[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)tool/ysq.md)等
 
 **（二）消费1.5倍积分**
 
@@ -340,7 +340,7 @@
 
 活动时间：无时限
 
-神器：首选支付宝[米易收](tool/mys.md)、[易收钱](tool/ysq.md)等
+神器：首选支付宝[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)等
 
 **（三）微信领积分**
 
@@ -350,7 +350,7 @@
 
 领取路径：招行掌上生活-首页右上角客服图标 我的客服-输入“微信支付积分”-点击微信支付领积分
 
-神器：首选支付宝[米易收](tool/mys.md)、[易收钱](tool/ysq.md)tool/yqs.md)等
+神器：首选支付宝[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)等
 
 **（四）星巴克权益**
 
@@ -382,7 +382,7 @@
 
 活动原文：[点我直达](http://card.cgbchina.com.cn/Info/21279409)
 
-神器：[碰碰通](tool/ppt.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)等
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)等
 
 **（二）指定卡3倍积分**
 
@@ -394,7 +394,7 @@
 
 活动原文：[点我直达](http://card.cgbchina.com.cn/subsite/201904/22818532/db.html)
 
-神器：[碰碰通](tool/ppt.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)等
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)等
 
 **（三）超级刷刷刷**
 
@@ -411,7 +411,7 @@
 
 领取路径：发现精彩APP-超级刷刷刷
 
-神器：[碰碰通](tool/ppt.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)
 
 **（四）周五加油5折起**
 
@@ -487,7 +487,7 @@
 
 领取路径：每月账单日自动以刷卡金形式到账
 
-神器：[钱小宝](tool/qxb.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)
 
 **（二）8.8洗车**
 
@@ -528,7 +528,7 @@
 
 参与路径：平安口袋银行APP-搜索“月月狂欢8”
 
-神器：[钱小宝](tool/qxb.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)等
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)
 
 **（五）天天88**
 
@@ -646,7 +646,7 @@
 
 活动原文：[点我直达](http://www.bankofbeijing.com.cn/creditcard/pages/cards/houcard.html)
 
-神器：[碰碰通](tool/ppt.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)等
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)
 
 **（三）手银活动**
 
@@ -735,7 +735,7 @@
 
 领取路径：自动到账
 
-神器：[米易收](tool/mys.md)、[易收钱](tool/ysq.md)
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)
 
 **（二）各种权益卡**
 
@@ -759,7 +759,7 @@
 
 领取路径：汇丰权益平台-荟赏 掌中世界-兑换领取
 
-神器：[米易收](tool/mys.md)、[易收钱](tool/ysq.md)
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)
 
 ------
 
@@ -773,7 +773,7 @@
 
 活动路径：点击微信消费提醒开红包
 
-神器：[米易收](tool/mys.md)、[易收钱](tool/ysq.md)tool/yqs.md)
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)
 
 ------
 
@@ -789,7 +789,7 @@
 
 活动路径：好兴动APP-活力6积分（我的-我的活动）
 
-神器：[合利宝](tool/hlb.md)、[恒信通](tool/hxt.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)等
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)
 
 **（二）银联尊享**
 
@@ -801,7 +801,7 @@
 
 参与频率：每月
 
-神器：[合利宝](tool/hlb.md)、[恒信通](tool/hxt.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)等
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)
 
 **（三）快捷尊享**
 
@@ -811,7 +811,7 @@
 
 活动路径：好兴动APP-我的-我的活动-奖赏金计划
 
-神器：[合利宝](tool/hlb.md)、[恒信通](tool/hxt.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)等
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)
 
 ------
 
@@ -859,7 +859,7 @@
 
 活动途径：动卡空间APP-首页滚动广告-刷享冬日、温暖回馈
 
-神器：[合利宝](tool/hlb.md)、[恒信通](tool/hxt.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)等
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)
 
 **（六）30元立减金**
 
@@ -893,7 +893,7 @@
 
 参与频率：每月1次
 
-神器：[合利宝](tool/hlb.md)、[恒信通](tool/hxt.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)等
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)
 
 **（二）携程**
 
@@ -945,7 +945,7 @@
 
 活动途径：阳光惠生活APP-搜索“多倍积分”
 
-神器：[碰碰通](tool/ppt.md)、[易碰碰](tool/ypp.md)、[有钱收](tool/yqs.md)等
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)
 
 **（九）扫码付**
 
@@ -959,7 +959,7 @@
 
 活动路径：阳光惠生活APP，扫码付消费（被扫）
 
-神器：[碰碰通](tool/ppt.md)、[易碰碰](tool/ypp.md)、[有钱收](tool/yqs.md)等
+神器：[付惠码](tool/fhm.md)、[拉卡拉](tool/lkl.md)
 
 ------
 
@@ -1062,8 +1062,6 @@
 活动时间：即日起-2023年7月30日（之前刷满的可以先兑换）
 
 活动途径：无需报名
-
-神器：[碰碰通](tool/ppt.md)
 
 **（二）各类优惠券**
 

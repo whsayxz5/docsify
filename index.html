@@ -30,7 +30,7 @@
 <body>
   <div id="app"></div>
   <footer id="mb-footer"></footer>
-  <a id="customerServiceBtn" href="https://work.weixin.qq.com/ca/cawcdefd4b421df61a" target="_blank"></a>
+  <a id="customerServiceBtn" href="https://work.weixin.qq.com/kfid/kfcac09967c65c52a12" target="_blank"></a>
 
   <script>
     window.$docsify = {
@@ -73,7 +73,7 @@
           hook.beforeEach(function (html) {
             //var url = 'https://ymbk-1256172758.cos.ap-shanghai.myqcloud.com/start/' + vm.route.file
             //var editHtml = '[:memo: Edit Document](' + url + ')\n'
-  
+      
            return '\n\n<h1></h1>'
               + '<img src="https://img.shields.io/badge/更新于-{docsify-updated}-brightgreen.svg" >'
               + '\n\n'
@@ -81,9 +81,9 @@
               + '\n\n'
               + html
           })
-
+    
           hook.afterEach(function (html) {
-           return  html+ '<hr/>'+ '<footer>Copyright © 2023 卡盟百科</footer>'
+           return  html+ '\n\n' + '<footer>© 2023 卡盟百科 | <a href="https://beian.miit.gov.cn/" target="_blank" >浙ICP备18012494号</a> </footer>'
           })
         }
       ]

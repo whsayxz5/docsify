@@ -145,11 +145,11 @@
 
 [境内接送机](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_01_06.shtml#Menu=ChildMenu1)：`8次`免费境内接送机、`4次`100元/次境外接送机
 
-[亲子乐园](https://ccc.spdb.com.cn/miniSite/Platamex2018/new21.shtml#Menu=ChildMenu2)：消费达标最多赠送`12`点，`羊毛哥高价回收`
+[亲子乐园](https://ccc.spdb.com.cn/miniSite/Platamex2018/new21.shtml#Menu=ChildMenu2)：消费达标最多赠送`6`点，`羊毛哥高价回收`
 
 [缤纷文旅](https://ccc.spdb.com.cn/miniSite/Platamex2018/new211.shtml#Menu=ChildMenu2)：持卡年限达标+消费达标最多赠送6点
 
-[文化馆](https://ccc.spdb.com.cn/miniSite/Platamex2018/new211.shtml#Menu=ChildMenu2)：消费达标最多赠送24点
+[文化馆](https://ccc.spdb.com.cn/miniSite/Platamex2018/new211.shtml#Menu=ChildMenu2)：消费达标最多赠送`12`点
 
 [酒店住宿](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_01_031.shtml#Menu=ChildMenu1)：免费入住`4晚`“星级酒店”权益或者`2晚`“高价酒店”入住权益
 
@@ -161,7 +161,7 @@
 
 [意外及旅行保险：](https://ccc.spdb.com.cn/miniSite/Platamex2018/4_0.shtml#Menu=ChildMenu1)延误`4小时`起赔付`600元/4小时`
 
-![11711688114681_.pic](https://wiki.zjkmkj.com/media/202306301645898.jpg)
+![33001706883087_.pic](https://wiki.zjkmkj.com/media/202402022216854.png)
 
 **（四）简单玩法**
 
@@ -174,8 +174,6 @@
 ------
 
 # 美运白金卡
-
-<img src=../media/1553475768cs.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/15/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 />
 
 **（一）年费标准**
 
@@ -213,7 +211,7 @@
 
 [意外及旅行保险：](https://ccc.spdb.com.cn/miniSite/Platamex2018/4_0.shtml#Menu=ChildMenu1)延误`4小时`起赔付`600元/4小时`
 
-![11701688114670_.pic](https://wiki.zjkmkj.com/media/202306301645825.jpg)
+![32991706883080_.pic](https://wiki.zjkmkj.com/media/202402022215249.png)
 
 **（五）主要玩法**
 

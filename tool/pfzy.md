@@ -21,27 +21,9 @@
 
 
 
-##### 二、建议神器
+##### 二、操作姿势
 
-**刷卡`优先`：**[合利宝](tool/hlb.md)`优先`，其次[恒信通](tool/hxt.md)/[申鑫](tool/sx.md)/[盛刷](tool/ss.md)
+👉**刷卡：**[合利宝](tool/hlb.md)/[安心付](tool/axf.md)/[恒信通](tool/hxt.md)/[云付宝](tool/yfb.md)，小额测试（[:link: 点此查询](https://www.zjkmkj.com/Weixin/index)）有分直接大额
 
-**扫码`辅助`：**[易收钱](tool/ysq.md)/[米易收](tool/mys.md)/[拉卡拉](tool/lkl.md)
-
-
-
-##### 三、操作姿势
-
-**（一）刷卡`优先`**
-
-**合利宝：**支持指定行业指定商户，建议酒店/餐饮，直接大额
-
-**其他机器：**小额测试商户，查询（[:link: 点此查询](https://www.zjkmkj.com/Weixin/index)）有分再刷大额
-
-
-
-**（二）扫码`辅助`**
-
-**玩法：**支付宝/微信100%有分，直接扫码即可
-
-**缺点：**风控非常严格，能不能过随缘
+👉**微信支付宝：**[付惠码](tool/fhm.md)/[易收钱](tool/ysq.md)/[拉卡拉](tool/lkl.md)，直接刷
 

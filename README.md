@@ -48,7 +48,7 @@
 >
 > **口碑：**无忧服务，业内口碑最佳
 
-<img src="https://wiki.zjkmkj.com/media/45.jpeg" width=400 />
+<img src="https://wiki.zjkmkj.com/media/45.jpeg" width=400 style="zoom: 67%;" />
 
 
 
@@ -58,10 +58,10 @@
 
 # 联系与支持
 
-**一、联系客服，自动拉群，7/24小时无间断服务**
+##### 一、联系客服，7/24小时无间断服务
 
-<img src="https://wiki.zjkmkj.com/media/202304041352797.png" alt="新客服微信" style="zoom: 25%;" />
+<img src="https://wiki.zjkmkj.com/media/202312172341408.png" alt="image-20231217234154296" style="zoom: 50%;" />
 
-**二、关注公众号，新鲜羊毛每日推送**
+##### 二、关注公众号，新鲜羊毛每日推送
 
-<img src="https://wiki.zjkmkj.com/media/1582171524338997-20211214212908596.jpg" width=400 />
+<img src="https://wiki.zjkmkj.com/media/1582171524338997-20211214212908596.jpg" width=400 style="zoom: 50%;" />

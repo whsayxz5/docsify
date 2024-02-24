@@ -34,7 +34,7 @@
 
 **四、下载代理APP**
 
-**米易管家APP：**[:link: 点此下载](https://yunyetong.ningboruiyang.com/h5/#/success)
+**米易管家APP：**[:link: 点此下载](https://mng.ningboruiyang.com/h5-app-download/mygj/download)
 
 **五、推广用户/推广代理**
 

@@ -12,9 +12,9 @@
 
 ##### 二、操作姿势
 
-##### （一）获取信息`重要`[👉 点我咨询](https://work.weixin.qq.com/ca/cawcdefd4b421df61a)
+##### （一）获取信息`重要`
 
-私聊`羊毛哥`获取`航班/预约时间/服务机场/地址`信息[👉 点我咨询](https://work.weixin.qq.com/ca/cawcdefd4b421df61a)
+[👉 点我联系羊毛哥](http://u.zjkmkj.com/unVf1  )，获取`航班/预约时间/服务机场/地址`信息
 
 ##### （二）权益获取
 

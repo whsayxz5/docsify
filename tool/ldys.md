@@ -12,7 +12,7 @@
 
 ##### 一、快速下单
 
-[<img src="https://wiki.zjkmkj.com/media/202208211428366.png" alt="1569425353473233.png" style="zoom:33%;" />](https://kmshop.zjkmkj.com/pages/goods_details/index?id=34)
+[<img src="https://wiki.zjkmkj.com/media/202312181630265.png" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
 
 > 新用户建议使用[合利宝](tool/hlb.md)，联动建议老机器用户切换
 

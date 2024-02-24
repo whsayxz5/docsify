@@ -29,7 +29,7 @@
 
 # 积分规则
 
-![23571697593275_.pic_hd](https://wiki.zjkmkj.com/media/202310180941897.jpg)
+![img](https://wiki.zjkmkj.com/media/202401061815792.png)
 
 ---
 
@@ -41,13 +41,13 @@
 
 # 生日规则
 
-![21921696382060_.pic_hd](https://wiki.zjkmkj.com/media/202310040917455.jpg)
+![img](https://wiki.zjkmkj.com/media/202401171639613.png)
 
 ---
 
 # 账单规则
 
-![21931696382093_.pic](https://wiki.zjkmkj.com/media/202310040918009.jpg)
+<img src="https://wiki.zjkmkj.com/media/202312191707290.png" alt="89611702971398_.pic" style="zoom:67%;" />
 
 ---
 
@@ -65,19 +65,19 @@
 
 # 不计积分规则
 
-![79771698908062_.pic](https://wiki.zjkmkj.com/media/202311021455530.png)
+![89621702971434_.pic](https://wiki.zjkmkj.com/media/202312191708207.png)
 
 ---
 
 # 体检权益
 
-![26541680508642_.pic](https://wiki.zjkmkj.com/media/202304031557737.jpg)
+![89721702976970_.pic](https://wiki.zjkmkj.com/media/202312191710609.png)
 
 ----
 
 # 贵宾厅权益
 
-![image-20230403155839073](https://wiki.zjkmkj.com/media/202304031558141.png)
+![img](https://wiki.zjkmkj.com/media/202401221713367.png)
 
 ---
 

@@ -18,11 +18,11 @@
 
 ##### 三、升级方案`积分`
 
-**全行有分：**[合利宝](tool/hlb.md)/[恒信通](tool/hxt.md)/[盛刷](tool/ss.md)/[碰碰通](tool/ppt.md)/[易碰碰](tool/ypp.md)/[有钱收](tool/yqs.md)/[米易收](tool/mys.md)
+**全行有分：**[合利宝](tool/hlb.md)/[恒信通](tool/hxt.md)
 
 **精准时间表：**[合利宝](tool/hlb.md)
 
-**精准固定商户：**[易收钱](tool/ysq.md)/[米易收](tool/mys.md)/[拉卡拉](tool/lkl.md)
+**精准固定商户：**[拉卡拉](tool/lkl.md)
 
 >  如有任何问题，欢迎随时咨询我司客服
 

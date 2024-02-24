@@ -10,7 +10,7 @@
 
 ##### 一、加入代理（自助）
 
-[<img src="https://wiki.zjkmkj.com/media/202307051704076.png" style="zoom:50%;" />](http://u.zjkm.xyz/BE3PR)
+[<img src="https://wiki.zjkmkj.com/media/202307051704076.png" style="zoom:50%;" />](https://wxaurl.cn/gtpFf6Lac8g)
 
 ##### 二、注册代理
 

@@ -15,28 +15,39 @@
 
 # 适用神器
 
+- [付惠码](tool/fhm.md)
+- [云付宝](tool/yfb.md)
 - [聚收银](tool/jsy.md)
 - [拉卡拉](tool/lkl.md)
-- [米易收](tool/mys.md)
+- [享云付](tool/ldxyf.md)
 - [易收钱](tool/ysq.md)
-- [盛刷](tool/ss.md)
 - [申鑫](tool/sx.md)
-
-- [有钱收](tool/yqs.md)`淘汰`
-- [易碰碰](tool/ypp.md)`淘汰`
-- [享云付](tool/ldxyf.md)`淘汰`
+- [盛刷](tool/ss.md)`淘汰`
+- [米易收](tool/mys.md)`淘汰`
 
 ------
 
 # 获取认证信息
 
-一、[聚收银](tool/jsy.md)
+**一、**[付惠码](tool/fhbmp.md)
+
+渠道码：2088230998315314
+
+![img](https://wiki.zjkmkj.com/media/202401041104550.png)
+
+**二、**[云付宝](tool/yfb.md)
+
+渠道码：2088441632227751
+
+![img](https://wiki.zjkmkj.com/media/202401041104447.png)
+
+**三、**[聚收银](tool/jsy.md)
 
 渠道码：2088541272856079
 
-![22891696857954_.pic_hd](https://wiki.zjkmkj.com/media/202310092129826.jpg)
+![img](https://wiki.zjkmkj.com/media/202401041106607.png)
 
-##### 二、[拉卡拉](tool/lkl.md)
+##### 四、[拉卡拉](tool/lkl.md)
 
 渠道码：见下图
 
@@ -44,19 +55,19 @@
 
 ![IMG_7,912@0.5x](https://wiki.zjkmkj.com/media/202306111457595.jpg)
 
-##### 三、[米易收](tool/mys.md)
+##### 五、[米易收](tool/mys.md)
 
 商家认证-支付宝认证二维码-保存至手机相册，再使用支付宝扫码进行认证。
 
 ![16971692335016_.pic](https://wiki.zjkmkj.com/media/202308181304149.jpg)
 
-##### 四、[易收钱](tool/ysq.md)
+##### 六、[易收钱](tool/ysq.md)
 
 我的-头像下方 `去授权`-支付宝认证二维码-保存至手机相册，再使用支付宝扫码进行认证
 
-![62031694169730_.pic](https://wiki.zjkmkj.com/media/202309081842948.jpg)
+![img](https://wiki.zjkmkj.com/media/202401041107298.png)
 
-**五、**[盛刷](tool/ss.md)
+**七、**[盛刷](tool/ss.md)
 
 商户号：见图 2
 
@@ -64,23 +75,23 @@
 
 ![wecom-temp-414198-16a0d60becd926b608a468905af66476](https://wiki.zjkmkj.com/media/202306181052066.jpg)
 
-##### 六、[有钱收](tool/yqs.md)
+##### 八、[有钱收](tool/yqs.md)
 
 [:link:点我登录认证页面](http://mng.ningboruiyang.com/h5-facilitator/)-账号密码同有钱收-选择`需开通的商户`-点击会显示的支付宝渠道码和商户号
 
 ![image-20220915155937207](https://wiki.zjkmkj.com/media/202209151559653.png)
 
-##### 七、[易碰碰](tool/ypp.md)
+##### 九、[易碰碰](tool/ypp.md)
 
 > 请联系卡盟客服提供手机号码+商户名进行查询
 
-##### 八、[申鑫](tool/sx.md)
+##### 十、[申鑫](tool/sx.md)
 
 商户入网成功以后，会有短信发至商户手机上，里面有支付宝微信的商户号
 
 <img src="https://wiki.zjkmkj.com/media/202211091224695.jpg" alt="img" style="zoom:25%;" />
 
-##### 九、[享云付](tool/ldxyf.md)
+##### 十一、[享云付](tool/ldxyf.md)
 
 打开`享云付APP-商家-支付宝开通`，就是`渠道码和商户号`。
 

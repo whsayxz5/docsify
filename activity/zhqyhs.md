@@ -23,9 +23,7 @@
 
 ##### （一）获取信息`重要`
 
-私聊`羊毛哥`获取`兑换人信息`
-
-<img src="https://wiki.zjkmkj.com/media/202311141552563.png" width=400 />
+[👉 点我联系羊毛哥](http://u.zjkmkj.com/unVf1  )，获取`兑换人信息`
 
 ##### （二）下单兑换
 
