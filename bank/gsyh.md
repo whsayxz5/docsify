@@ -5,8 +5,6 @@
 
 **一、预期收益**
 
-![https://wiki.zjkmkj.com/media/2024权益回收.png](https://wiki.zjkmkj.com/media/2024权益回收.png)
-
 **（一）卡片配置**
 
 **通用选择：**香格里拉白金卡/环球影城白金卡
