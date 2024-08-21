@@ -10,7 +10,7 @@
 
 **一、加入代理（立即开通）**
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://yunyetong.ningboruiyang.com/h5/#/register?code=09PAHF)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/68301afc38a8aa9cc034cf4e317a0b14-2.webp" style="zoom:50%;" />](https://yunyetong.ningboruiyang.com/h5/#/register?code=09PAHF)
 
 > 代理端和客户端不通用，客户端需重新注册
 
@@ -20,7 +20,7 @@
 
 **三、获取SN及密钥（重要！重要！重要！）**
 
-[<img src="../media/order.png" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=52)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/87278d0e2964429bb7b18810ff399384-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=52)
 
 > 终端归属决定用户归属，请务必备注代理XXX，忘记备注请及时联系客服备注
 

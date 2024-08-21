@@ -16,7 +16,7 @@
 
 **一、提交代理申请**
 
-[![image.png](../media/1567519864869188-20211217210814840.png)](https://jinshuju.net/f/LEus0w)
+[![image.png](https://cos.zjkmkj.com/media/2024/08/20/fd0ac1f70deda5aabcd7f9ceca5ccf9c-2.webp)](https://jinshuju.net/f/LEus0w)
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-[<img src="../media/order.png" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=25)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/a53cadff4ca18247d1d02f88edb9af19-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=25)
 
 > 下单流程：请务必备注代理XXX，否则激活后无法划拨商户，忘记备注请及时联系对接。
 
@@ -58,7 +58,7 @@
 
 **快递费：**全国包邮（默认申通，顺丰到付请备注）
 
-![image.png](../media/1611577513848863.png)
+![image.png](https://cos.zjkmkj.com/media/2024/08/20/4d84d7914d25c3f1d1e1813bc839095b-2.webp)
 
 **二、分润发放**
 

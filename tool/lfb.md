@@ -10,13 +10,13 @@
 
 ##### **一、**产品已升级
 
-[<img src="https://wiki.zjkmkj.com/media/202208211951660.png" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/433cf29bd39ce9ab235b4e4f381073a7-2.webp" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
 
->  激活退款：进入[我的订单](http://kmshop.zjkmkj.com/order/list/)，点击退款，选择已激活即可
+> 激活退款：进入[我的订单](http://kmshop.zjkmkj.com/order/list/)，点击退款，选择已激活即可
 
 ##### 二、一清牌照
 
-<img src=../media/Zhifuyewu-20200327.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/20/gravity/northeast/dx/20/dy/20/batch/1/degree/45 width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/3c877d05be2e457ca11c1bd1f864e932-2.webp" width=400 />
 
 **三、主要功能**
 
@@ -25,6 +25,8 @@
 **费率：**0.5%（1000以上，无限额）/云闪付费率0.38%（1000元内），没有提现费，24小时秒到
 
 **商户：**4000元以内随机积分商户，4000元以上随机优惠类商户
+
+> 机器注册当日无法秒到，次日正常可秒到
 
 **四、购买费用**
 
@@ -40,9 +42,9 @@
 
 **六、机具图片**
 
-**![1602576329790752.jpg](../media/1602576329790752.jpg)**
+**![1602576329790752.jpg](https://cos.zjkmkj.com/media/2024/08/20/c819dbd8bdefa6316c2edd2678b759cc-2.webp)**
 
-------
+---
 
 # 联付宝使用教程
 
@@ -54,9 +56,7 @@
 
 **二、激活流程**
 
-![image.png](../media/1571725411780444.png)
-
-
+![image.png](https://cos.zjkmkj.com/media/2024/08/20/a3ce15731efd1600be6a7ca42d2fb6db-2.webp)
 
 ---
 

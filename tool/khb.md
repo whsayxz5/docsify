@@ -20,7 +20,7 @@
 
 ##### 二、一清牌照
 
-<img src="https://wiki.zjkmkj.com/media/202306281647022.jpg" alt="支付牌照" style="zoom: 33%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/4335ddc77f0fe6dca25757b3393bb1a4-2.webp" alt="支付牌照" style="zoom: 33%;" />
 
 ##### 三、主要特点
 
@@ -38,7 +38,9 @@
 
 **交易时间：**`07:00-22:00`
 
->交易限额`19999元/9999元/4999元/1999元`四档，如提示`支付失败（额度不足）`，可降低交易金额重试
+> 交易限额`19999元/9999元/4999元/1999元`四档，如提示`支付失败（额度不足）`，可降低交易金额重试
+>
+> 机器注册当日无法秒到，次日正常可秒到
 
 ##### 五、购买费用
 
@@ -48,7 +50,7 @@
 
 [:link: 点此开通代理](agent/khb.md)，注册分享即可推广，5户起共享封顶政策
 
-------
+---
 
 # 快汇宝使用教程
 
@@ -58,19 +60,19 @@
 
 > 已注册代理的用户直接登录即可，无需重复注册。
 
-<img src="https://wiki.zjkmkj.com/media/202307051603716.jpg" alt="12211688544170_.pic" style="zoom: 50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/7d640446b9f68aa98162124f3482bd68-2.webp" alt="12211688544170_.pic" style="zoom: 50%;" />
 
 ##### 二、下载 APP
 
 [:link: 点我下载](http://khb.lzfdata.com/khb/#/pages/user/reg_succeed)
 
-<img src="https://wiki.zjkmkj.com/media/202307051603612.jpg" alt="12221688544171_.pic" style="zoom: 50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/ad6cf2dee47189386862226dff6b91d9-2.webp" alt="12221688544171_.pic" style="zoom: 50%;" />
 
 ##### 三、开通收银台收款
 
 > 提醒：实名认证时的手机号必须是在银行预留的银行卡手机号
 
-![30021700814836_.pic_hd](https://wiki.zjkmkj.com/media/202311241636197.jpeg)
+![30021700814836_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/e399c9687b377684eb66de180a291b89-2.webp)
 
 ##### 四、商户入网
 
@@ -78,9 +80,9 @@
 
 > 建议从大众点评找真实店铺，后续如需补充照片方便点
 
-![47951690895504_.pic_hd](https://wiki.zjkmkj.com/media/202308012111601.jpg)
+![47951690895504_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/d0e934b72a555ae47c9c65d933ecaee3-2.webp)
 
-![47961690895508_.pic_hd](https://wiki.zjkmkj.com/media/202308012111444.jpg)
+![47961690895508_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/413311e46b1554ad6ccdb00b88a13ade-2.webp)
 
 ##### 五、获取收款码`重要`
 
@@ -92,11 +94,11 @@
 
 **固定商户：**微信扫码-扫收款码-选择右上角默认收藏商户（入网进件商户），按照提示绑卡交易即可。
 
-<img src="https://wiki.zjkmkj.com/media/202311231131812.png" alt="83891700710206_.pic_hd" style="zoom:50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/c92460de00f8cc4cea95ebb994a61b2c-2.webp" alt="83891700710206_.pic_hd" style="zoom:50%;" />
 
 > 招商银行、交通银行卡：单笔2000以下
 
-------
+---
 
 # 快汇宝常见问题
 
@@ -124,7 +126,7 @@
 
 扫码下方二维码进入“快汇宝”公众号-菜单的-登录-输入账号密码-保存收款码即可
 
-![29801700711370_.pic_hd](https://wiki.zjkmkj.com/media/202311231151738.jpeg)
+![29801700711370_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/75f4ad0568150998229e661325c4e8d3-2.webp)
 
 ---
 

@@ -12,7 +12,7 @@
 
 **一、注册代理（即时开通）**
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://apos.mk-dz.com/sfb-register/?id=695d148592f44d08b8614690e807c1fc#/)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/d1730d9225f5178b3857cb7603638c01-2.webp" style="zoom:50%;" />](https://apos.mk-dz.com/sfb-register/?id=695d148592f44d08b8614690e807c1fc#/)
 
 **二、代理APP并实名**`杉付宝`
 
@@ -20,7 +20,7 @@
 
 **三、快速自助下单**
 
-[<img src="../media/order.png" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=34)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/c7b70416544d9eb5e20f481b5cca79f9-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=34)
 
 **下单流程：**请务必备注代理XXX，忘记备注请及时联系对接
 
@@ -40,7 +40,7 @@
 
 **一、政策说明**
 
-![](../media/image-20220415182308366.png)
+![](https://cos.zjkmkj.com/media/2024/08/20/6a254000c934a1941e0499c8697ba6ec-2.webp)
 
 **机具：**119元/台
 

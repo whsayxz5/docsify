@@ -14,13 +14,13 @@
 
 **一、提交代理申请**
 
-[![image.png](../media/1567519864869188-20211217211103116.png)](https://jinshuju.net/f/LEus0w)
+[![image.png](https://cos.zjkmkj.com/media/2024/08/20/d8e5bc5d0c71000c20edf70d5b85970e-2.webp)](https://jinshuju.net/f/LEus0w)
 
 
 
 **二、快速自助下单**
 
-[![1569425353473233.png](../media/1617518736742356-20211217203818141.png)](https://kmbk.zjkmkj.com/Index/194)
+[![1569425353473233.png](https://cos.zjkmkj.com/media/2024/08/20/b1e6a40d39de340ca25aec09ac8e07e3-2.webp)](https://kmbk.zjkmkj.com/Index/194)
 
 **三、获得账号密码**
 
@@ -36,9 +36,9 @@
 
 
 
-![1556087338480638.png](../media/1556087338480638.png)
+![1556087338480638.png](https://cos.zjkmkj.com/media/2024/08/20/d0cab91813ab03d0888486f0c77cefe5-2.webp)
 
-![1556087374615877.png](../media/1556087374615877.png)
+![1556087374615877.png](https://cos.zjkmkj.com/media/2024/08/20/627a8373d2a6955781375b0a9a4c7ef8-2.webp)
 
 
 
@@ -52,7 +52,7 @@
 
 
 
-![image.png](../media/1567583083114423.png)
+![image.png](https://cos.zjkmkj.com/media/2024/08/20/fa0c38f5b5105e01c2cc784eee18afaf-2.webp)
 
 
 
@@ -60,7 +60,7 @@
 
 
 
-![1557034569658069.png](../media/1557034569658069.png)
+![1557034569658069.png](https://cos.zjkmkj.com/media/2024/08/20/85458f5e35b8648a917815fad4b106c5-2.webp)
 
 
 

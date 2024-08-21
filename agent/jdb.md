@@ -10,11 +10,11 @@
 
 ##### **一、提交代理申请**
 
-[![image.png](../media/1567519864869188-20211217211042042.png)](https://jinshuju.net/f/LEus0w)
+[![image.png](https://cos.zjkmkj.com/media/2024/08/20/9bc6c2e23b236ff67dbf766a432e1833-2.webp)](https://jinshuju.net/f/LEus0w)
 
 ##### **二、快速自助下单**
 
-[![1569425353473233.png](../media/1617518736742356-20211217203551721.png)](start/tool.md)
+[![1569425353473233.png](https://cos.zjkmkj.com/media/2024/08/20/c5b051d7a10faae07a904e1c79b60d74-2.webp)](start/tool.md)
 
 **下单流程：**请务必备注代理XXX，否则激活后无法划拨商户，忘记备注请及时联系对接。
 
@@ -38,13 +38,13 @@
 
 **一、代理政策**
 
-![1564377015456561.png](../media/1564377015456561.png)
+![1564377015456561.png](https://cos.zjkmkj.com/media/2024/08/20/f6636fd387fbbce886b0d7d09aaa0d78-2.webp)
 
-![1559355107142037.png](../media/1559355107142037.png)
+![1559355107142037.png](https://cos.zjkmkj.com/media/2024/08/20/c53131b6ff3e5e800b774b366cc1e250-2.webp)
 
 **二、客户费率说明** 
 
-![1557034380953468.png](../media/1557034380953468.png)
+![1557034380953468.png](https://cos.zjkmkj.com/media/2024/08/20/6be0a85dcd576101e8784e63cd8b7d24-2.webp)
 
 **三、关于分润**
 

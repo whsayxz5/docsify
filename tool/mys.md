@@ -11,15 +11,15 @@
 
 ##### **一、免费领取**
 
-[<img src="https://wiki.zjkmkj.com/media/202307311639544.png" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/a88cc659d852d6a11dcba83cb6cfc44b-2.webp" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
 
 > 注：自助领取体验卡SN，首张免费体验，仅限卡盟用户，不含代理
 
-![image-20220511171950977](https://wiki.zjkmkj.com/media/202307311639834.png)
+![image-20220511171950977](https://cos.zjkmkj.com/media/2024/08/20/a43afa26f683636c842423128f9f85e4-2.webp)
 
 ##### **二、正常下单`（代理或需要更多商户的客户）`**
 
-[<img src="https://wiki.zjkmkj.com/media/202307311639047.png" style="zoom:33%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=52)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/441165d0ed556068eb361787bc9b75c6-2.webp" style="zoom:33%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=52)
 
 > **客户：**无需备注，在[:link: 我的订单](http://kmshop.zjkmkj.com/pages/users/order_list/index)-`订单详情页-商家备注`查看密钥，绑定后提供注册手机号码给我司变更费率
 >
@@ -27,7 +27,7 @@
 
 ##### **三、一清牌照**
 
-<img src="https://wiki.zjkmkj.com/media/202307311639149.jpg" width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/92fbda6abdb67b15604591c3108ffc91-2.webp" width=400 />
 
 **四、独特功能**
 
@@ -52,12 +52,14 @@
 > 需要手机闪付请使用[合利宝](tool/hlb.md)/[钱小宝](tool/qxb.md)/[恒信通](tool/hxt.md)
 
 > 无提现费，11月17日之前用户依旧`秒到`；11月17日后新进商户到账方式`D1`，到账时间 6：00-22：50
+>
+> 机器注册当日无法秒到，次日正常可秒到
 
 ##### **六、购买费用**
 
 新用户可[:link: 点我领取](http://u.zjkm.xyz/X5CJy)免费体验卡，后续增加购买需自费`1元/张`
 
-![image-20220511171950977](https://wiki.zjkmkj.com/media/202307311639834.png)
+![image-20220511171950977](https://cos.zjkmkj.com/media/2024/08/20/a43afa26f683636c842423128f9f85e4-2.webp)
 
 ##### **七、支付宝正确玩法（无风控使用技巧，非常重要，必看）**
 
@@ -75,7 +77,7 @@
 
 [:link: 点此开通代理](agent/mys.md)，注册分享即可推广，5张起共享封顶政策
 
-------
+---
 
 # 米易收使用教程
 
@@ -89,15 +91,15 @@
 
 **购买用户：**已下单购买码牌客户直接使用购买的码牌SN
 
-![image-20220511171950977](https://wiki.zjkmkj.com/media/202307311639834.png)
+![image-20220511171950977](https://cos.zjkmkj.com/media/2024/08/20/a43afa26f683636c842423128f9f85e4-2.webp)
 
 ##### **三、APP注册&实名注册**
 
-![202307311722572](https://wiki.zjkmkj.com/media/202310082333633.webp)
+![202307311722572](https://cos.zjkmkj.com/media/2024/08/20/22385a659a2a5a487c484a9c797b3920-2.webp)
 
 **四、绑定信用卡&商户进件**
 
-![202308021624468](https://wiki.zjkmkj.com/media/202310082334562.webp)
+![202308021624468](https://cos.zjkmkj.com/media/2024/08/20/aa47aeb12e4d38197c96cafd96f2b89b-2.webp)
 
 **填写资料时注意事项：**
 
@@ -109,7 +111,7 @@
 
 **行业类目：**就是MCC
 
->  如果提示mcc进件数量超限，请更换商户类型重新提交
+> 如果提示mcc进件数量超限，请更换商户类型重新提交
 
 **更多商户：**请看第十三步，[点我直达](#十三、增加更多商户)
 
@@ -121,7 +123,7 @@
 >
 > **重要：** 菜市场小摊照片和日用品批发市场小摊照片，越破越小的小摊位小店越能过审核。
 
-![35bf8f60-0fdd-479e-80b7-6bdb3dd9ab9b.jpg](https://wiki.zjkmkj.com/media/202308151836329.jpg)
+![35bf8f60-0fdd-479e-80b7-6bdb3dd9ab9b.jpg](https://cos.zjkmkj.com/media/2024/08/20/6b4047263d5d04725fe6ae52ddedae95-2.webp)
 
 ##### **五、提升等级**`重要`
 
@@ -135,17 +137,17 @@
 
 **金牌（人脸识别）：**笔笔秒到，合并结算，扫码单笔1万，单日20万
 
-![202310151740702@0.5x](https://wiki.zjkmkj.com/media/202310151742392.webp)
+![202310151740702@0.5x](https://cos.zjkmkj.com/media/2024/08/20/22e814e1c8a5db1bb13892191b85bc17-2.webp)
 
 ##### **六、绑定卡牌**
 
 点击`APP首页`-`设备管理`-`选择设备类型`-`扫码牌，SN号码输入`终端密钥`（第二步领取的）`，绑定即可。
 
-![48251690964408_.pic_hd](https://wiki.zjkmkj.com/media/202308021620303.jpg)
+![48251690964408_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/0a92ddaab4316812da12079f360510d4-2.webp)
 
 ##### 七、开通扫码`非常重要`
 
->  目前支付宝微信均需认证后开通
+> 目前支付宝微信均需认证后开通
 
 **开通支付宝：**按照[:link: 支付宝认证教程](tool/zfbrz.md)操作
 
@@ -161,7 +163,7 @@
 
 **扫一扫（有距离限制30km）：**APP首页-扫一扫，扫微信/支付宝/云闪付`付款码`即可
 
-<img src="https://wiki.zjkmkj.com/media/202310151740332.png" alt="image-20230807100531965" style="zoom:33%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/c4ce95e6c8c5ff69efb71b7d45538ac7-2.webp" alt="image-20230807100531965" style="zoom:33%;" />
 
 ##### **十、增加更多商户**
 
@@ -181,7 +183,7 @@
 
 2、刷完，`交易记录`-右上角-`合并提现`
 
-![15451690810739_.pic_hd](https://wiki.zjkmkj.com/media/202307312139244.jpg)
+![15451690810739_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/689cdc63a292af631ccf27e2bb7faa22-2.webp)
 
 ---
 

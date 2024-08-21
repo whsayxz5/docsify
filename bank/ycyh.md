@@ -1,6 +1,3 @@
----
-{}
----
 # 玩转邮储
 
 **一、预期收益**
@@ -19,7 +16,7 @@
 
 邮储有不计积分平台名单，请务必选择合适机器，详见[邮储专用](tool/yczy.md)
 
-首选[易收钱](tool/ysq.md)、[米易收](tool/mys.md)次选[合利宝](tool/hlb.md)
+首选[合利宝](tool/hlb.md)
 
 **（四）值得办**
 
@@ -29,7 +26,7 @@
 
 # 鼎致白金卡
 
-<img src="../media/1556003811949497-20211217213022931.png" alt="1556003811949497.png" style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/34adcfeb59bf7032f828f1da1b0d3869-2.webp" alt="1556003811949497.png" style="zoom:67%;" />
 
 **（一）年费标准**
 
@@ -41,13 +38,13 @@
 
 **（三）主要权益**
 
-**贵宾厅：**`6次`龙腾，`6次`全球CIP通道
+**贵宾厅：**`6次`龙腾，`8次`全球CIP通道
 
-**接送机：**`2次`全国接送机/接送站服务（60km）
+**接送机：**`4次`全国接送机/接送站服务（60km）
 
 **健康：**`2次`专家号预约及陪同服务/专家咨询服务；`1次`口腔护理（信用卡有效期内1次）
 
-**代驾：**`6次`同城`40km`以内代驾
+**代驾：**`2次`同城`40km`以内代驾
 
 **运动：**`6 次`羽毛球、游泳或健身服务
 
@@ -73,7 +70,7 @@
 
 # 鼎雅白金卡
 
-**![img](../media/1554176721cs-20211217213022719.jpg)**
+**![img](https://cos.zjkmkj.com/media/2024/08/20/078e5ddc50697ca8efe29e4817bec3f0-2.webp)**
 
 **（一）年费标准**
 
@@ -109,11 +106,11 @@
 
 # VIP借记卡
 
-**<img src="../media/1554357501cs-20211217213022753.jpg" alt="img" style="zoom:50%;" />**
+**<img src="https://cos.zjkmkj.com/media/2024/08/20/8c9276b53aada373bdba0124d6738256-2.webp" alt="img" style="zoom:50%;" />**
 
-<img src="../media/1554357523cs-20211217213022715.jpg" alt="img" style="zoom:50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/a8f8f5930118e159081d5a6fa5481ca6-2.webp" alt="img" style="zoom:50%;" />
 
-<img src="../media/1554357606cs-20211217213022724.jpg" alt="img" style="zoom:50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/2b0a05717185890e0f1bb51cacf72ed5-2.webp" alt="img" style="zoom:50%;" />
 
 **一、达标门槛**
 
@@ -145,7 +142,7 @@
 
 # 车主白金卡
 
-![1591164333584006.png](../media/1591164333584006-20211217213022720.png)
+![1591164333584006.png](https://cos.zjkmkj.com/media/2024/08/20/f8aa669701fdd7fa845226e71b3076c3-2.webp)
 
 **一、年费标准**
 
@@ -177,7 +174,7 @@
 
 # EMS白金卡
 
-![EMS白金卡 银联.png](../media/1591165596222174-20211217213022740.png) ![EMS白金卡万事达卡.png](../media/1591165603368440-20211217213022766.png)
+![EMS白金卡 银联.png](https://cos.zjkmkj.com/media/2024/08/20/f46a92cc779d06b9529761f954cac772-2.webp) ![EMS白金卡万事达卡.png](https://cos.zjkmkj.com/media/2024/08/20/a61877f89adcc9fbc7a4b6180e74dc03-2.webp)
 
 **（一）年费标准**
 
@@ -213,7 +210,7 @@ EMS万事达卡终身免年费
 
 # 小熊卡
 
-![3.png](../media/1625450931512778-20211217213022748.png)
+![3.png](https://cos.zjkmkj.com/media/2024/08/20/b3d9f9017acc9df1ef211ca87aad6c52-2.webp)
 
 **（一）年费标准**
 

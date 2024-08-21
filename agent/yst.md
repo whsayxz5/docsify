@@ -4,13 +4,13 @@
 
 
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://jinshuju.net/f/LEus0w)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/3842a85fd293f51cd3242a089bec211f-2.webp" style="zoom:50%;" />](https://jinshuju.net/f/LEus0w)
 
 **二、快速自助下单**
 
 
 
-[![1569425353473233.png](../media/1617518736742356-20211217203636082.png)](https://kmbk.zjkmkj.com/Index/194)
+[![1569425353473233.png](https://cos.zjkmkj.com/media/2024/08/20/35e0886a87190c62d68c133b0677f060-2.webp)](https://kmbk.zjkmkj.com/Index/194)
 
 
 
@@ -36,7 +36,7 @@
 
 **一、政策说明**
 
-![image.png](../media/1572944682497922.png)
+![image.png](https://cos.zjkmkj.com/media/2024/08/20/7e798c3990980c77c2d7242603bc004f-2.webp)
 
 **注意点①：激活后代理账户会收到70元，同时商城部分退款50元，合计120元。**
 

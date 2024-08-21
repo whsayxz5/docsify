@@ -10,7 +10,7 @@
 
 ##### 一、加入代理（自助）
 
-[<img src="https://wiki.zjkmkj.com/media/202307051704076.png" style="zoom:50%;" />](http://khb.lzfdata.com/khbzy/#/pages/login/reg_code?pretel=18969764555&pretypeid=3)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/802aa68dbeabbdc5061ff65ef73b2ae5-2.webp" style="zoom:50%;" />](http://khb.lzfdata.com/khbzy/#/pages/login/reg_code?pretel=18969764555&pretypeid=3)
 
 ##### 二、下载 APP`快付宝-展业端`
 
@@ -20,7 +20,7 @@
 
 登录`APP-个人中心-实名认证`，按照要求填写提交，并开启`商户推广`按钮
 
-![12451688549616_.pic_hd](https://wiki.zjkmkj.com/media/202307051733092.jpg)
+![12451688549616_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/0da92b96300c8c63dcfa28450a259c29-2.webp)
 
 **四、领取码牌**
 
@@ -36,7 +36,7 @@
 
 **邀请代理（已注册商户）：**快付宝展业版-商户管理-点对应商户，升级代理，即可升级为
 
-![12651688629773_.pic_hd](https://wiki.zjkmkj.com/media/202307061549423.jpg)
+![12651688629773_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/24b3768873968f0197d9cba4bb12d452-2.webp)
 
 **六、操作说明**
 
@@ -64,7 +64,7 @@
 
 **举例：**金牌代理推广100户，每个客户月交易5万，实际可获得分润100×5×6=3000元
 
-![image-20231009101949715](https://wiki.zjkmkj.com/media/202310091019736.png)
+![image-20231009101949715](https://cos.zjkmkj.com/media/2024/08/20/885104728421171662f133267a8d175d-2.webp)
 
 特别说明：代理等级按照推广用户数量决定
 

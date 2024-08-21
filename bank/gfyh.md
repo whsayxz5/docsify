@@ -10,7 +10,7 @@
 - [广发鼎极白金卡](#广发鼎极白金卡)
 - [广发美运通真情白金卡](#广发美运通真情白金卡)
 
-----
+---
 
 # 主要玩法
 
@@ -36,11 +36,11 @@
 
 **二、图解姿势**
 
------
+---
 
 # 广发尊旅白金卡
 
-![image-20220103191156789](../media/image-20220103191156789.png)
+![image-20220103191156789](https://cos.zjkmkj.com/media/2024/08/20/ca82d70fdab3522d50aedfcfdd37c1b6-2.webp)
 
 **（一）年费标准**
 
@@ -78,7 +78,7 @@
 
 # 广发美国运通Safari卡
 
-<img src="../media/format,f_auto.png" alt="img" style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/d2b380ab098d981eacd20c2dd855e148-2.webp" alt="img" style="zoom:67%;" />
 
 **（一）年费标准**
 
@@ -106,11 +106,11 @@
 
 [合利宝](tool/hlb.md)
 
-------
+---
 
 # 广发犀利卡
 
-**<img src="../media/1553933110cs-20211217212113057.jpg" alt="img" style="zoom:67%;" />**
+**<img src="https://cos.zjkmkj.com/media/2024/08/20/edcc98f344f1bef4c1df917514bec021-2.webp" alt="img" style="zoom:67%;" />**
 
 限新户在广发网点申请，不累计积分，百货、超市、餐饮三选一每周五消费返现5%（单笔消费满199元），账单月最高返现奖励为人民币100元；
 
@@ -136,11 +136,11 @@
 
 [点此进入](http://card.cgbchina.com.cn/Info/21278512)
 
-------
+---
 
 # 广发臻尚白金卡
 
-<img src=../media/1553934203cs-20211217212113065.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/15/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/29e1a1e81ad81e14d665e01f964c17cb-2.webp" width=400 style="zoom:67%;" />
 
 **（一）年费标准**
 
@@ -170,11 +170,11 @@
 
 [点此申请](http://card.cgbchina.com.cn/subsite/201401/18224302/index.html)
 
-------
+---
 
 # 广发DIY卡
 
-<img src=../media/1553936160cs-20211217212113064.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/15/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/51d90495d71b00c886a13c9944e8cdc0-2.webp" width=400 />
 
 **（一）年费标准**
 
@@ -204,11 +204,11 @@
 
 [点此申请](http://card.cgbchina.com.cn/subsite/201607/20610314/gnzy-diyk.html)
 
-------
+---
 
 # 广发真情卡
 
-<img src=../media/1554083875cs-20211217212113065.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/15/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/67c5dd2678c803ef1b3c169998b7b433-2.webp" width=400 style="zoom:67%;" />
 
 **（一）年费标准**
 
@@ -232,11 +232,11 @@
 
 [点此申请](http://www.cgbchina.com.cn/Info/21279059)
 
-------
+---
 
 # 广发鼎极白金卡
 
-<img src=../media/1625204282675668-20211217212113088.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/15/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/40913bf2983a7962ccb57f56accc7068-2.webp" width=400 />
 
 **（一）年费标准**
 
@@ -262,11 +262,11 @@
 
 [点此进入](http://card.cgbchina.com.cn/Info/23191089)
 
-------
+---
 
 # 广发美运通真情白金卡
 
-![](../media/image-20220103202252841.png)
+![](https://cos.zjkmkj.com/media/2024/08/20/b7e7b14d64c7e6b22668ef508a8eff78-2.webp)
 
 **（一）年费标准**
 
@@ -304,11 +304,11 @@
 
 [点此进入](http://card.cgbchina.com.cn/subsite/202011/24517149/pc.html)
 
-------
+---
 
 # 广发南航联名卡
 
-<img src=../media/1554085466cs-20211217212113101.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/15/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/c3350dde2e356f541245a47102b813b7-2.webp" width=400 />
 
 **（一）年费标准**
 
@@ -344,7 +344,7 @@
 
 # 广发东航联名卡
 
-**![img](../media/1554087403cs-20211217212113080.jpg)**
+**![img](https://cos.zjkmkj.com/media/2024/08/20/9929faccca91b98e1b0cd5d23b6cefc4-2.webp)**
 
 **（一）年费标准**
 
@@ -374,15 +374,15 @@
 
 2、东航APP-我的-信用卡联名申请
 
-------
+---
 
 # 广发国航联名卡
 
-**![img](../media/1554095705cs-20211217212113111.jpg)**
+**![img](https://cos.zjkmkj.com/media/2024/08/20/93796269979603c5625d1060ec13e7fb-2.webp)**
 
 **（一）年费标准**
 
-白金卡：2500元/年；金卡：80元/年；普卡：40元/年 
+白金卡：2500元/年；金卡：80元/年；普卡：40元/年
 
 **（二）积分规则**
 
@@ -392,7 +392,7 @@
 
 生日双倍积分，普金卡上限1000里程
 
-**（三）主要权益** 
+**（三）主要权益**
 
 礼券赠送：金卡境内商旅消费、白金卡在境内商旅与境外计积分消费满额赠送广发商城优惠券，可在广发商城兑换好礼
 
@@ -410,11 +410,11 @@
 
 2、国航APP-我的-信用卡联名申请
 
-------
+---
 
 # 广发无限卡
 
-<img src=../media/1554091147cs-20211217212113096.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/15/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/1ac71d380ab7751099290e7e9c6b6102-2.webp" width=400 style="zoom:67%;" />
 
 **（一）年费标准**
 
@@ -468,11 +468,11 @@
 
 [点此进入](http://www.cgbchina.com.cn/Info/22693901)
 
-------
+---
 
 # 广发无限钻石卡
 
-<img src=../media/1571368219817000-20211217212113137.png?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/15/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/dafdd6ddacaec83fc752a10c30f2afb7-2.webp" width=400 style="zoom:67%;" />
 
 **（一）年费标准**
 
@@ -516,9 +516,8 @@
 
 ---
 
-#  广发里程计划
+# 广发里程计划
 
-![](../media/5fc669dee40494743.jpg_e1080.jpg)
+![](https://cos.zjkmkj.com/media/2024/08/20/2c8a0d45e48edeaaf6e3f09a421c4cbc-2.webp)
 
-![](../media/5fc669e8633ad6443.jpg_e1080.jpg)
-
+![](https://cos.zjkmkj.com/media/2024/08/20/d093afa2860eeaa74b8382b9af0eef70-2.webp)

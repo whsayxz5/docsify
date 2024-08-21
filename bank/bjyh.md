@@ -7,7 +7,7 @@
 
 
 
-![img](../media/1549939203cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/05142ced6d2c5996f831bb3d49d5d0cd-2.webp)
 
 **（一）年费标准**
 

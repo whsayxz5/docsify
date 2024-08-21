@@ -10,7 +10,7 @@
 
 **一、注册代理（即时开通）**
 
-[<img src="https://wiki.zjkmkj.com/media/202309081846492.png" style="zoom:50%;" />](https://ysq.yishoupiao.cn/share/#/stepOne?type=1&inviteCode=858610)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/a4a98c2522f0173d190dfb334f7a3f7f-2.webp" style="zoom:50%;" />](https://ysq.yishoupiao.cn/share/#/stepOne?type=1&inviteCode=858610)
 
 > 代理端和客户端通用，已注册商户用户可重新注册代理，不冲突
 
@@ -30,7 +30,7 @@
 
 > 特别注意：商户/代理归属由邀请链接决定
 
-![62061694170800_.pic_hd](https://wiki.zjkmkj.com/media/202309081900029.jpg)
+![62061694170800_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/26bef4644f2b9d39a68e7bf1b0f8c372-2.webp)
 
 ##### 四、**机器使用教程**
 
@@ -40,7 +40,7 @@
 
 客户入网流程：[点我直达](agent/ysq.md#代理手册)
 
-------
+---
 
 # 代理政策
 
@@ -54,7 +54,7 @@
 
 **举例：**金牌代理推广100户，客户月均扫码交易`10万`，实际可获得分润收入`100*（11*10）=11000元`
 
-![62381694238632_.pic](https://wiki.zjkmkj.com/media/202309091350417.jpg)
+![](https://wiki.zjkm.xyz/media/202403021458692.jpg)
 
 特别说明：代理等级按照码牌数量决定，一个用户最多可绑定2张，下单数量可累积。
 
@@ -66,7 +66,7 @@
 
 共享[易碰碰](tool/ypp.md)/[有钱收](tool/yqs.md)/[碰碰通](tool/ppt.md)/[米易收](tool/mys.md)/[拉卡拉](tool/lkl.md)政策
 
------
+---
 
 # 代理手册
 
@@ -78,19 +78,13 @@
 
 `安卓`：[点我下载](https://ysq.yishoupiao.cn/share/yishouqian.apk)
 
-
-
 **二、政策查看**
 
 [点此查看](#代理政策)
 
-
-
 ##### 三、分润查看和提现
 
 易收钱APP-我的-收益明细/提现
-
-
 
 **四、修改费率**
 
@@ -98,13 +92,9 @@
 
 易收钱APP-服务商管理-修改代理费率
 
-
-
 ##### 五、商户费率设置
 
 易收钱APP首页-商户管理-点击需修改商户-管理-配置费率-提交生效
-
-
 
 ##### 六、代理结算设置
 

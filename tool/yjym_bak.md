@@ -4,7 +4,7 @@
 
 人行259号文件规定所有机器一机一码，`原时间表/随机商户/申请MCC`等玩法已全部整改下线。
 
-<img src="https://wiki.zjkmkj.com/media/202312061444972.png" alt="image-20231206144403696" style="zoom: 33%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/c603dd17aaafa130a45659a17f6e10c7-2.webp" alt="image-20231206144403696" style="zoom: 33%;" />
 
 ##### 二、应对办法
 
@@ -68,7 +68,7 @@
 
 > 注意：不同店铺使用不同行业认证，可认证` 5 `个店铺/人，同一个类型行业不允许重复认证
 
-![WechatIMG2442_副本](https://wiki.zjkmkj.com/media/202311231550955.jpeg)
+![WechatIMG2442_副本](https://cos.zjkmkj.com/media/2024/08/20/b7e392ee766b31c9b354cba92e593a45-2.webp)
 
 **（二）切换店铺**
 
@@ -76,13 +76,13 @@
 
 > 目前一机一码监管严，换绑次数限制以app显示为准，预计12月底会明确规则。
 
-<img src="https://wiki.zjkmkj.com/media/202311231550987.png" alt="image.png" style="zoom: 67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/a2966fd2abc514da885711cfde561021-2.webp" alt="image.png" style="zoom: 67%;" />
 
 **（三）修改店铺名字**
 
 点击对应的店铺，点击修改即可变更商户名
 
-<img src="https://wiki.zjkmkj.com/media/202311231550002.png" alt="24401698217490_.pic_hd" style="zoom: 50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/56c777f09a5a4354311500d43a04ba26-2.webp" alt="24401698217490_.pic_hd" style="zoom: 50%;" />
 
 **（四）玩法解读**
 
@@ -97,34 +97,6 @@
 **二、固定商户`默认规则`**
 
 如未设置自选商户，默认按照固定一个商户。
-
-
-
----
-
-
-
-# 卡友玩法
-
-
-
-APP-修改账单名字，提交修改，一个月可以改2次
-
-
-
-----
-
-# 申鑫玩法 
-
-
-
-##### 一、自定义商户名
-
-目前申鑫已经支持`自定义商户`，修改间隔以系统提示为准
-
-**修改入口**：我的 - 我的信息 - 商户简称，提交即可 (名字`4-8位汉字`，不允许带地理信息)
-
-![741700723710_.pic](https://wiki.zjkmkj.com/media/202311231613170.jpeg)
 
 ---
 

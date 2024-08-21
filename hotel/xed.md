@@ -1,12 +1,12 @@
 # 特殊捷径
 
-![19721694082921_.pic](https://wiki.zjkmkj.com/media/202309071835681.jpg)
+![希尔顿快速升级](https://cos.zjkmkj.com/media/2024/08/20/92ed120b96ae512545cf8d05212ed5bf-2.webp)
 
-------
+---
 
 # 匹配教程
 
-**![img](../media/hilton-honors-status-match-update-910x359.jpg)**
+**![img](https://cos.zjkmkj.com/media/2024/08/20/3581a2924e8bdaa20a66493748525513-2.webp)**
 
 **一、活动说明**
 
@@ -28,19 +28,17 @@
 
 **会员资料：**提供姓名、电邮地址、希尔顿荣誉客会会员账号即可。如果还没有会员账号，新注册一个就行了
 
-![img](../media/hilton-honors-status-match-update-1.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/7bdea37b06133427b6145dd023bd8d5c-2.webp)
 
 **匹配资料：**需要提交两份资料（会员等级+入住记录），而且必须以 jpg 格式上传。这两份资料，都只需要提供 jpg 格式的屏幕截图即可，不会截图的用手机拍照也行。如果担心隐私泄露，您甚至可以把自己的会员号等信息抹掉。实际上希尔顿不可能获得第三方酒店集团的会员数据库，所以无法验证资料的真实性（自己领会）。
 
-
-
 第三方酒店集团会员等级证明：
 
-![hilton-honors-status-match-gold-diamond-member-1](../media/hilton-honors-status-match-gold-diamond-member-1.png)
+![hilton-honors-status-match-gold-diamond-member-1](https://cos.zjkmkj.com/media/2024/08/20/487361ca9e335dd61710eb1aed684db8-2.webp)
 
 在第三方酒店集团过去 12 个月内的入住记录：
 
-![hilton-honors-status-match-gold-diamond-member-2](../media/hilton-honors-status-match-gold-diamond-member-2.png)
+![hilton-honors-status-match-gold-diamond-member-2](https://cos.zjkmkj.com/media/2024/08/20/b067ca2ecaa42249c85b95a8c8da8f87-2.webp)
 
 **等待通过：**提交申请后，通常约 1 个星期就能得到客服的邮件回复。邮件上会注明获得 90 天的金卡资格，在有效期之前完成挑战任务即可正式升级金卡/钻卡。
 
@@ -60,7 +58,7 @@
 
 **二、挑战任务**
 
-![1609897157762308.png](../media/1609897157762308.png)
+![1609897157762308.png](https://cos.zjkmkj.com/media/2024/08/20/099d1232cfca30a8015badff05e8b4a5-2.webp)
 
 申请通过后就可以做挑战任务了，分别完成5/9晚就可以获得有效期到2023年的金卡/钻卡。注意**必须官方预订，且积分房是不符合要求**的。
 
@@ -86,7 +84,7 @@
 javascript:document.body.contentEditable='true'; document.designMode='on'; void 0
 ```
 
-**![1598960721820405.png](../media/1598960721820405.png)**
+**![1598960721820405.png](https://cos.zjkmkj.com/media/2024/08/20/843dd3ae6a453f9cb5418c9f1e6cf572-2.webp)**
 
 **（三）开始修改**
 
@@ -104,7 +102,7 @@ javascript:document.body.contentEditable='false'; void 0
 
 对修改好的网页截图，并保存到本地
 
-![1598960772725211.png](../media/1598960772725211.png)![1598960789284731.png](../media/1598960789284731.png)
+![1598960772725211.png](https://cos.zjkmkj.com/media/2024/08/20/1eee90a944ca4201ff1c8d63b79b67f3-2.webp)![1598960789284731.png](https://cos.zjkmkj.com/media/2024/08/20/ec3abe683470d2f4fe8ce469d508b1c8-2.webp)
 
 **（六）提交匹配**
 
@@ -118,19 +116,15 @@ javascript:document.body.contentEditable='false'; void 0
 
 过期前记得注册新号再次提交匹配
 
-
-
-------
+---
 
 # 希尔顿简介
-
-
 
 希尔顿酒店管理集团（Hilton Worldwide）由康莱德·N·希尔顿（Konrad N.Hilton,1887-1979）先生创办于1925年，迄今已有近百年的历史。目前在全球经营和管理约5000家酒店和度假村，其中在中国有200多家，同时希尔顿也是中国地区目前发展最快的酒店集团。根据希尔顿5月份公布的计划，预计在2019-2021年3年间，在大中华区将新增70多家酒店（而且此计划不包含欢朋品牌）。
 
 希尔顿集团拥有18个世界级的酒店品牌，目前进入大中华区的品牌只有8个，包括：希尔顿、康莱德、华尔道夫、逸林、花园、欢朋、嘉悦里、格芮。
 
-![image.png](../media/1598968860156111.png)
+![image.png](https://cos.zjkmkj.com/media/2024/08/20/529cfb3fc876068e8a7ae2795c10b4e2-2.webp)
 
 **一、奢华酒店**
 
@@ -161,7 +155,7 @@ javascript:document.body.contentEditable='false'; void 0
 - Tru by Hilton
 - Motto by Hilton
 
-------
+---
 
 # 会员计划
 
@@ -198,7 +192,7 @@ javascript:document.body.contentEditable='false'; void 0
 
 **终身钻石卡会员：**10年钻石会员（不需连续），且累积付费入住1000晚
 
-![img](../media/hilton-honors-elite-benefits-update.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/7caf9c26c63a4aa7784e68ae065d2b20-2.webp)
 
 **三、终身会员**
 
@@ -218,7 +212,7 @@ javascript:document.body.contentEditable='false'; void 0
 - 酒店预订电话
 - 官方订房电话
 
-------
+---
 
 # 会员福利
 
@@ -331,7 +325,7 @@ javascript:document.body.contentEditable='false'; void 0
 
 希尔顿Hilton Honors荣誉客会会籍的一些常见问题可参考[官网 FAQ](https://hiltonhonors3.hilton.com/zh_CN/even-more/faq/?WT.mc_id=zLADA0WW1XX2OLA3DA4Aff5Aff6MULTIBR7_138624670_3291911&ranMID=41650&ranEAID=3291911&ranSiteID=xALzvpIGBAw-AiGtzcYrSM_zOTP6e6GMsg)。
 
-------
+---
 
 # 会员积分
 

@@ -9,13 +9,13 @@
 
 **一、快速下单**
 
-[<img src="https://wiki.zjkmkj.com/media/202209211545540.png" alt="1569425353473233.png" style="zoom:33%;" />](https://kmshop.zjkmkj.com/pages/goods_details/index?id=38)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/120b598cd47714ec833c7b4b0d77729f-2.webp" alt="1569425353473233.png" style="zoom:33%;" />](https://kmshop.zjkmkj.com/pages/goods_details/index?id=38)
 
 > 达标退款：进入[:link: 我的订单](http://kmshop.zjkmkj.com/pages/users/order_list/index)，点击退款，选择已达标即可
 
 **二、一清牌照**
 
-<img src="https://wiki.zjkmkj.com/media/202209212018192.jpg" alt="img" style="zoom: 25%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/423c00302cdf19f45c507e1e716f4230-2.webp" alt="img" style="zoom: 25%;" />
 
 > 乐刷客服热线电话：0755-26339288
 
@@ -28,6 +28,8 @@
 **费率：**大额刷卡/插卡/闪付/银联扫码费率`0.55%`起，微信/支付宝小额手机闪付/小额银联扫码`0.38%`
 
 **到账：**24小时秒到，无秒到提现费
+
+> 机器注册当日无法秒到，次日正常可秒到
 
 ##### 四、落地区域
 
@@ -73,7 +75,7 @@
 
 ---
 
-#  收付贝使用教程
+# 收付贝使用教程
 
 **一、用户注册**
 
@@ -81,19 +83,15 @@
 
 **二、用户绑定**
 
-![image-20220921211744265](https://wiki.zjkmkj.com/media/202209212117547.png)
+![image-20220921211744265](https://cos.zjkmkj.com/media/2024/08/20/5ba0d5a4586a39e1c8284cda9bd5f0b8-2.webp)
 
-![image-20220921211756519](https://wiki.zjkmkj.com/media/202209212117596.png)
+![image-20220921211756519](https://cos.zjkmkj.com/media/2024/08/20/2f266b37a878a788add41a590b7d40f2-2.webp)
 
 **三、正常使用**
 
 1、签到：01/0000登录操作
 
 2、固定商户：提供绑定手机号码/机器SN/意向行业MCC给卡盟客服变更
-
-  
-
-
 
 ---
 
@@ -108,4 +106,3 @@
 四、原则上刷卡机属于特殊物品，寄出不退不换；我司承诺提供更高标准的`七天无理由退换`，在`机器未使用`和`不影响二次销售`的前提下，用户可无理由在`签收后七天内`进行退换，`邮费自付`。
 
 五、如有任何不明之处，请随时联系我司客服。
-

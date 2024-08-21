@@ -12,7 +12,7 @@
 
 **一、加入代理（自助）**
 
-[<img src="../media/apply.png" style="zoom:50%;" />](http://download.ningboruiyang.com/register.html?referrerId=2EHWG1RA)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/6665ed8f65121b584cfea602fab359fe-2.webp" style="zoom:50%;" />](http://download.ningboruiyang.com/register.html?referrerId=2EHWG1RA)
 
 > 该账号在代理端和客户端通用，无需重复注册
 
@@ -28,7 +28,7 @@
 
 **三、获取码牌及SN（重要！重要！重要！）**
 
-[<img src="../media/order.png" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=20)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/884deb7953d6a34e39091487efb3d2d1-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=20)
 
 > 请务必备注`代理XXX`，忘记备注请及时联系客服备注，否则无法划拨
 
@@ -68,7 +68,7 @@
 
 **举例：**金牌代理推广100户，客户月均扫码交易`10万`，实际可获得分润收入`100*（11*10）=11000元`
 
-![6361689215966_.pic](https://wiki.zjkmkj.com/media/202307131040963.jpg)
+![6361689215966_.pic](https://cos.zjkmkj.com/media/2024/08/20/d304917a6404e1aa06c89af63deb37dd-2.webp)
 
 特别说明：代理等级按照码牌数量决定，一个用户最多可绑定6张，下单数量可累积。
 
@@ -108,7 +108,7 @@
 
 PC端-机具管理-终端信息-终端编号 输入SN查看是不是已经在库了
 
-![图片1.png](../media/1630633552791297.png)
+![图片1.png](https://cos.zjkmkj.com/media/2024/08/20/9188c0725ec59b1765099078d67b7a00-2.webp)
 
 
 
@@ -118,9 +118,9 @@ PC端-机具管理-终端划拨-机具划拨-终端类型（选择超级碰一�
 
 
 
-![微信图片_20210905122527.png](../media/1630815969334608.png)
+![微信图片_20210905122527.png](https://cos.zjkmkj.com/media/2024/08/20/3aed9339946804e36858f9d4f228ce62-2.webp)
 
-![图片4.png](../media/1630633824580735.png)
+![图片4.png](https://cos.zjkmkj.com/media/2024/08/20/69394145f95eba876d33b49e544964b8-2.webp)
 
 **（三)终端回拨**
 
@@ -128,15 +128,15 @@ PC端-机具管理-终端回拨-机具回拨-选折要回拨的SN然后点击机
 
 
 
-![1630633877848291.png](../media/1630816188653572.png)
+![1630633877848291.png](https://cos.zjkmkj.com/media/2024/08/20/4ef245906558cd78cdafb895daaa8bec-2.webp)
 
-![1630633897557603.png](../media/1630816198958594.png)
+![1630633897557603.png](https://cos.zjkmkj.com/media/2024/08/20/5792931a6a1dd41c2e2f5553d6d66d48-2.webp)
 
 **（四)预设费率**
 
 PC端-机具管理-费率设置
 
-![图片7.png](../media/1630634215242386.png)
+![图片7.png](https://cos.zjkmkj.com/media/2024/08/20/7a7dc7f0a85154fc2c1af7a91c956ce3-2.webp)
 
 
 
@@ -152,13 +152,13 @@ PC端-机具管理-费率设置
 
 **1、机具费率修改(机具激活前):**PC端-机具管理-费率设置
 
-![图片8.png](../media/1630634429598666.png)**2、商户费率修改(机具激活后):**PC端-商户管理-商户列表-输入商户手机号-找到商户点击查看机具-选折其中一行点击费率修改
+![图片8.png](https://cos.zjkmkj.com/media/2024/08/20/8c63529e4f9938ff10dcddec2c4da00d-2.webp)**2、商户费率修改(机具激活后):**PC端-商户管理-商户列表-输入商户手机号-找到商户点击查看机具-选折其中一行点击费率修改
 
-![1630634529662978.png](../media/1630816213586660.png)
+![1630634529662978.png](https://cos.zjkmkj.com/media/2024/08/20/f49f826ac2b6ea98929373e595d72673-2.webp)
 
 
 
-**![图片10.png](../media/1630634543583467.png)**
+**![图片10.png](https://cos.zjkmkj.com/media/2024/08/20/d788e874dba86aa1f5a1ea9703eb6e78-2.webp)**
 
 **（四）** **信息变更**
 
@@ -192,7 +192,7 @@ PC端-机具管理-费率设置
 
 3. 上传身份证正反面照片报错，如出现“系统异常，请联系管理员”
 
-![图片11.png](../media/1630635242152321.png)
+![图片11.png](https://cos.zjkmkj.com/media/2024/08/20/c83605aab29a7eccd5d13f6195a6bf07-2.webp)
 
 答：图片过大，把图片通过微信压缩下，拍照后发送微信，保存微信记录的相关图片进行上传，最好500K以内。
 
@@ -200,7 +200,7 @@ PC端-机具管理-费率设置
 
 4. 绑定机具时报错：“终端类型与终端编号参数不符”
 
-![图片12.png](../media/1630635315227060.png)
+![图片12.png](https://cos.zjkmkj.com/media/2024/08/20/675813835caa04310e752d2e31fc8cee-2.webp)
 
 答：机具绑定的时候，针对碰一碰卡请选择超级碰一碰
 
@@ -210,7 +210,7 @@ PC端-机具管理-费率设置
 
 6. 地区进件限制、手机号段进件限制
 
-![图片13.png](../media/1630635387326752.png)
+![图片13.png](https://cos.zjkmkj.com/media/2024/08/20/650e25ac15064d07a4817b6727ca3f11-2.webp)
 
 答：165，162，167，170，171，176，149，198，199开头的手机号谨慎入件，随时被风控；徐州地区，3203禁止入件。
 
@@ -220,7 +220,7 @@ PC端-机具管理-费率设置
 
 8. 微信支付使用过程报错：“无可用渠道”
 
-![图片14.png](../media/1630635454612430.png)
+![图片14.png](https://cos.zjkmkj.com/media/2024/08/20/6f39d407f6bc42d7df3a1ee414b44e49-2.webp)
 
 答：原因可能有几种：1、只在APP端操作，小程序没有去认证；2、扫的不是小程序推送的二维码，导致系统获取不到认证状态；3、小程序认证没有通过。
 

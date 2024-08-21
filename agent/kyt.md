@@ -10,7 +10,7 @@
 
 ##### 一、加入代理（自助）
 
-[<img src="https://wiki.zjkmkj.com/media/202307051704076.png" style="zoom:50%;" />](http://u.zjkm.xyz/DL5Em)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/8ca3ce4042aea3ca166115c17718d117-2.webp" style="zoom:50%;" />](http://u.zjkm.xyz/DL5Em)
 
 > 已经成为商户的可直接点击`开运通`商户 APP-申请服务商，点击之后请通知卡盟客服修改费率
 
@@ -44,7 +44,7 @@
 
 **五、费率修改**
 
-![23451697269410_.pic_hd](https://wiki.zjkmkj.com/media/202310141543897.jpg)
+![23451697269410_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/25e2ddbc546f84b0d4a8260f5270c891-2.webp)
 
 ------
 
@@ -60,7 +60,7 @@
 
 **举例：**金牌代理推广100户，每个客户月交易5万，100×5×6=3000元
 
-![23501697444874_.pic](https://wiki.zjkmkj.com/media/202310161627655.jpg)
+![23501697444874_.pic](https://cos.zjkmkj.com/media/2024/08/20/5eff76c4930e47ccc2743f30eabc3a99-2.webp)
 
 特别说明：代理等级按照推广用户数量决定
 

@@ -31,7 +31,7 @@
 
 建行app-首页-热门活动-下拉-2023年第1季度信用卡Visa卡及万事达优享卡境外返现活动或者[:link: 点我直达](https://mobile.ccb.com/e_report/MerchantDiscount/activity/activity_d.html?intent=1&DcCp_Avy_ID=YHHD2022091964651)
 
-![WechatIMG1406 1](https://wiki.zjkmkj.com/media/202301041352625.png)
+![WechatIMG1406 1](https://cos.zjkmkj.com/media/2024/08/20/b73cddc9e92ddd40156ea6f3bb34eee5-2.webp)
 
 **二、需配合信息**
 

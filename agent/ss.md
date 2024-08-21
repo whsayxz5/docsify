@@ -12,11 +12,11 @@
 
 **一、提交代理申请**
 
-[<img src="../media/apply.png" style="zoom:50%;" />](http://u.zjkm.xyz/ZFipv)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/0fdeb289100e96c1ebd59391b340e829-2.webp" style="zoom:50%;" />](http://u.zjkm.xyz/ZFipv)
 
 **二、快速自助下单**
 
-[<img src="../media/order.png" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=22)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/222b2e37378115a6c2bad9dcba3ce5f7-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=22)
 
 > 下单流程：请务必备注代理XXX，否则激活后无法划拨商户，忘记备注请及时联系对接。
 
@@ -48,7 +48,7 @@
 
 **快递费：**全国包邮（顺丰到付请备注）
 
-![image-20230614191850887](https://wiki.zjkmkj.com/media/202306141918987.png)
+![image-20230614191850887](https://cos.zjkmkj.com/media/2024/08/20/4fb52e546f6f9d9169664b85d2625736-2.webp)
 
 **二、分润发放**
 
@@ -82,25 +82,25 @@
 
 **（一）终端入库**
 
-![图片3.png](../media/1630895539877376.png)
+![图片3.png](https://cos.zjkmkj.com/media/2024/08/20/a73f01e4edf61a4b7a54e7c0541ce3c0-2.webp)
 
 
 
 **（二）终端划拨**
 
-![图片4.png](../media/1630895549445216.png)
+![图片4.png](https://cos.zjkmkj.com/media/2024/08/20/d60f51d9d00e4cb62a8d126e47b1906e-2.webp)
 
 
 
 **（三）终端回拨**
 
-**![图片5.png](../media/1630895577368552.png)**
+**![图片5.png](https://cos.zjkmkj.com/media/2024/08/20/b9ff67d6f6a4655a7a91e4cdcb4df291-2.webp)**
 
 
 
 **（四）预设费率**
 
-**![图片6.png](../media/1630895591747874.png)**
+**![图片6.png](https://cos.zjkmkj.com/media/2024/08/20/63dcf0ce5bb2fc4f64371e5c1d182366-2.webp)**
 
 
 

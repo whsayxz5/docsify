@@ -22,15 +22,10 @@
 
 > 除此之外，规则没写的ApplePay，HuaweiPay等各种Pay也只给乐享积分，注意避坑。
 
-
-
 ##### 二、建议神器
 
-[合利宝](tool/hlb.md)/[安心付](tool/axf.md)/[恒信通](tool/hxt.md)/[云付宝](tool/yfb.md)
-
-
+[合利宝](tool/hlb.md)/[安心付](tool/axf.md)/[恒信通](tool/hxt.md)/[电银通](tool/dyt.md)
 
 ##### 三、操作姿势`只能刷卡`
 
 现在机器均为一机一码固定商户，建议注册酒店/餐饮，直接大额
-

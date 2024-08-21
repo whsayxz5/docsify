@@ -10,7 +10,7 @@
 
 **一、加入代理（自助）**
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://appweb.bjmymf.com/index.html?product=xhgj#/register?welcomecode=606185ad1742c31fadf85ae1&name=*德政(189****4555)&inviteAgentType=1)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/469a1c3d5b5e2c3241099d69e9872e4a-2.webp" style="zoom:50%;" />](https://appweb.bjmymf.com/index.html?product=xhgj#/register?welcomecode=606185ad1742c31fadf85ae1&name=*德政(189****4555)&inviteAgentType=1)
 
 > 该账号在代理端和客户端通用，无需重复注册
 
@@ -28,7 +28,7 @@
 
 **三、获取码牌SN（重要！重要！重要！）**
 
-[<img src="../media/order.png" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=27)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/9ec8a81e1c0d12ae9a36ebcdb9865640-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=27)
 
 > 请务必备注代理XXX，忘记备注请及时联系客服备注，否则无法划拨
 
@@ -76,7 +76,7 @@
 
 举例：金牌代理推广`100户`，客户月均扫码交易`10万`，实际可获得分润收入`100*（11*10）=11000元`
 
-![53941692343369_.pic](https://wiki.zjkmkj.com/media/202308181523584.jpg)
+![53941692343369_.pic](https://cos.zjkmkj.com/media/2024/08/20/70c89286f9b0bbb40f4cdfcb44fe3981-2.webp)
 
 > 福利：不定期根据交易量免费配发一定数量电子卡，卡盟代理专属福利
 >
@@ -124,13 +124,13 @@ PC端-终端维护-标签管理-查询
 
 小恒管家APP-我的标签-下拨-选择代理商-输入要下拨的实码牌/电子码牌sn号段-点击确认下拨
 
-![img](https://wiki.zjkmkj.com/media/202211211751628.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/581807fa0a17405895dcdd1edb6d64c1-2.webp)
 
 **（三）终端回拨**
 
 小恒管家APP-我的标签-已下拨-找到要回拨的sn-点击回拨
 
-![图片4.png](../media/1631158548602916.png)
+![图片4.png](https://cos.zjkmkj.com/media/2024/08/20/ed655bd1860af019168e8fb1b5e8aa44-2.webp)
 
 **（四）预设费率**
 
@@ -180,23 +180,23 @@ PC端-终端维护-标签管理-查询
 
 4. 商户升级为代理：小恒管家APP-首页-商户管理—我的商户-找到商户-点击升代理
 
-**![图片5.png](../media/1631159575428021.png)**
+**![图片5.png](https://cos.zjkmkj.com/media/2024/08/20/713264748576039f54f714594ca750f0-2.webp)**
 
 
 
 5. 电子码绑定：易付通APP首页-标签管理-已添加的标签列表点击未绑定的商户进行绑定-复制粘贴代理商给的标签ID或者电子收款码-绑定之后点击电子标签进去查看详情
 
-**![1631174961608599.png](../media/1631174961608599.png)![1631174966488437.png](../media/1631174966488437.png)**
+**![1631174961608599.png](https://cos.zjkmkj.com/media/2024/08/20/29aefe919518a8eaf06771c6a82f71e5-2.webp)![1631174966488437.png](https://cos.zjkmkj.com/media/2024/08/20/b635b8e2f6626c70f03f9a3f340ac55f-2.webp)**
 
 6. 合并结算：手动提现，多笔合一
 
 设置结算模式（见下图）
 
-![图片9.png](../media/1631175072504786.png)
+![图片9.png](https://cos.zjkmkj.com/media/2024/08/20/0b4827e9caf61258d42a36c165dd1fa0-2.webp)
 
 手动合并提现（见下图）
 
-**![图片10.png](../media/1631175123895275.png)**
+**![图片10.png](https://cos.zjkmkj.com/media/2024/08/20/319c25ca52df546f0adf3dfa6cf25445-2.webp)**
 
 **七、常见问题**
 
@@ -208,13 +208,13 @@ PC端-终端维护-标签管理-查询
 
 答：此标签未划拨或此商户注册错代理商
 
-![图片11.png](../media/1631175297692725.png)
+![图片11.png](https://cos.zjkmkj.com/media/2024/08/20/3570389427a10a379e2bb798f0743dbf-2.webp)
 
 3、限制进件地区
 
 答：云南边境、新疆、 西藏 、广西河池、北海 、广东茂名、阳江、江苏徐州地区
 
-![图片12.png](../media/1631175332767087.png)
+![图片12.png](https://cos.zjkmkj.com/media/2024/08/20/a5f5f57aeeb163ec6c59d3bf7941dbb8-2.webp)
 
 4、交易显示受理商户异常
 

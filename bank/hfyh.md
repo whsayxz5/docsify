@@ -8,7 +8,7 @@
 
 
 
-![img](../media/1554108212cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/06af9595b96cbb2549e52d622f46d8fa-2.webp)
 
 **（一）年费标准**
 
@@ -66,7 +66,7 @@
 
 
 
-![img](../media/1554108914cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/cfbe81222374fa0cff5e1d95fda5c359-2.webp)
 
 **（一）年费标准**
 
@@ -124,7 +124,7 @@
 
 
 
-![img](../media/1554166633cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/e564b41dee982d2d24b346b84cf342a9-2.webp)
 
 **（一）年费标准**
 

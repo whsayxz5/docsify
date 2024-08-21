@@ -1,7 +1,4 @@
----
-{}
----
-# 玩转上行-测试
+# 玩转上行
 
 - [主要玩法](#主要玩法)
 - [标准钻石卡](#标准钻石卡)
@@ -13,13 +10,13 @@
 
 # 主要玩法
 
-![< img src=https://wiki.zjkmkj.com/media/202303020958519.pngwatermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/20/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 />](https://wiki.zjkmkj.com/media/202303020958519.png)
+![玩转上海银行](https://cos.zjkmkj.com/media/2024/08/20/d854fe60c8b685f0ea846681890ede3e-2.webp)
 
 ---
 
 # 标准钻石卡
 
-![img](../media/W020201112632530903137.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/dc4537155c12f63a939517e8eb22ebaa-2.webp)
 
 **（一）年费标准**
 
@@ -53,7 +50,7 @@
 
 # 标准白金卡
 
-![img](../media/W020220124337211900454.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/c8a7b68e4f4a42380745420a36b1f1d5-2.webp)
 
 **（一）年费标准**
 
@@ -85,7 +82,7 @@
 
 # 吉祥至尊白
 
-<img src="../media/W020200514638898439851.jpg" alt="img" style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/e62412fde51211ce358162a72ab36379-2.webp" alt="img" style="zoom:67%;" />
 
 **（一）年费标准**
 
@@ -121,7 +118,7 @@
 
 # 吉祥精致白
 
-<img src="../media/1583286119332990.jpg" alt="1583286119332990.jpg" style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/86b52161a11e08bc029279806c8ecf6b-2.webp" alt="1583286119332990.jpg" style="zoom:67%;" />
 
 **（一）年费标准**
 

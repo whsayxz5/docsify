@@ -1,20 +1,6 @@
-# 特殊捷径
-
-**一、股东金卡**
-
-购买50股雅高股票就可以申请金卡（所谓的股东金），有效期一年，如次年继续持有可继续申请。
-
-**操作流程：**先在欧洲股票市场购入50股雅高股票，[点此申请](https://group.accor.com/en/investors/individual-shareholders/shareholders-club)，上传持仓记录即可。
-
-![1599017055666271.png](../media/1599017055666271.png)
-
-
-
-------
-
 # 雅高简介
 
-![FireShot Capture 009 - 法国雅高酒店官方网站 - Accor雅高酒店集团 - all.accor.com.png](../media/1599017901368600.png)
+![FireShot Capture 009 - 法国雅高酒店官方网站 - Accor雅高酒店集团 - all.accor.com.png](https://cos.zjkmkj.com/media/2024/08/20/3bcc8578953e3d67334a14fca92c8fb6-2.webp)
 
 雅高集团目前是欧洲最大的酒店集团。截至目前，雅高旗下39个品牌（不包括中国合作伙伴华住会下的品牌）共4900多家酒店已遍布全球110个国家。从奢华型到经济型酒店，从公寓式酒店到水疗酒店，在众多目的地中尽享最优选择，实现梦想，重新发现全球旅游的意义。
 
@@ -52,7 +38,7 @@
 
 # 会员计划
 
-**![img](../media/all-accor-live-limitless-sliver-gold-platinum-diamond-benifit-upgrade-910x273.jpg)**
+**![img](https://cos.zjkmkj.com/media/2024/08/20/4e1b783106b530e7adc508d4bfc0b964-2.webp)**
 
 雅高酒店集团于2020年将启用新会员计划：All - Accor Live Limitless（简称 ALL）心悦界。
 
@@ -240,7 +226,7 @@ A：原则上是实名制。条款规定在入住和用餐时必须A佳会员本
 
 用免房兑换奢侈酒店。可兑换酒店品牌包括亚太区内的：费尔蒙、瑞士、索菲特、铂尔曼、美憬阁、美爵、诺富特、美居、诗铂、宜必思。下表列出A佳卡值得兑换的雅高酒店。都是房价四位数以上且值得一住的酒店。
 
-![201910281572226540162172.jpg](../media/1599028594916117.jpg)
+![201910281572226540162172.jpg](https://cos.zjkmkj.com/media/2024/08/20/fe501f4183ffd33072c3c1907d43462b-2.webp)
 
 **（二）酒店五折用餐**
 
@@ -270,7 +256,7 @@ A：原则上是实名制。条款规定在入住和用餐时必须A佳会员本
 
 每消费10欧元可以获得25等级积分，银卡以上精英会员可以额外获得奖励积分。符合资格的消费包括：房费、早餐、餐厅就餐、迷你吧、水疗、付费电视、电话等。
 
-![img](../media/all-accor-live-limitless-sliver-gold-platinum-diamond-benifit-upgrade-1-scaled.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/07ff1c180250fcf9288a809c4813bc9c-2.webp)
 
 **（二）促销活动**
 

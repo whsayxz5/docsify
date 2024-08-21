@@ -30,7 +30,7 @@
 
 增值功能：高清触摸屏、纸质小票、WIFI/蓝牙/流量连接、主扫摄像头、第三方CRM系统等
 
-![1630055873146160.png](https://wiki.zjkmkj.com/media/1630055873146160.png)
+![1630055873146160.png](https://cos.zjkmkj.com/media/2024/08/20/f53485d6f7b7e2caf32bae7552342cd0-2.webp)
 
 **（二）传统大POS机：个人/商铺均可，商铺**
 
@@ -40,7 +40,7 @@
 
 
 
-![微信图片_20210827171842.png](https://wiki.zjkmkj.com/media/1630055979698442.png)
+![微信图片_20210827171842.png](https://cos.zjkmkj.com/media/2024/08/20/49ccde97535743e9e73d4e70273f1aa0-2.webp)
 
 **（三）电签POS机：个人使用为主，便携小巧，最推荐款式**
 
@@ -52,7 +52,7 @@
 
 
 
-![1631694905603377.jpg](https://wiki.zjkmkj.com/media/1631694905603377.jpg)
+![1631694905603377.jpg](https://cos.zjkmkj.com/media/2024/08/20/5a5059e8fe1c6efa002fdb1350fc29b0-2.webp)
 
 **（四）蓝牙手刷POS机：个人使用为主，需配合手机APP使用，推荐款式**
 
@@ -62,7 +62,7 @@
 
 
 
-![1631695339508959.jpg](https://wiki.zjkmkj.com/media/1631695339508959.jpg)
+![1631695339508959.jpg](https://cos.zjkmkj.com/media/2024/08/20/f62c11721e3bda65d269b83f89d2169f-2.webp)
 
 **（五）扫码牌：个人使用为主，主要用于微信支付宝，人手必备**
 
@@ -70,7 +70,7 @@
 
 增值功能：APP小票、无需网络
 
-![1630050684982203.jpg](https://wiki.zjkmkj.com/media/1630050684982203.jpg)
+![1630050684982203.jpg](https://cos.zjkmkj.com/media/2024/08/20/6e43824c542e686192081d1a9b45fedb-2.webp)
 
 **（六）境外POS机：纯属诈骗，切勿上当！**
 

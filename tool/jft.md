@@ -12,7 +12,7 @@
 
 ##### 一、已淘汰，请升级
 
-[<img src="https://wiki.zjkmkj.com/media/202312181647730.png" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/85a80b983c287401dae60ef1610f4541-2.webp" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
 
 > 达标退款：进入[:link: 我的订单](http://kmshop.zjkmkj.com/pages/users/order_list/index)，点击退款，选择已达标即可
 
@@ -20,7 +20,7 @@
 
 ##### 二、一清牌照
 
-<img src=../media/image-20220507101152645.png?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/20/gravity/northeast/dx/20/dy/20/batch/1/degree/45 width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/7c793fa674ada98732d73963f782f9d6-2.webp" width=400 />
 
 ##### 三、主要功能
 
@@ -39,6 +39,8 @@
 > **提醒：**金飞天注册`满150天`费率加`0.02%`（即`0.55%`）
 
 > **提醒：**切记关闭延误险，路径：`金飞天APP-首页-交易结算设置-到账延误险`，设置为`关闭`
+>
+> 机器注册当日无法秒到，次日正常可秒到
 
 ##### 五、特色功能
 
@@ -98,9 +100,9 @@
 
 ##### 十、机具图片
 
-![image-20220609004236302@0.5x](https://wiki.zjkmkj.com/media/202208232350553.jpg)
+![image-20220609004236302@0.5x](https://cos.zjkmkj.com/media/2024/08/20/c4ab5461dd36ae7681957bc75d616b90-2.webp)
 
-------
+---
 
 # 金飞天使用教程
 
@@ -116,21 +118,21 @@ IOS：用户可直接在应用商店搜索`金飞天`下载
 
 注册手机号、验证码快捷注册，并设置手势密码
 
-![image-20220609004312935](https://wiki.zjkmkj.com/media/image-20220609004312935.png)
+![image-20220609004312935](https://cos.zjkmkj.com/media/2024/08/20/91edc35427259e0a99a722f78af183aa-2.webp)
 
 ###### （二）实名认证
 
 注册登录后，进入实名认证页面。 根据提示填写相关信息之后，点击提交，完成实名认证。
 
->  注：如果四要素验证失败用户会进行肖像认证
+> 注：如果四要素验证失败用户会进行肖像认证
 
-![image-20220609004328879](https://wiki.zjkmkj.com/media/image-20220609004328879.png)
+![image-20220609004328879](https://cos.zjkmkj.com/media/2024/08/20/6d8575e4e8d9478f84c53ee24e337392-2.webp)
 
 ###### （三）商户开通
 
 首页-右上角“+”开 -选择扫码设备-扫机器开机屏幕二维码-终端识别成功后，跳转到结算卡页面，填写提交即可，注册完成。
 
-![image-20220609004344171](https://wiki.zjkmkj.com/media/image-20220609004344171.png)
+![image-20220609004344171](https://cos.zjkmkj.com/media/2024/08/20/af3ac070aca5ac81df307980e19b08fe-2.webp)
 
 **三、正常使用**
 
@@ -146,25 +148,25 @@ IOS：用户可直接在应用商店搜索`金飞天`下载
 
 默认`笔笔秒到`，支持`合并到账`：在金飞天-合并出款-点击开启，开启`合并出款设置`，实现多笔交易一笔结算
 
-![image-20220609004433621](https://wiki.zjkmkj.com/media/image-20220609004433621.png)
+![image-20220609004433621](https://cos.zjkmkj.com/media/2024/08/20/93b2c5df8bf8539e3b4bc9a801aefa5a-2.webp)
 
 ###### （四）特惠交易`独家`
 
 **1、开通功能：**首页-【进入活动】，进入`降费特惠`设置页面`（注：符合条件的商户才会有活动入口）`，点击开启即可享受功能。
 
-![image-20220609004401671](https://wiki.zjkmkj.com/media/image-20220609004401671.png)
+![image-20220609004401671](https://cos.zjkmkj.com/media/2024/08/20/304847a2ab30ea67a8c18f6fb30f6a0c-2.webp)
 
 **2、自主结算：**首页-【特惠待结算】，进入自主结算页面，
 
 > 注：特惠交易不会自动到账，手动提现即可
 
-![image-20220609004418215](https://wiki.zjkmkj.com/media/image-20220609004418215.png)
+![image-20220609004418215](https://cos.zjkmkj.com/media/2024/08/20/3ee0db43da55b18606d08df4a918099c-2.webp)
 
 **三、其他说明**
 
 ###### （一）官方客服
 
-4006969619
+4006969619[](http://voice.google.com/calls?a=nc,%2B14006969619 "Call +1 400-696-9619 via Google Voice")
 
 ###### （二）常见问题
 
@@ -172,7 +174,7 @@ IOS：用户可直接在应用商店搜索`金飞天`下载
 
 交易超限，磁条卡单笔限额1000，`金飞天-认证提额度-卡认证提额`
 
-![image-20220609004450025](https://wiki.zjkmkj.com/media/image-20220609004450025.png)
+![image-20220609004450025](https://cos.zjkmkj.com/media/2024/08/20/77b23ecb280785aa4b30e7bb1501b9f7-2.webp)
 
 **2、机具静音**
 
@@ -186,19 +188,17 @@ IOS：用户可直接在应用商店搜索`金飞天`下载
 
 **4、“风险商户自助解冻”功能优化调整：**
 
- 针对部分触发风控规则的疑似风险商户或银行卡，可在`“金飞天”APP首页-“刷卡异常处理”板块`根据页面提示完成信息认证，认证通过后即可解除限制恢复正常交易。
+针对部分触发风控规则的疑似风险商户或银行卡，可在`“金飞天”APP首页-“刷卡异常处理”板块`根据页面提示完成信息认证，认证通过后即可解除限制恢复正常交易。
 
-<img src="https://wiki.zjkmkj.com/media/202301041648781.png" alt="WechatIMG1411" style="zoom: 25%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/f304cfc89248c527b143751ed904a06a-2.webp" alt="WechatIMG1411" style="zoom: 25%;" />
 
-------
+---
 
 # 金飞天时间表
 
 > 仅供参考，由落地城市商户池丰富程度决定
 
-![微信图片_20210520105401.jpg](../media/1621479251235515.jpg)
-
-
+![微信图片_20210520105401.jpg](https://cos.zjkmkj.com/media/2024/08/20/61f50a4bda70ad932de70da286e04154-2.webp)
 
 ---
 

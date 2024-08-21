@@ -9,19 +9,17 @@
 
 # 有钱收领取
 
-<img src=../media/wecom-temp-0c8fda056907beab6aa847a575bef43e.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/20/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=800 />
-
 ##### **一、免费领取**
 
-[<img src="https://wiki.zjkmkj.com/media/202208211953479.png" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/50aa6ab925dbbc749fbcd62a2a728036-2.webp" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
 
 > 注：自助领取体验卡SN，首张免费体验，仅限卡盟用户，不含代理
 
-![image-20220511171950977](../media/image-20220511171950977.png)
+
 
 ##### **二、正常下单`（代理或需要更多商户/实体卡的客户）`**
 
-[<img src="https://wiki.zjkmkj.com/media/202208211953315.png" style="zoom:33%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=43)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/3d595fc7194a75b24ddeea16dcfe2bfc-2.webp" style="zoom:33%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=43)
 
 > **客户：**无需备注，在[:link: 我的订单](http://kmshop.zjkmkj.com/pages/users/order_list/index)-`订单详情页-商家备注`查看SN，绑定后提供注册手机号码给我司变更费率
 >
@@ -29,7 +27,7 @@
 
 ##### **三、一清牌照**
 
-<img src=https://wiki.zjkmkj.com/media/pay2.jpg width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/273765003cb27a956fcdc20d1c408d54-2.webp" width=400 />
 
 ##### **四、独特功能**
 
@@ -58,12 +56,14 @@
 **大额碰一碰：**`0.68%`，`1000元/笔/天`，`5笔/卡`
 
 > 无提现费，可秒到/合并到账，秒到时间6：00-22：50（其他时间T1到账）
+>
+> 机器注册当日无法秒到，次日正常可秒到
 
 ##### **六、购买费用**
 
 新用户可[:link: 点我领取](http://u.zjkm.xyz/X5CJy)免费体验卡，后续增加购买需自费10元/张
 
-![image-20220511171950977](../media/image-20220511171950977.png)
+
 
 ##### **七、支付宝正确玩法（无风控使用技巧，非常重要，必看）**
 
@@ -81,7 +81,7 @@
 
 [:link: 点此开通代理](agent/yqs.md)，注册分享即可推广，5张起共享封顶政策
 
-------
+---
 
 # 有钱收使用教程
 
@@ -95,15 +95,11 @@
 
 介绍人电话号码填：`18969764555`
 
-<img src=../media/image-20220112003451847.png?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/20/gravity/northeast/dx/20/dy/20/batch/1/degree/45 />
-
 
 
 > **重要：**已申请代理的，直接使用`代理账号（小有管家账号）`登录，无需重复注册
 >
 > **重要：**必须本人实名认证手机号码，否则无法使用
-
-
 
 ##### **三、获取SN**
 
@@ -111,13 +107,13 @@
 
 **购买用户：**已下单购买码牌客户直接使用购买的码牌SN
 
-![image-20220511171950977](../media/image-20220511171950977.png)
+
 
 ##### **四、登陆APP实名认证**
 
 注意：请勿使用95588开头的工行卡，会无法结算
 
-![image-20220112004507864@0.5x](https://wiki.zjkmkj.com/media/202208232354621.jpg)
+![image-20220112004507864@0.5x](https://cos.zjkmkj.com/media/2024/08/20/2cc5ad8eda6ccfcb5be764391a088b16-2.webp)
 
 ##### 五、设置MCC和商户
 
@@ -129,7 +125,7 @@
 
 **行业类型：**就是MCC
 
->  如果提示mcc进件数量超限，请更换商户类型重新提交
+> 如果提示mcc进件数量超限，请更换商户类型重新提交
 
 **更多商户：**请看第十三步，[点我直达](#十三、增加更多商户)
 
@@ -139,7 +135,7 @@
 >
 > **重要：**请选择`就近店铺`，超过`50KM`的店铺无法使用扫码功能
 
-![image-20220112004536574](https://wiki.zjkmkj.com/media/202208232353150.jpg)
+![image-20220112004536574](https://cos.zjkmkj.com/media/2024/08/20/d91915a48035553cc9ca73c8a2acc568-2.webp)
 
 ##### **六、提升等级**`重要`
 
@@ -153,8 +149,6 @@
 
 **金牌（人脸识别）：**笔笔秒到，扫码单笔5万，单日20万
 
-<img src=../media/image-20220112004622039.png?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/20/gravity/northeast/dx/20/dy/20/batch/1/degree/45 />
-
 
 
 ##### **七、绑定卡牌**
@@ -165,11 +159,11 @@
 
 > 如提示商户进件信息失败或末审核通过，请等待1个工作日左右商户审核后绑定
 
-<img src=../media/image-20220112004604831.png?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/20/gravity/northeast/dx/20/dy/20/batch/1/degree/45 />
+
 
 ##### 八、开通扫码`非常重要`
 
->  目前支付宝微信均需认证后开通
+> 目前支付宝微信均需认证后开通
 
 **开通支付宝：**按照[:link: 支付宝认证教程](tool/zfbrz.md)操作
 
@@ -179,7 +173,7 @@
 
 点击`收款码`，扫码支付`5-10元`即可激活成功
 
-<img src=../media/image-20220112004837667.png?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/20/gravity/northeast/dx/20/dy/20/batch/1/degree/45 />
+
 
 ##### **十、卡牌写入（需实体码牌+支持PAY功能的安卓）**`可跳过`
 
@@ -207,7 +201,7 @@
 
 通过添加收银员`（1-5个）`，按照提示，重复[第五](#五、设置MCC和商户)-[第十一步](#十一、正常使用)入网绑定入网绑定，即可正常使用
 
-![image-20220112004649187](https://wiki.zjkmkj.com/media/202208232352343.jpg)
+![image-20220112004649187](https://cos.zjkmkj.com/media/2024/08/20/c852c18a8a7355bcd20fdbd5fa0e6df1-2.webp)
 
 ##### **十四、多笔合并提现**`防借记卡风控`
 
@@ -221,9 +215,7 @@
 
 2、刷完，`交易记录`-右上角-`合并提现`
 
-![image-20220310102850287@0.5x](https://wiki.zjkmkj.com/media/202208232351894.jpg)
-
-
+![image-20220310102850287@0.5x](https://cos.zjkmkj.com/media/2024/08/20/ccef1943feec83612f9f75c90ec98a4f-2.webp)
 
 ---
 

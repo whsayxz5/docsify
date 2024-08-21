@@ -2,7 +2,7 @@
 
 > 重要说明：由于微信商户认证流程较为繁琐，如有问题请随时联系我司客服协助
 
-请务必按照以下教程顺序依次操作，不要跳步骤，不要漏步骤！
+请务必按照以下教程顺序依次操作，不要跳步骤，不要漏步骤，不要加步骤！
 
 一、[适用神器](#适用神器)
 
@@ -14,97 +14,58 @@
 
 :heart: 恭喜你，可以正常使用微信支付了
 
------
+---
 
 # 适用神器
 
 - [付惠码](tool/fhm.md)
 - [聚收银](tool/jsy.md)
 - [拉卡拉](tool/lkl.md)
-- [享云付](tool/ldxyf.md)
 - [易收钱](tool/ysq.md)
-- [云付宝](tool/yfb.md)`新品`
-- [申鑫](tool/sx.md)
-- [盛刷](tool/ss.md)`淘汰`
-- [有钱收](tool/yqs.md)`淘汰`
-- [易碰碰](tool/ypp.md)`淘汰`
-- [米易收](tool/mys.md)`淘汰`
+- [云付宝](tool/yfb.md)
+- [至尊宝](tool/zzb.md)`新品`
 
-------
+---
 
 # 获取认证信息
 
 一、[付惠码](tool/fhm.md)
 
-渠道码：416176717
+渠道码：按照下图路径获取，不同通道对应不同渠道码
 
-![32351702879937_.pic_hd](https://wiki.zjkmkj.com/media/202401031700893.png)
+![wecom-temp-3077466-87cbd1cc7aab31f2a2c173ca8a97556e](https://cos.zjkmkj.com/media/2024/08/20/f5bd6ffb73ac80f32ddaed7ece0fb4b2-2.webp)
 
 **二、[聚收银](tool/jsy.md)**
 
-渠道码：180487243
+渠道码：按照下图路径获取，不同通道对应不同渠道码
 
-![22901696858015_.pic_hd](https://wiki.zjkmkj.com/media/202401031700531.png)
+![22901696858015_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/ad682f67541b963fb7328a7b8d03d8a8-2.webp)
 
 ##### 三、[拉卡拉](tool/lkl.md)
 
 渠道码：见下图
 
-子商户号：汇拓客APP-商户管理-商户查询-`子商户号`，截图保存
+子商户号：拉生意APP-商户管理-微信实名认证-认证二维码，截图保存
 
-![IMG_7912](https://wiki.zjkmkj.com/media/202306111457204.JPG)
-
-##### 四、[米易收](tool/mys.md)
-
-商家认证-微信认证二维码-保存至手机相册，再使用微信扫码进行认证。
-
-![48341690966099_.pic_hd](https://wiki.zjkmkj.com/media/202401031703990.png)
+![1](https://cos.zjkmkj.com/media/2024/08/20/79242ec450d1495cf57c05261fe2ecd1-2.webp)
 
 ##### 五、[云付宝](tool/yfb.md)
 
 云付宝Pro-首页-扫码认证-微信-获取小程序二维码-长按复制微信子商户号/使用微信扫码进行认证
 
-渠道码：1555136627
-
-![img](https://wiki.zjkmkj.com/media/202401041059269.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/d77fb288849a853190e2d856cfb7701b-2.webp)
 
 ##### 六、[易收钱](tool/ysq.md)
 
 我的-头像下方 `去授权`-微信认证二维码-保存至手机相册，再使用微信扫码进行认证。
 
-![img](https://wiki.zjkmkj.com/media/202401041101126.png)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/a3d6c8762d7fd855c2c48914c8efe843-2.webp" style="zoom:28%;" />
 
-##### 七、[盛刷](tool/ss.md)
+#### 十二、[至尊宝](tool/zzb.md)
 
-商户号：见图 2
+渠道码：按照下图路径获取
 
-渠道码：见图 3
-
-![wecom-temp-414198-16a0d60becd926b608a468905af66476](https://wiki.zjkmkj.com/media/202306181051729.jpg)
-
-##### 八、[申鑫](tool/sx.md)
-
-商户入网成功以后，会有短信发至商户手机上，里面有支付宝微信的商户号
-
-<img src="https://wiki.zjkmkj.com/media/202211091223716.jpg" alt="img" style="zoom:50%;" />
-
-##### 九、[有钱收](tool/yqs.md)
-
-[:link:点我登录认证页面](http://mng.ningboruiyang.com/h5-facilitator/)-账号密码同有钱收-选择`需开通的商户`-点击会显示的`微信渠道码和商户号`，保存
-
-> 如微信/支付宝按钮为灰色，请联系卡盟客服提供手机号码+商户名进行重置再重试
-
-![image-20220915155937207](https://wiki.zjkmkj.com/media/202209171022151.png)
-
-##### 十、[易碰碰](tool/ypp.md)
-
-> 请联系卡盟客服提供手机号码+商户名进行查询
-
-##### 十一、[享云付](tool/ldxyf.md)
-
-打开`享云付APP-商家-微信开通`，左图就是`渠道码`。
-
-<img src="https://wiki.zjkmkj.com/media/202210202001166.png" alt="image-20221020200157108" style="zoom:33%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/b47d9dade07acad011110ada5a6a59d1-2.webp" style="zoom:33%;" />
 
 ---
 
@@ -126,19 +87,18 @@
 
 （三）注册数量
 
-一个人仅需注册一次小微商户即可，商户名为`商户_你名字`
+一个人仅需注册一次小微商户即可，商户名为`商户_你名字`，一个商户可以关联多个码牌
 
 **二、等待审核**
 
 提交后状态变为待审核，1个工作日内微信会推送审核结果
 
-![wecom-temp-a3c40fb182a13f0d03fb84f2ef940f61](../media/wecom-temp-a3c40fb182a13f0d03fb84f2ef940f61.jpg)
+![1831710227616\pic](../media/202403121513179.jpg)
 
-![wecom-temp-2d11f86d84b57fae2232a1f3dd1cde6b](../media/wecom-temp-2d11f86d84b57fae2232a1f3dd1cde6b.jpg)
+![1841710227617\pic](../media/202403121514677.jpg)
 
-![5971685343642_.pic_hd](https://wiki.zjkmkj.com/media/202305291500309.jpg)
+![5971685343642_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/01638250c78b6f06bc3043ee876899ba-2.webp)
 
-> **[五、🔗同一微信认证多户小微商户](五、同一微信认证多户小微商户)点此**
 
 ---
 
@@ -146,17 +106,19 @@
 
 **一、进入审核流程**
 
-收到商家通过审核通知后，扫第一步获取的`渠道二维码`，选择商家`商户_XXX`
+收到商家通过审核通知后，扫第一步获取的`渠道二维码`，选择小微商户`商户_XXX`
 
-![6021685343902_.pic_hd](https://wiki.zjkmkj.com/media/202305291505335.jpg)
+![6021685343902_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/12c63648fb853d96f95f244c41760f49-2.webp)
 
 **二、核实收款商户号**
 
-商家下方会显示可选择的商户号，选择需核实商户-确认无误-提交即可。如无可选择的商户号，点击`查找商户号`，手动输入第一步获取的`商户号`，绑定即可正常使用微信支付
+商家下方会显示可选择的商户号，选择需核实商户-确认无误-提交即可。
 
-> **注意：**无需重复注册商户，直接确认即可，同一个身份证最多认证5个商户（超出会自动提示超过数量）
+如无可选择的商户号，点击`查找商户号`，手动输入第一步获取的`商户号`，绑定即可正常使用微信支付
 
-![wecom-temp-771d439727246655b74e6d184cd32fb7](https://wiki.zjkmkj.com/media/202209171023778.jpg)
+> **注意：**无需重复注册小微商户，同一个小微商户可以同时认证5个子商户（超出会自动提示超过数量），不用的可以解除关联。
+
+![wecom-temp-771d439727246655b74e6d184cd32fb7](https://cos.zjkmkj.com/media/2024/08/20/cac96be372cee0622c7ca5171db1eaa3-2.webp)
 
 ##### 三、特殊情况
 

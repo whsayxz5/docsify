@@ -13,7 +13,7 @@
 
 ##### 一、产品已升级
 
-[<img src="https://wiki.zjkmkj.com/media/202309241102268.png" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/bcd84051d273a5c98eb34d6d42135cfe-2.webp" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
 
 > 涨价预警：23年7月前注册的用户涨价万260+3，并加收98元流量卡，尽快免费更换最新机器
 
@@ -21,9 +21,9 @@
 
 **二、一清牌照**
 
-<img src=https://wiki.zjkmkj.com/media/zfxkz.png  width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/4309ea4395edf884b9c96080bdb29d59-2.webp"  width=400 />
 
->  杉德客服热线电话：021962567
+> 杉德客服热线电话：021962567
 
 ##### 三、主要功能
 
@@ -70,12 +70,14 @@
 **秒到时间：**除`22:45-23:05`维护不能秒到，其他时间均可以秒到
 
 > 注意：PAY建议使用[合利宝](tool/hlb.md)，银联扫码建议使用[合利宝](tool/hlb.md)/[钱小宝](tool/qxb.md)
+>
+> 机器注册当日无法秒到，次日正常可秒到
 
 !> 【不可改】99元服务费：针对23年3月1日前注册的用户，近期第一笔交易会被额外收取99 元/台服务费（仅收取一次）。<br><br>
 【不可改】秒到+3 提现费：针对注册120天内累计刷卡不满10万的用户，第121天起秒到+3元/笔。<br><br>
 【可改】优享万3费率：针对注册满180天的用户，APP/公众号-个人中心-设置-优享商户开关，选择关闭，当月有效。<br><br>
 【可改】涨价万5费率：针对23年1月1日前注册的用户，可恢复：杉付宝APP/公众号-个人中心-设置-打开/勾选一键恢复。<br> <br>
- <img src="https://wiki.zjkmkj.com/media/202306282126213.png" alt="image-20230628212634101" style="zoom:50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/7a9b8883d0751f23a4dd5ac0f65cfb94-2.webp" alt="image-20230628212634101" style="zoom:50%;" />
 
 ##### 六、安装费用
 
@@ -107,13 +109,13 @@
 
 **九、机具图片**
 
-<img src="https://wiki.zjkmkj.com/media/202208172354591.jpg" alt="202208172349298" style="zoom: 25%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/52d26f04fd4782b425834ad4a89cc8dd-2.webp" alt="202208172349298" style="zoom: 25%;" />
 
 **十、其他说明**
 
 机器费率及功能最终解释权以支付公司为准，我司也会尽力告知最新动态，如有问题请随时联系我司客服
 
-------
+---
 
 # 杉付宝使用教程
 
@@ -129,13 +131,13 @@
 
 > 门头照：美团/点评随便找个店铺，截图上传（有水印或者LOGO记得裁切）
 
-![17561675477816_.pic_hd](https://wiki.zjkmkj.com/media/202302041030718.jpg)
+![17561675477816_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/8d7d2e9f889ef4210de6c128fad97436-2.webp)
 
-![17571675478519_.pic_hd](https://wiki.zjkmkj.com/media/202302041042922.jpg)
+![17571675478519_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/efb1222d40a07f95b883a78ec06b1eb0-2.webp)
 
-![17551675477734_.pic](https://wiki.zjkmkj.com/media/202302041035432.jpg)
+![17551675477734_.pic](https://cos.zjkmkj.com/media/2024/08/20/24a78a1f62cb5f983061c55209029fa8-2.webp)
 
-![image-20221204140029665](https://wiki.zjkmkj.com/media/202212041400734.png)
+![image-20221204140029665](https://cos.zjkmkj.com/media/2024/08/20/ab7927d1fc27389fa5c86f1f252c4d81-2.webp)
 
 ##### 三、正常使用
 
@@ -148,7 +150,6 @@
 2、扫码：扫码支付，支持银联扫码/支付宝等，`不支持微信`
 
 > 商户扫码	：机器扫手机付款码，提示请扫码的时候，对准付款码，20cm左右高度即可
->
 
 **（二）磁条卡认证**
 
@@ -160,7 +161,7 @@
 
 > 若提示商户号为空，点击我的-退出，重新登录即可。
 
-![image-20221204140448668](https://wiki.zjkmkj.com/media/202212041404701.png)
+![image-20221204140448668](https://cos.zjkmkj.com/media/2024/08/20/3a800b6081e8e2d422592710fa07a1b7-2.webp)
 
 **（四）其他问题**
 
@@ -176,7 +177,7 @@
 
 6、机器提示R7证件补录和修改结算卡：杉付宝客户端APP，我的结算卡-上传清晰结算卡图片；个人中心 -证件补录-上传清晰证件照片
 
------
+---
 
 # 杉付宝奖池兑换
 
@@ -186,7 +187,7 @@
 
 **二、兑换步骤**
 
-![image-20230102181521763](https://wiki.zjkmkj.com/media/202301021818161.png)
+![image-20230102181521763](https://cos.zjkmkj.com/media/2024/08/20/2085d1905ddc9db98a1b96d90dbad1b5-2.webp)
 
 **三、奖金提现**
 
@@ -206,15 +207,13 @@ APP-首页-奖金池-提现-确认银行卡信息，提现即可
 
 满10万可兑换一次，超出部分不叠加次数
 
-----
+---
 
 # 杉付宝时间表
 
 > 目前所有机器时间表均不准确，仅供参考，同卡连续商户不变规则最准确
 
-![image-20220901102247897](https://wiki.zjkmkj.com/media/202209011022338.png)
-
-
+![image-20220901102247897](https://cos.zjkmkj.com/media/2024/08/20/349dc403002d17520bff059f8ce7766e-2.webp)
 
 ---
 

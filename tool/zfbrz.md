@@ -7,97 +7,65 @@
 - [适用神器](#适用神器)
 - [获取认证信息](#获取认证信息)
 - [支付宝商家注册](#支付宝商家注册)
-- [核实子商户号](#核实子商户号)
+- [核实子商户号](#核实收款账号)
+- [风险商户申诉](tool/zfbjx.md)
 
 :heart: 恭喜你，可以正常使用支付宝支付了
 
------
+---
 
 # 适用神器
 
-- [付惠码](tool/fhm.md)
-- [云付宝](tool/yfb.md)
-- [聚收银](tool/jsy.md)
-- [拉卡拉](tool/lkl.md)
-- [享云付](tool/ldxyf.md)
-- [易收钱](tool/ysq.md)
-- [申鑫](tool/sx.md)
-- [盛刷](tool/ss.md)`淘汰`
-- [米易收](tool/mys.md)`淘汰`
+- [付惠码](#一、付惠码)
+- [云付宝](#二、云付宝)
+- [聚收银](#三、聚收银)
+- [拉卡拉](#四、拉卡拉)
+- [享云付](#六、享云付)
+- [盛刷](#五、盛刷)
 
-------
+---
 
 # 获取认证信息
 
-**一、**[付惠码](tool/fhbmp.md)
+##### 一、付惠码
 
 渠道码：2088230998315314
 
-![img](https://wiki.zjkmkj.com/media/202401041104550.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/74cd7c511873ebb834ca0d490fd83fc4-2.webp)
 
-**二、**[云付宝](tool/yfb.md)
+##### 二、云付宝
 
 渠道码：2088441632227751
 
-![img](https://wiki.zjkmkj.com/media/202401041104447.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/d761221704ae19e7cb88e27cac6200fd-2.webp)
 
-**三、**[聚收银](tool/jsy.md)
+##### 三、聚收银
 
 渠道码：2088541272856079
 
-![img](https://wiki.zjkmkj.com/media/202401041106607.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/b9109df5500f6d0d05737f35d99eec46-2.webp)
 
-##### 四、[拉卡拉](tool/lkl.md)
+##### 四、拉卡拉
 
 渠道码：见下图
 
 子商户号：汇拓客APP-商户管理-商户查询-`子商户号`，截图保存
 
-![IMG_7,912@0.5x](https://wiki.zjkmkj.com/media/202306111457595.jpg)
+![1](https://cos.zjkmkj.com/media/2024/08/20/ea696d49a8eaeb5fe0c183074bf0f6b0-2.webp)
 
-##### 五、[米易收](tool/mys.md)
-
-商家认证-支付宝认证二维码-保存至手机相册，再使用支付宝扫码进行认证。
-
-![16971692335016_.pic](https://wiki.zjkmkj.com/media/202308181304149.jpg)
-
-##### 六、[易收钱](tool/ysq.md)
-
-我的-头像下方 `去授权`-支付宝认证二维码-保存至手机相册，再使用支付宝扫码进行认证
-
-![img](https://wiki.zjkmkj.com/media/202401041107298.png)
-
-**七、**[盛刷](tool/ss.md)
+##### 五、盛刷
 
 商户号：见图 2
 
 渠道码：见图 3
 
-![wecom-temp-414198-16a0d60becd926b608a468905af66476](https://wiki.zjkmkj.com/media/202306181052066.jpg)
+![wecom-temp-414198-16a0d60becd926b608a468905af66476](https://cos.zjkmkj.com/media/2024/08/20/72e73928566d5190cb07a67b45b0c90a-2.webp)
 
-##### 八、[有钱收](tool/yqs.md)
-
-[:link:点我登录认证页面](http://mng.ningboruiyang.com/h5-facilitator/)-账号密码同有钱收-选择`需开通的商户`-点击会显示的支付宝渠道码和商户号
-
-![image-20220915155937207](https://wiki.zjkmkj.com/media/202209151559653.png)
-
-##### 九、[易碰碰](tool/ypp.md)
-
-> 请联系卡盟客服提供手机号码+商户名进行查询
-
-##### 十、[申鑫](tool/sx.md)
-
-商户入网成功以后，会有短信发至商户手机上，里面有支付宝微信的商户号
-
-<img src="https://wiki.zjkmkj.com/media/202211091224695.jpg" alt="img" style="zoom:25%;" />
-
-##### 十一、[享云付](tool/ldxyf.md)
+##### 六、享云付
 
 打开`享云付APP-商家-支付宝开通`，就是`渠道码和商户号`。
 
-<img src="https://wiki.zjkmkj.com/media/202210201947088.png" alt="image-20221020194728011" style="zoom:33%;" />
-
-
+<img src="https://cos.zjkmkj.com/media/2024/08/20/652cee7470991a38f2b8ee21050b55e9-2.webp" alt="image-20221020194728011" style="zoom:33%;" />
 
 ---
 
@@ -113,13 +81,13 @@
 
 `美团/点评`等APP里面搜索保存（务必注意有水印或者LOGO记得裁切，否则审核不通过）
 
-![12681688635138_.pic_hd](https://wiki.zjkmkj.com/media/202307061719555.jpg)
+![12681688635138_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/34cdf29d145f980317f303484d493f64-2.webp)
 
 **二、等待审核**
 
 提交后状态变为待审核，1个工作日内支付宝会推送审核结果
 
-![5921685342876_.pic_hd](https://wiki.zjkmkj.com/media/202305291448632.jpg)
+![5921685342876_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/769c52d0ffc5676d6283eab79ca31de2-2.webp)
 
 ---
 
@@ -131,7 +99,22 @@
 
 收到审核通过通知后，点击通知打开链接，点击`去核实`，输入第一步获取的`子商户号`，绑定即可
 
-![5931685342878_.pic_hd](https://wiki.zjkmkj.com/media/202305291452346.jpg)
+![5931685342878_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/74299da79c0841f387751d10dda92e1a-2.webp)
 
-![5941685342879_.pic_hd](https://wiki.zjkmkj.com/media/202305291452236.jpg)
+![5941685342879_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/155ca2aca7549ca966f9cc4410164e23-2.webp)
 
+---
+
+# 支付宝解限
+
+##### 一、解除限制
+
+前期部分用户由于支付宝官方限制无法使用支付宝信用卡支付，目前已可自助申诉。
+
+申诉提交后，`无论成功与失败`均可正常使用后我司新品支付宝大额信用卡无风控通道，可正常使用支付宝大额信用卡。
+
+##### 二、申诉流程
+
+![](https://cos.zjkmkj.com/media/2024/08/20/778a958f78c9be785a60bc7993e56e31-2.webp)
+
+![](https://cos.zjkmkj.com/media/2024/08/20/dbbcf984991d6eef4109bffb006c2e79-2.webp)

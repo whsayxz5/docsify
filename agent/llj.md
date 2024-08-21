@@ -16,13 +16,13 @@
 
 **一、提交代理申请**
 
-[![image.png](../media/1567519864869188-20211217211023352.png)](https://jinshuju.net/f/LEus0w)
+[![image.png](https://cos.zjkmkj.com/media/2024/08/20/5e5e7976da86a9e720791ba3605f8da5-2.webp)](https://jinshuju.net/f/LEus0w)
 
 
 
 **二、快速自助下单**
 
-[![1569425353473233.png](../media/1617518736742356.png)](https://kmbk.zjkmkj.com/Index/194)
+[![1569425353473233.png](https://cos.zjkmkj.com/media/2024/08/20/741c7d49662fc41167ff22c7c885afee-2.webp)](https://kmbk.zjkmkj.com/Index/194)
 
 
 
@@ -58,11 +58,11 @@
 
 **交易分润：**70%起，结算费率见下图
 
-![image.png](../media/1567580773400820.png)
+![image.png](https://cos.zjkmkj.com/media/2024/08/20/30236a6b37e95d1f60fc89801c7ff43a-2.webp)
 
-![image.png](../media/1567518914257961.png)
+![image.png](https://cos.zjkmkj.com/media/2024/08/20/9403dcb38630238106f8d245e7f50976-2.webp)
 
-![1560738117413945.png](../media/1560738117413945.png)
+![1560738117413945.png](https://cos.zjkmkj.com/media/2024/08/20/63f7bb2d961919a596d6ac9dd6c1a51c-2.webp)
 
 
 

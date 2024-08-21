@@ -10,11 +10,11 @@
 
 ##### 一、提交代理申请
 
-[<img src="../media/apply.png" style="zoom:50%;" />](http://u.zjkm.xyz/ZFipv)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/07f53299698a68cd104872837b605681-2.webp" style="zoom:50%;" />](http://u.zjkm.xyz/ZFipv)
 
 ##### 二、快速自助下单
 
-[![image.png](../media/1567520073143557-20211217211325311.png)](http://kmshop.zjkmkj.com/detail/7)
+[![image.png](https://cos.zjkmkj.com/media/2024/08/20/4a32f417d87a5e7bd1e5f161bc51c531-2.webp)](http://kmshop.zjkmkj.com/detail/7)
 
 **下单流程：**请务必备注代理XXX，否则激活后无法划拨商户，忘记备注请及时联系对接。
 

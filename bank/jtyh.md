@@ -20,31 +20,31 @@
 
 **二、图解姿势**
 
-![无标题.png](../media/1620746677334855.png)
+![玩转交行](https://cos.zjkmkj.com/media/2024/08/20/36a6d2da573e4e1d33817981b4e75204-2.webp)
 
 **（一）标准白金卡**
 
 **主要玩法：**年费可免，权益丰富，里程上限高，新户建议入
 
-**适合神器：**[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)、[拉卡拉](tool/lkl.md)等
+**适合神器：**[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)、[易收钱](tool/ysq.md)、[拉卡拉](tool/lkl.md)等
 
 **（二）牛气冲天卡**
 
 **主要玩法：**8倍积分，神卡必撸，且玩且珍惜
 
-**适合神器：**[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)、[拉卡拉](tool/lkl.md)等
+**适合神器：**[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)、[易收钱](tool/ysq.md)、[拉卡拉](tool/lkl.md)等
 
 ##### 三、生日玩法
 
 交行信用卡生日当天5倍积分（部分联名卡除外），在指定餐饮娱乐类商户消费享受5倍积分，即除按一般积分累计规则获赠的1倍积分外，可额外获赠4倍积分，当日最高可享10万积分。额外获赠的4倍积分将于交易入账后的15个工作日内导入标准积分账户，消费2.5万元即可获得一共12.5万积分。
 
-![img](https://wiki.zjkmkj.com/media/202307161417729.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/b30f487c985a0f95f03176023c856ab7-2.webp)
 
-------
+---
 
 # 交行标准白金卡
 
-**![img](../media/1553655192cs.jpg)**
+**![img](https://cos.zjkmkj.com/media/2024/08/20/1bf83cb72783c868c188da6c2b8941ce-2.webp)**
 
 **（一）年费标准**
 
@@ -84,11 +84,11 @@
 
 [:link:点此访问](https://creditcard.bankcomm.com/content/cards/biaozhunbaijinka.html)
 
-------
+---
 
 # 交行牛气冲天卡
 
-<img src="../media/1615445303894620.jpg" alt="1615445303894620.jpg" style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/3083c4b4dc049bea3b69cc908000fac5-2.webp" alt="1615445303894620.jpg" style="zoom:67%;" />
 
 **（一）年费标准**
 
@@ -120,11 +120,11 @@
 
 多倍积分每月上限8万积分，全年上限88万积分
 
-------
+---
 
 # 交行优逸白金卡
 
-**<img src="../media/1553653687cs.jpg" alt="img" style="zoom:67%;" />**
+**<img src="https://cos.zjkmkj.com/media/2024/08/20/8ebacf62779f668f38e3d9c89e1bb895-2.webp" alt="img" style="zoom:67%;" />**
 
 **（一）年费标准**
 
@@ -151,4 +151,3 @@
 **（六）卡片网址**
 
 [:link:点此访问](https://creditcard.bankcomm.com/content/cards/youyibaijinka.html)
-

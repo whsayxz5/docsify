@@ -10,7 +10,7 @@
 
 ##### 一、提交代理申请
 
-[<img src="https://wiki.zjkmkj.com/media/202311031456411.png" style="zoom:50%;" />](http://u.zjkm.xyz/ZFipv)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/a533b51a56334f7a48c586bb8ea027ed-2.webp" style="zoom:50%;" />](http://u.zjkm.xyz/ZFipv)
 
 > 我司开好后台并会触发短信提醒到申请手机号码，按照短信操作即可
 
@@ -26,11 +26,11 @@
 
 **小程序：**直接扫描下面二维码/直接搜`卡友付`
 
-<img src="https://wiki.zjkmkj.com/media/202310202120309.png" alt="image-20231020212052097" style="zoom:33%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/a9973d91857162577098c879246b101d-2.webp" alt="image-20231020212052097" style="zoom:33%;" />
 
 ##### 四、快速自助下单
 
-[<img src="https://wiki.zjkmkj.com/media/202208302105469.png" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=44)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/0f99a0e295373179513314aa5ec58745-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=44)
 
 > 注意：请务必备注代理XXX，忘记备注请及时联系对接
 
@@ -50,7 +50,7 @@
 
 **流量卡：**激活`7`天内免费，后续`60`元/年，代理全返
 
-![80181699001866_.pic](https://wiki.zjkmkj.com/media/202311031658165.jpg)
+![80181699001866_.pic](https://cos.zjkmkj.com/media/2024/08/20/2676a6ab1adf856be4ce5268dd60c836-2.webp)
 
 ##### **二、分润发放**
 
@@ -64,9 +64,9 @@
 
 PC端-商户-商户信息变更查看-新增-输入商户变更，修改收单支付费率，保存即可
 
-<img src="https://wiki.zjkmkj.com/media/202311052018310.png" alt="image-20231105201830287" style="zoom: 25%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/5392efa2ba9e9033f6a1d428c3928b25-2.webp" alt="image-20231105201830287" style="zoom: 25%;" />
 
-<img src="https://wiki.zjkmkj.com/media/202311052018002.png" alt="image-20231105201846943" style="zoom: 50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/56cdf57835a29d1e4e06dede1d0f1dfb-2.webp" alt="image-20231105201846943" style="zoom: 50%;" />
 
 ##### 二、政策查看
 

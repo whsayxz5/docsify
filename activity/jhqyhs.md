@@ -25,7 +25,7 @@
 
 手机号码：本人手机号
 
-![30001700813884_.pic_hd](https://wiki.zjkmkj.com/media/202311241619568.png)
+![30001700813884_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/3a3daa6e0b9b0bbf86740346fa7213ff-2.webp)
 
 **（三）回款结算**
 

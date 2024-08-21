@@ -13,15 +13,15 @@
 
 ##### **一、免费领取**
 
-[<img src="https://wiki.zjkmkj.com/media/202208211953479.png" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/e6680e5ed067fbf7e7e558aac6b65c35-2.webp" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
 
 > 注：自助领取体验卡SN，首张免费体验，仅限卡盟用户，不含代理
 
-![image-20220511171950977](../media/image-20220511171950977.png)
+![image-20220511171950977](https://cos.zjkmkj.com/media/2024/08/20/c9205ff87820037cc8b68562d50d0342-2.webp)
 
 ##### **二、正常下单`（代理或需要更多商户/实体卡的客户）`**
 
-[<img src="https://wiki.zjkmkj.com/media/202208211953315.png" style="zoom:33%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=27)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/210a73853c51dc585643daac0d84c5e1-2.webp" style="zoom:33%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=27)
 
 > **客户：**无需备注，在[:link: 我的订单](http://kmshop.zjkmkj.com/pages/users/order_list/index)-`订单详情页-商家备注`查看SN
 >
@@ -29,7 +29,7 @@
 
 ##### **三、一清牌照**
 
-<img src="https://wiki.zjkmkj.com/media/202212121637213.jpg" alt="wecom-temp-219876-bf6cc6dbb4fe4e8bf3c36b3b05fa9dd8" style="zoom: 33%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/f8ed8948976acc6ad132e5fb7ac06cc5-2.webp" alt="wecom-temp-219876-bf6cc6dbb4fe4e8bf3c36b3b05fa9dd8" style="zoom: 33%;" />
 
 ##### **四、主要功能**
 
@@ -52,18 +52,20 @@
 **秒到：**无提现费，可自动秒到/合并手动提现
 
 > 注意：23年3月1日之前注册的用户费率为0.45%，可通过注册新用户解决
+>
+> 机器注册当日无法秒到，次日正常可秒到
 
 ##### 六、购买费用
 
 新用户可[:link: 点我领取](http://u.zjkm.xyz/X5CJy)免费体验卡，后续增加购买需自费（龙支付建议多商户）
 
-![image-20220511171950977](../media/image-20220511171950977.png)
+![image-20220511171950977](https://cos.zjkmkj.com/media/2024/08/20/c9205ff87820037cc8b68562d50d0342-2.webp)
 
 **七、关于代理**
 
 [:link: 点此开通代理](agent/ppt.md)，注册分享即可推广，5张起共享封顶政策
 
-------
+---
 
 # 碰碰通使用教程
 
@@ -91,21 +93,21 @@
 
 **购买用户：**目前多卡唯一用途就是碰一碰，其他情况请勿下单
 
-![image-20220511171950977](../media/image-20220511171950977.png)
+![image-20220511171950977](https://cos.zjkmkj.com/media/2024/08/20/c9205ff87820037cc8b68562d50d0342-2.webp)
 
 ##### **四、实名认证**[:link: 视频点我](https://v.qq.com/x/page/o3237nu7vea.html)
 
 1. 打开APP，进入我的页面，点击右上角红色方框里的未认证，进行实名认证，点击身份验证进行验证。点击箭头所指的照相机标志，按照要求拍摄身份证头像页
 
-![1617070319417738.jpg](../media/1617070319417738.jpg)
+![1617070319417738.jpg](https://cos.zjkmkj.com/media/2024/08/20/81abb0fead703a4b010a994cc41eccf2-2.webp)
 
 2. 按照提示将身份证头像页置于方框中，识别完成后自动跳转，弹出识别结果后，核对信息是否正确，正确后点击确认。点击箭头所指的照相机标志，按照要求拍摄身份证的国徽页
 
-![1617070703281946.jpg](../media/1617070703281946.jpg)
+![1617070703281946.jpg](https://cos.zjkmkj.com/media/2024/08/20/42cc59b6ba2e59f23e71cf6a6c975785-2.webp)
 
 3. 弹出识别结果后，核对信息是否正确，正确后点击确定，身份证认证成功后，自动填写姓名、证件号和身份证有效期，然后点击提交，提交后进行人脸识别，按照方框内提示的文字进行操作`（请在光线充足的地方操作）`，人脸识别完成后，点击下一步
 
-![1617071895738414.jpg](../media/1617071895738414.jpg)
+![1617071895738414.jpg](https://cos.zjkmkj.com/media/2024/08/20/6b6c79cf64e4400e095abd4daec42962-2.webp)
 
 4. 添加银行卡，按照要求填写本人储蓄卡卡号及信用卡，确认无误后点击保存。回到APP我的页面，右上角显示已实名，表示实名认证成功
 
@@ -113,9 +115,7 @@
 >
 > 填写的信用卡仅用于注册真人身份确认，与后期使用无关
 
-
-
-![1617072374914930.jpg](../media/1617072374914930.jpg)
+![1617072374914930.jpg](https://cos.zjkmkj.com/media/2024/08/20/b976a5da60eb94acc2501baf58bc3019-2.webp)
 
 ##### **五、添加商户**
 
@@ -133,7 +133,7 @@
 
 **更多商户：**直接点击`添加标签`新增商户，最多`2`户/人
 
-![wecom-temp-327583-8f6835d2b71ba28e978fc01df622231b](https://wiki.zjkmkj.com/media/202212081425184.jpg)
+![wecom-temp-327583-8f6835d2b71ba28e978fc01df622231b](https://cos.zjkmkj.com/media/2024/08/20/add59b9a76d68c91e15d03fba8a0f6f9-2.webp)
 
 ##### 六、开通扫码`非常重要`
 
@@ -143,7 +143,7 @@
 
 > 如提示数据处理中，可等5分钟左右再次点击绑定
 
->  目前碰碰通仅支持银联扫码和碰一碰，不支持微信支付宝
+> 目前碰碰通仅支持银联扫码和碰一碰，不支持微信支付宝
 
 ##### **七、写入卡牌**`可跳过`
 
@@ -195,9 +195,9 @@
 
 > 该玩法仅限实体卡用户专享，与注册选择商户类型无关！[点我购买](http://kmshop.zjkmkj.com/pages/goods_details/index?id=27)
 
-<img src="https://wiki.zjkmkj.com/media/202305031614184.png" alt="image-20230503161347805" style="zoom: 25%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/44d09f51d026b78c2c86a994eec23927-2.webp" alt="image-20230503161347805" style="zoom: 13%;" />
 
-------
+---
 
 # 碰碰通常见问题
 
@@ -219,7 +219,7 @@
 >
 > 小米：钱包APP-Mipay-更多操作，截图
 
-![1637490921100525.jpg](../media/1637490921100525.jpg)
+![1637490921100525.jpg](https://cos.zjkmkj.com/media/2024/08/20/228ca34edd0db0504234feff07fe5048-2.webp)
 
 6、**碰一碰大额风控（非本人卡）**：按照以下格式提供资料给我司客服，收到风控承诺书后签字拍照上传即可。
 
@@ -250,7 +250,6 @@
 8、K0/K1/H35/等问题属于小额交易金额问题，建议降低到500-600元重试，大额交易没问题
 
 9、H33错误：间隔半小时再刷
-
 
 ---
 

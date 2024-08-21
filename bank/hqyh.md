@@ -15,7 +15,7 @@
 
 # 花旗礼享卡
 
-**![1.jpg](../media/1625291998534683.jpg)**
+**![1.jpg](https://cos.zjkmkj.com/media/2024/08/20/3960360f440775a5397ebed00c412e9d-2.webp)**
 
 **（一）年费标准**
 
@@ -63,7 +63,7 @@
 
 # 花旗礼程卡
 
-**![微信图片_20210703134207.jpg](../media/1625291525608957.jpg)** 
+**![微信图片_20210703134207.jpg](https://cos.zjkmkj.com/media/2024/08/20/568bd57a3c0b90d28763c385457934b4-2.webp)** 
 
 **（一）年费标准**
 
@@ -127,7 +127,7 @@
 
 # 花旗至享卡
 
-**<img src="../media/1554173257cs.jpg" alt="img" style="zoom:50%;" /> <img src="../media/1554173276cs.jpg" alt="img" style="zoom:50%;" />**
+**<img src="https://cos.zjkmkj.com/media/2024/08/20/80afdc387c4261d9883016e81d76f693-2.webp" alt="img" style="zoom:50%;" /> <img src="https://cos.zjkmkj.com/media/2024/08/20/34a9ba70a0541eb9d1600d67f23f3e02-2.webp" alt="img" style="zoom:50%;" />**
 
 **（一）年费标准**
 

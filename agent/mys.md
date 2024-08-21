@@ -10,7 +10,7 @@
 
 **一、加入代理（立即开通）**
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://yunyetong.ningboruiyang.com/h5/#/register?code=09PAHF)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/3170358067dc9bb63845a6191091422f-2.webp" style="zoom:50%;" />](https://yunyetong.ningboruiyang.com/h5/#/register?code=09PAHF)
 
 > 代理端和客户端不通用，客户端需重新注册
 
@@ -20,7 +20,7 @@
 
 **三、获取SN及密钥（重要！重要！重要！）**
 
-[<img src="../media/order.png" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=52)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/e25bc13883b1836ce94e8fdb05678fa8-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=52)
 
 > 终端归属决定用户归属，请务必备注代理XXX，忘记备注请及时联系客服备注
 
@@ -30,7 +30,7 @@
 
 打开`米易管家APP`-点击`终端管理`-`终端划拨`-`长按SN`-复制到`微信传输助手`-即可`获取密钥`
 
-![image-20230810171814860](https://wiki.zjkmkj.com/media/202308101718369.png)
+![image-20230810171814860](https://cos.zjkmkj.com/media/2024/08/20/1783fbab1167cbbec17deefda52571ed-2.webp)
 
 **四、下载代理APP**
 
@@ -66,7 +66,7 @@
 
 **举例：**金牌代理推广100户，客户月均扫码交易`10万`，实际可获得分润收入`100*（11*10）=11000元`
 
-![image-20230805210325859](https://wiki.zjkmkj.com/media/202308052103953.png)
+![image-20230805210325859](https://cos.zjkmkj.com/media/2024/08/20/cfeaac55d2d3365f2072b46e77829713-2.webp)
 
 特别说明：代理等级按照码牌数量决定，一个用户最多可绑定5张，下单数量可累积。
 

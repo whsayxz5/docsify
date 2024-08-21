@@ -4,9 +4,7 @@
 - [积分规则](#积分规则)
 - [美运超白金卡](#美运超白金卡)
 - [美运白金卡](#美运白金卡)
-- [日航金卡](#日航金卡)
 - [东航联名卡](#东航联名卡)
-- [加速白（停发）](#加速白（停发）)
 
 ---
 
@@ -16,19 +14,19 @@
 
 **（一）16万联名卡里程**`价值10000元`
 
-**日航联名卡：**6万日航里程(15:1)
+**日航联名卡`停发`**：6万日航里程(15:1)
 
-**东航钛金卡：**10万东航里程(14:1)
+**东航钛金卡**：10万东航里程(14:1)
 
 **（二）32万里程**`价值16000`
 
-**美运超白金卡：**10:1兑换30万里程/年
+**美运超白金卡**：10:1兑换30万里程/年
 
-**美运白金卡：**12:1兑换2万里程/年
+**美运白金卡**：12:1兑换2万里程/年
 
 **（三）卡片配置**
 
-**建议配置：**美运超白金卡（满分神卡）/美国运通白金卡+日航卡+东航钛金卡+
+**建议配置**：美运超白金卡（满分神卡）/美国运通白金卡+日航卡+东航钛金卡+
 
 **（四）其他权益**
 
@@ -36,45 +34,20 @@
 
 **二、图解姿势**
 
-![20391695005382_.pic](https://wiki.zjkmkj.com/media/202309181049727.jpg)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/250a2e9b6f27fdd318ba642ea426b7e2-2.webp" alt="image.png" width=800 />
+
 
 **（一）运通白金卡**
 
-**主要玩法：**消费达标，权益丰富，可兑换2万里程
-
-**适合神器：**
-
-**刷卡`优先`：**[合利宝](tool/hlb.md)`优先`，其次[恒信通](tool/hxt.md)/[申鑫](tool/sx.md)
-
-**扫码`辅助`：**[易收钱](tool/ysq.md)/[米易收](tool/mys.md)/[拉卡拉](tool/lkl.md)
-
-
+**主要玩法**：消费达标，权益丰富，可兑换2万里程
 
 **（二）日航金卡/IHG金卡**
 
-**主要玩法：**低费率稳定刷分
-
-**适合神器：**
-
-**刷卡`优先`：**[合利宝](tool/hlb.md)`优先`，其次[恒信通](tool/hxt.md)/[申鑫](tool/sx.md)tool/ss.md)
-
-**扫码`辅助`：**[易收钱](tool/ysq.md)/[米易收](tool/mys.md)/[拉卡拉](tool/lkl.md)
+**主要玩法**：低费率稳定刷分
 
 > 日航金卡：封顶6万里程（即消费90万）
 >
 > IHG金卡：封顶10万积分（即消费80万）
-
-
-
-**（三）加速白金卡**
-
-**主要玩法：**使用MCC5541消费获得常规5倍，生日10倍积分
-
-**适合神器：**[拉卡拉](tool/lkl.md)` 银联扫码`
-
-> **日常：**5倍积分
->
-> **生日当天：**10倍积分
 
 ---
 
@@ -84,48 +57,30 @@
 
 **一、不计积分平台**[公告链接](https://ccc.spdb.com.cn/miniSite/integral/daima.shtml)
 
-![](../media/image-20220113150737391.png)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/56f048668ddb6df692a3fe701b0e04da-2.webp" alt="image.png" width=800 />
+
+
 
 | 支付平台 | 机构号 | 支付平台 | 机构号 |
 | :------: | :----: | :------: | :----: |
-| 卡友支付 |  801   |   中付   |  847   |
-|   汇付   |  823   |   钱宝   |  848   |
-|   银盛   |  826   |  付临门  |  850   |
-| 联动优势 |  829   | 国通星驿 |  857   |
-| 易生支付 |  831   |  和融通  |  864   |
-| 现代金控 |  834   |  瑞银信  |  887   |
-|  随行付  |  836   |  畅捷通  |  900   |
-|  点百趣  |  843   |          |        |
+| 卡友支付 |  801  |   中付   |  847  |
+|   汇付   |  823  |   钱宝   |  848  |
+|   银盛   |  826  |  付临门  |  850  |
+| 联动优势 |  829  | 国通星驿 |  857  |
+| 易生支付 |  831  |  和融通  |  864  |
+| 现代金控 |  834  |  瑞银信  |  887  |
+|  随行付  |  836  |  畅捷通  |  900  |
+|  点百趣  |  843  |          |        |
 
-##### 二、建议神器
+##### 二、专用玩法
 
-**刷卡`优先`：**[合利宝](tool/hlb.md)`优先`，其次[恒信通](tool/hxt.md)/[申鑫](tool/sx.md)tool/ss.md)
+[点我查看](tool/pfzy.md)
 
-**扫码`辅助`：**[易收钱](tool/ysq.md)/[米易收](tool/mys.md)/[拉卡拉](tool/lkl.md)
-
-
-
-##### 三、操作姿势
-
-**（一）刷卡`优先`**
-
-**合利宝：**支持指定行业指定商户，建议酒店/餐饮，直接大额
-
-**其他机器：**小额测试商户，查询（[:link: 点此查询](https://www.zjkmkj.com/Weixin/index)）有分再刷大额
-
-
-
-**（二）扫码`辅助`**
-
-**玩法：**支付宝/微信100%有分，直接扫码即可
-
-**缺点：**风控非常严格，能不能过随缘
-
-------
+---
 
 # 美运超白金卡
 
-<img src=../media/1553323346cs.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/15/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/ead08c0b30277c04f7df9cea1af6d24b-2.webp" width=200 />
 
 **（一）年费标准**
 
@@ -134,10 +89,6 @@
 **（二）积分规则**
 
 10个积分兑换1个航空里程（国航、东航、南航、海航），每年最高兑换[30万里程](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_02_02.shtml#Menu=ChildMenu2)
-
-建议神器：**刷卡`优先`：**[合利宝](tool/hlb.md)`优先`，其次[恒信通](tool/hxt.md)/[申鑫](tool/sx.md)
-
-运通超白：
 
 **（三）主要权益**
 
@@ -161,7 +112,8 @@
 
 [意外及旅行保险：](https://ccc.spdb.com.cn/miniSite/Platamex2018/4_0.shtml#Menu=ChildMenu1)延误`4小时`起赔付`600元/4小时`
 
-![33001706883087_.pic](https://wiki.zjkmkj.com/media/202402022216854.png)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/252af1f7f7dc253218cf7fc19b655aa6-2.webp" alt="image.png" width=800 />
+
 
 **（四）简单玩法**
 
@@ -171,7 +123,7 @@
 
 [点我访问](https://ccc.spdb.com.cn/miniSite/privatebanking2018/index.shtml)
 
-------
+---
 
 # 美运白金卡
 
@@ -183,17 +135,7 @@
 
 消费达标可兑换2万里程/年，12：1兑换国内东航、国航、南航、海航里程
 
-**（三）积分**
-
-线上消费（推荐）：微信/支付宝/京东为主，可叠加5倍积分（玩转积分1号，10万分/月，20元/月）
-
-线下消费：有不计积分规则，不建议刷卡消费
-
-建议神器：**刷卡`优先`：**[合利宝](tool/hlb.md)`优先`，其次[恒信通](tool/hxt.md)/[申鑫](tool/sx.md)
-
-运通AE白：
-
-**（四）主要权益**
+**（三）主要权益**
 
 [贵宾厅](https://ccc.spdb.com.cn/miniSite/Platamex2018/1_0.shtml#Menu=ChildMenu1)：基础`2`次贵宾厅，消费达标最多赠送`6`次，共`8`次
 
@@ -211,46 +153,22 @@
 
 [意外及旅行保险：](https://ccc.spdb.com.cn/miniSite/Platamex2018/4_0.shtml#Menu=ChildMenu1)延误`4小时`起赔付`600元/4小时`
 
-![32991706883080_.pic](https://wiki.zjkmkj.com/media/202402022215249.png)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/3decf6084a77f1ee8d7d25794787fa45-2.webp" alt="image.png" width=800 />
 
-**（五）主要玩法**
+
+**（四）主要玩法**
 
 季度消费15万，支付宝为主，拿满权益，开不开五倍随意，积分足够覆盖支出
 
-**（六）卡片网址**
+**（五）卡片网址**
 
 [点我直达](https://ccc.spdb.com.cn/miniSite/Platamex2018/index.shtml)
 
-------
-
-# 日航金卡
-
-<img src=../media/1553481610cs.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/15/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 style="zoom: 67%;" />
-
-**（一）积分规则**
-
-15：1自动转换为JAL里程，限6万里程/年
-
-![img](../media/1555912198cs.png)
-
-
-**（二）积分兑换**
-
-![img](../media/1555912263cs.png)
-
-**（三）主要神器**
-
-**刷卡`优先`：**[合利宝](tool/hlb.md)`优先`，其次[恒信通](tool/hxt.md)/[申鑫](tool/sx.md)
-
-**（四）卡片网址**
-
-[点我查看](https://ccc.spdb.com.cn/miniSite/jalt/left_1.shtml)
-
-------
+---
 
 # 东航联名卡
 
-<img src=../media/1610953946566106.png?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/15/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/116e903b84e54ec025f93e2726feada3-2.webp" width=200 />
 
 **（一）年费标准**
 
@@ -276,28 +194,6 @@
 
 **金卡：**核卡后90天内消费2000元（或等值外币），次月底前即可获赠1000东航里程
 
-**（四）简单玩法**
-
-**刷卡`优先`：**[合利宝](tool/hlb.md)`优先`，其次[恒信通](tool/hxt.md)/[申鑫](tool/sx.md)/[盛刷](tool/ss.md)tool/ss.md)
-
-**（五）卡片网址**
+**（四）卡片网址**
 
 [点我查看](https://ccc.spdb.com.cn/miniSite/ceair/)
-
-------
-
-# 加速白（停发）
-
-<img src=../media/1554360021cs.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/15/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 />
-
-**（一）积分规则**
-
-![img](../media/1555910887cs.png)
-
-**（二）主要玩法**
-
-[拉卡拉](tool/lkl.md)，MCC5541消费获得常规5倍积分，生日10倍积分
-
-**（三）卡片网址**
-
-[点我查看](https://www.spdbccc.com.cn/zh/speed_card/b.html)

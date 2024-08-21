@@ -53,7 +53,7 @@ POS机款式有很多种，甚至同一个产品也会有N款不同的机器，�
 
 增值功能：高清触摸屏、纸质小票、WIFI/蓝牙/流量连接、主扫摄像头、第三方CRM系统等
 
-<img src=../media/1630055873146160.png width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/32b820acccb03aa4ba6b6acf77b01136-2.webp" width=400 />
 
 
 
@@ -63,7 +63,7 @@ POS机款式有很多种，甚至同一个产品也会有N款不同的机器，�
 
 增值功能：纸质小票、WIFI/流量连接（是否支持WIFI具体看产品）
 
-<img src=../media/1630055979698442.png width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/0bd21d8b0bcbf835f7c12f4b9e71fc5d-2.webp" width=400 />
 
 
 
@@ -73,7 +73,7 @@ POS机款式有很多种，甚至同一个产品也会有N款不同的机器，�
 
 增值功能：电子小票、WIFI/流量连接（是否支持WIFI具体看产品）
 
-<img src=../media/1631694905603377.jpg width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/dc5f688aeee0cff67d8a36dbd66bc7c6-2.webp" width=400 />
 
 
 
@@ -83,7 +83,7 @@ POS机款式有很多种，甚至同一个产品也会有N款不同的机器，�
 
 增值功能：APP小票、蓝牙连接
 
-<img src=../media/1631695339508959.jpg width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/da3358dbc42bb0e6bdcedb41d7828e2a-2.webp" width=400 />
 
 
 
@@ -93,7 +93,7 @@ POS机款式有很多种，甚至同一个产品也会有N款不同的机器，�
 
 增值功能：APP小票、无需网络
 
-<img src=../media/1630050684982203.jpg width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/df18d62ac76b42a3b6d9e612083d56d9-2.webp" width=400 />
 
 **（六）境外POS机：纯属诈骗，切勿上当！**
 

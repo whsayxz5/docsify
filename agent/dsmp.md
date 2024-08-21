@@ -10,7 +10,7 @@
 
 **一、加入代理（立即开通）**
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://agenth5.xiangsaopay.com//#/register?parentId=1735583011612319745&referrer=%E6%B5%99%E6%B1%9F%E5%8D%A1%E7%9B%9F%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&tenantId=000009&inviteCode=T5K5HC&deptId=1554343346044456961)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/90c3f0a8908340601fb04e22473dea1d-2.webp" style="zoom:50%;" />](https://agenth5.xiangsaopay.com//#/register?parentId=1735583011612319745&referrer=%E6%B5%99%E6%B1%9F%E5%8D%A1%E7%9B%9F%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&tenantId=000009&inviteCode=T5K5HC&deptId=1554343346044456961)
 
 > 代理端和客户端不通用，客户端需重新注册
 

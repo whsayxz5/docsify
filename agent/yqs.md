@@ -12,7 +12,7 @@
 
 **一、加入代理（立即开通）**
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://html.xiaoyoukeeper.com/register?avar_phone=18969764555&type=2)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/3633a5d8bd471ce2e9f3987400e361b8-2.webp" style="zoom:50%;" />](https://html.xiaoyoukeeper.com/register?avar_phone=18969764555&type=2)
 
 > 该账号在代理端和客户端通用，无需重复注册
 
@@ -34,7 +34,7 @@
 
 **三、获取码牌及SN（重要！重要！重要！）**
 
-[<img src="../media/order.png" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=43)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/10419c640cca4ca4b62b35531eb8b429-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=43)
 
 > 请务必备注代理XXX，忘记备注请及时联系客服备注，否则无法划拨
 
@@ -80,7 +80,7 @@
 
 **举例：**金牌代理推广100户，客户月均扫码交易`10万`，实际可获得分润收入`100*（11*10）=11000元`
 
-![6361689215966_.pic](https://wiki.zjkmkj.com/media/202307131040476.jpg)
+![6361689215966_.pic](https://cos.zjkmkj.com/media/2024/08/20/7cccfa3cc0dc9efe3cc8628ed708c334-2.webp)
 
 特别说明：代理等级按照码牌数量决定，一个用户最多可绑定5张，下单数量可累积。
 

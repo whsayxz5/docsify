@@ -18,13 +18,13 @@
 
 **一、提交代理申请**
 
-[![image.png](../media/1567519864869188-20211217211129318.png)](https://jinshuju.net/f/LEus0w)
+[![image.png](https://cos.zjkmkj.com/media/2024/08/20/2d50259b16a2275befca73869e4125c3-2.webp)](https://jinshuju.net/f/LEus0w)
 
 
 
 **二、快速自助下单**
 
-[![1569425353473233.png](../media/1617518736742356-20211217203853835.png)](https://kmbk.zjkmkj.com/Index/194)
+[![1569425353473233.png](https://cos.zjkmkj.com/media/2024/08/20/ffb7797da0f828cd1186d750b6934fc4-2.webp)](https://kmbk.zjkmkj.com/Index/194)
 
 
 
@@ -40,7 +40,7 @@
 
 **四、注册流程**
 
-![微信图片_20190904110702.jpg](../media/1567566719479464.jpg)
+![微信图片_20190904110702.jpg](https://cos.zjkmkj.com/media/2024/08/20/a4eaa2bdb62b87355915ef6278a185f3-2.webp)
 
 ------
 
@@ -48,7 +48,7 @@
 
 **一、代理政策**
 
-![微信图片_20190917132400.png](../media/1568697849411192.png)
+![微信图片_20190917132400.png](https://cos.zjkmkj.com/media/2024/08/20/d57058b9c6c10e2dfc6e4861242ec0a1-2.webp)
 
 **二、分润结算**
 

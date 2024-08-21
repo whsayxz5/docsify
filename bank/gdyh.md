@@ -1,11 +1,8 @@
----
-{}
----
 # 玩转光大
 
 - [主要玩法](#主要玩法)
 - [积分规则](#积分规则)
-- [孝心卓越白金卡](#孝心卓越白金卡（网申重开）)
+- [孝心卓越白金卡](#孝心卓越白金卡)
 - [孝心标准白金卡](#孝心标准白金卡)
 - [阳光车主白金卡](#阳光车主白金卡)
 - [移动中青旅白金卡](#移动中青旅白金卡)
@@ -69,7 +66,7 @@
 
 # 孝心卓越白金卡
 
-<img src=../media/1583918983587466.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/15/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 style="zoom: 67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/d9a15f91ee057b1e27fccb1538911592-2.webp" width=400 style="zoom: 67%;" />
 
 **（一）年费标准**
 
@@ -79,7 +76,7 @@
 
 贵宾厅：9点龙腾`可携伴`
 
-接送机：4次/年，`非本人可用`。
+接送机：4次/年
 
 挂号就医：12次/年
 
@@ -91,7 +88,7 @@
 
 **（三）积分规则**
 
-光大孝心卓越白金，微信支付宝3倍积分，月上限2万分。
+1：1积分，可计积分消费三倍积分，生日月不再加赠，单个自然月内，标准白金卡及以上卡种（含无限卡、公务卡白金卡、公务卡无限卡、钻石卡）持卡客户积分封顶值为永久额度的4倍
 
 **（五）申请入口**
 
@@ -107,7 +104,7 @@
 
 # 孝心标准白金卡
 
-<img src=../media/xx3.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/15/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 style="zoom: 67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/1c16ed43c0f1f280d223d362134307e3-2.webp" width=400 style="zoom: 67%;" />
 
 **（一）年费标准**
 
@@ -145,7 +142,7 @@
 
 # 阳光车主白金卡
 
-<img src=../media/CuMExmEt3cmAOY0vAAFTxgAfHcQ323.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/15/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 style="zoom: 67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/fcfc1aaf92b032d52e2c944385a94951-2.webp" width=400 style="zoom: 67%;" />
 
 **（一）年费标准**
 
@@ -179,7 +176,7 @@
 
 # 移动中青旅白金卡
 
-<img src=../media/CgGDzl6hjLWAC1MGAAD6as_VmXs000.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/15/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/17509512a07a761e425705b98813b746-2.webp" width=400 style="zoom:67%;" />
 
 **（一）年费标准**
 
@@ -211,7 +208,7 @@
 
 # 阳光UP无界信用卡
 
-<img src="https://wiki.zjkmkj.com/media/202302181617123.png" alt="iShot_2023-02-18_16.17.13" style="zoom: 67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/b612ffcebd2fcfcddf6a9a84c6ed00bc-2.webp" alt="iShot_2023-02-18_16.17.13" style="zoom: 45%;" />
 
 **（一）年费标准**
 
@@ -244,7 +241,7 @@
 
 # 阳光钻石卡
 
-<img src=../media/1583936559926393.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/15/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/2c3e90ee4ff8a1a7dd9759d0d41c1d4b-2.webp" width=400 style="zoom:67%;" />
 
 **（一）年费标准**
 

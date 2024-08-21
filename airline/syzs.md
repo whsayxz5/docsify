@@ -184,7 +184,7 @@ Z→头等：13000里程
 - 20K JL：2万日航里程，JL（日航）或者MU（东航）执飞
 - 20K CX：2万亚万里程，CA（国航）或者JL（日航）执飞
 
-![img](../media/1549935603cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/81ba4ac0560f55b4e6f11aae381a4228-2.webp)
 
 
 
@@ -200,13 +200,13 @@ Z→头等：13000里程
 - 45K CA：4.5万国航里程，CA（国航）执飞
 - 48K MU：4.8万东航里程，MU（东航）执飞
 
-![img](../media/1549935663cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/06810c7a9c3ff30d85f1a5662232df94-2.webp)
 
 
 
-![img](../media/1549935683cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/022d5073986d2b77ec3fc9e7480f6fe8-2.webp)
 
-![img](../media/1549935694cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/917d3f73f21f14414bc2af09d6ccdb77-2.webp)
 
 **（2）伙伴兑换**（例如日航换东航）
 
@@ -215,11 +215,11 @@ Z→头等：13000里程
 - 20K ANA：2万全日空里程，CA（国航）执飞
 - 20K CX：2万亚万里程，CA（国航）或者JL（日航）执飞
 
-![img](../media/1549935756cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/0fb3986c295a49988905b2c9762ef022-2.webp)
 
 
 
-![img](../media/1549935770cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/e390d57e7d9d2f03d8eb1839bbc1c628-2.webp)
 
 **小结：**简单的查询通过这两个工具结合基本上可以全部覆盖，省去了一家家查询的麻烦。同时也可以看到，不同的航司兑换同一个航线的里程数差距很大，所以选择累积哪家里程需要慎重考虑，最好是用到的时候再去转换。
 
@@ -240,25 +240,25 @@ Z→头等：13000里程
 
 
 
-![img](../media/1549936484cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/589db28cedb5092da2926a1b3ece5c33-2.webp)
 
 
 
-![img](../media/1549936503cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/9ad3aa430dde356a3c5d61d663ddfb4e-2.webp)
 
 2.输入行程信息
 
-![img](../media/1549936550cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/fc55346713f4504a81fa6b4fc2fafe02-2.webp)
 
 3.获得航班信息
 
-![img](../media/1549936612cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/5df499fc830822191ce1782456e163c7-2.webp)
 
-![img](../media/1549936623cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/74cc3bc3c31f38ffbfb2ccda42aff02f-2.webp)
 
 4.全程商务舱来回，总共3万BA+403元，BA按照市价900元/万，折合3100元。同期携程票价：
 
-![img](../media/1549936668cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/5a6a2a6f0d63229b8e4a8a6ee40eb5ee-2.webp)
 
 
 
@@ -276,7 +276,7 @@ Z→头等：13000里程
 
 1.注册试用账号（5天有效）
 
-![img](../media/1549936721cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/303d1951ee043d5a5aa395edd47805f5-2.webp)
 
 
 
@@ -284,11 +284,11 @@ Z→头等：13000里程
 
 
 
-![img](../media/1549936737cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/7e3e3804eee8e58d1daeebaeddf15168-2.webp)
 
 
 
-![img](../media/1549936792cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/22ab50a3159c5484e50c06695459e717-2.webp)
 
 
 
@@ -296,7 +296,7 @@ Z→头等：13000里程
 
 
 
-![img](../media/1549936838cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/d654d24a1338fbd2c43ee6e4bb3cc315-2.webp)
 
 
 
@@ -338,9 +338,9 @@ Z→头等：13000里程
 
 **2.变现更方便：**由于积分/里程兑换的优势，私人间互通有无是很正常的，经由买卖，让想脱手的人可以套现，让有刚需的人顺利兑换机票/酒店，也让可以让不玩羊毛的人更快上手（不需累积，直接购买）。
 
-![img](../media/1550020047cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/2e12599159a194b5009d0e3f0bcfc06b-2.webp)
 
-![img](../media/1550020059cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/16b45a0543427fcb926d42bc7cdf1443-2.webp)
 
 **（三）积分/里程变现的风险**
 

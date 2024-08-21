@@ -10,11 +10,11 @@
 
 **一、点击快速下单**
 
-[<img src="https://wiki.zjkmkj.com/media/202208211421486.png" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/b57a9077640887f14017b13e819d3d9f-2.webp" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
 
 **二、一清牌照**
 
-<img src=../media/1573115497235246.png?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/20/gravity/northeast/dx/20/dy/20/batch/1/degree/45 width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/48248c5a3e7e0909c8cf3f2350ac162c-2.webp" width=400 />
 
 **三、主要功能**
 
@@ -26,7 +26,9 @@
 
 **提现费：**新用户无提现费，`注册满150天提现费+3`
 
-**落户：**除`新疆，青海，西藏、普洱，临沧，德宏，西双版纳`没有商户，其他地区均已落户
+> **落户：**除`新疆，青海，西藏、普洱，临沧，德宏，西双版纳`没有商户，其他地区均已落户
+>
+> 机器注册当日无法秒到，次日正常可秒到
 
 **四、购买费用**
 
@@ -42,7 +44,7 @@
 
 5台起即可申请代理，享受高额激活返现+分润+扶持政策，[点此查看详细代理政策](agent/dzg.md)
 
-------
+---
 
 # 店掌柜使用教程
 
@@ -50,35 +52,35 @@
 
 下载APP：[点我下载](https://maquepay.com/downloadcopy/dzgp/down-dzgp.html?scene=126&clicktime=1573143823)
 
-![1_店掌柜Plus(3)(2)_页面_01.jpg](../media/1573144117581115.jpg)
+![1_店掌柜Plus(3)(2)_页面_01.jpg](https://cos.zjkmkj.com/media/2024/08/20/569f3d8c175d5d3e41be4e825975cf9c-2.webp)
 
-![1_店掌柜Plus(3)(2)_页面_03.jpg](../media/1573144130922935.jpg)
+![1_店掌柜Plus(3)(2)_页面_03.jpg](https://cos.zjkmkj.com/media/2024/08/20/e0c56da04341d81bb52838aace8a76d6-2.webp)
 
-![1_店掌柜Plus(3)(2)_页面_04.jpg](../media/1573144134373311.jpg)
+![1_店掌柜Plus(3)(2)_页面_04.jpg](https://cos.zjkmkj.com/media/2024/08/20/84268528c4ca5e3cfb5d090a92419470-2.webp)
 
-![1_店掌柜Plus(3)(2)_页面_05.jpg](../media/1573144138439539.jpg)
+![1_店掌柜Plus(3)(2)_页面_05.jpg](https://cos.zjkmkj.com/media/2024/08/20/fd1cc6e6ef8498233519f7b17be2c256-2.webp)
 
-![1_店掌柜Plus(3)(2)_页面_07.jpg](../media/1573144142168735.jpg)
+![1_店掌柜Plus(3)(2)_页面_07.jpg](https://cos.zjkmkj.com/media/2024/08/20/946fee76a18ac3fd02d4c077a02457a4-2.webp)
 
-![1_店掌柜Plus(3)(2)_页面_08.jpg](../media/1573144146429908.jpg)
+![1_店掌柜Plus(3)(2)_页面_08.jpg](https://cos.zjkmkj.com/media/2024/08/20/13f84a95ad9d12f7ce8d45ee267bbcd6-2.webp)
 
-![1_店掌柜Plus(3)(2)_页面_11.jpg](../media/1573144164749543.jpg)
+![1_店掌柜Plus(3)(2)_页面_11.jpg](https://cos.zjkmkj.com/media/2024/08/20/d5d4e99941a419f5691557c58eebf8f5-2.webp)
 
-![1_店掌柜Plus(3)(2)_页面_12.jpg](../media/1573144168944330.jpg)
+![1_店掌柜Plus(3)(2)_页面_12.jpg](https://cos.zjkmkj.com/media/2024/08/20/e5c9354fc974f9180366d785122906f0-2.webp)
 
-![1_店掌柜Plus(3)(2)_页面_13.jpg](../media/1573144178997063.jpg)
+![1_店掌柜Plus(3)(2)_页面_13.jpg](https://cos.zjkmkj.com/media/2024/08/20/d2f7fe3464b9aeb304ec6afdb8f64c2f-2.webp)
 
-![1_店掌柜Plus(3)(2)_页面_14.jpg](../media/1573144187863325.jpg)
+![1_店掌柜Plus(3)(2)_页面_14.jpg](https://cos.zjkmkj.com/media/2024/08/20/e23519e71e2beb038d9c696355f21db9-2.webp)
 
-![1_店掌柜Plus(3)(2)_页面_15.jpg](../media/1573144202310786.jpg)
+![1_店掌柜Plus(3)(2)_页面_15.jpg](https://cos.zjkmkj.com/media/2024/08/20/4cf0af859e5511535f3bafe2ebf84aa7-2.webp)
 
-![1_店掌柜Plus(3)(2)_页面_16.jpg](../media/1573144206264817.jpg)
+![1_店掌柜Plus(3)(2)_页面_16.jpg](https://cos.zjkmkj.com/media/2024/08/20/5ccfd08edf9fd075c7ef96d8cfd3b593-2.webp)
 
-![1_店掌柜Plus(3)(2)_页面_17.jpg](../media/1573144210365792.jpg)
+![1_店掌柜Plus(3)(2)_页面_17.jpg](https://cos.zjkmkj.com/media/2024/08/20/57630e5e08c47bbb7e9f2996edd59f5d-2.webp)
 
-![1_店掌柜Plus(3)(2)_页面_18.jpg](../media/1573144218198095.jpg)
+![1_店掌柜Plus(3)(2)_页面_18.jpg](https://cos.zjkmkj.com/media/2024/08/20/e56fbd04eed978e4773279ae318c32da-2.webp)
 
-![1_店掌柜Plus(3)(2)_页面_19.jpg](../media/1573144227399413.jpg)
+![1_店掌柜Plus(3)(2)_页面_19.jpg](https://cos.zjkmkj.com/media/2024/08/20/1b6474a973d8ba3443aa809075bc96c1-2.webp)
 
 **二、其他说明**
 
@@ -113,8 +115,6 @@
 **机器静音：**F80（飞天诚信，橙色机器），开机界面（海科融通画面），按功能键，3设备管理，4固件更新，更新完了之后自动关机，再次开机，即可设置静音。ME50机器暂时无法设置。
 
 **POS签到显示蓝牙未连接：**按下移键--选择1、GPRS链接
-
-
 
 ---
 

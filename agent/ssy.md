@@ -10,7 +10,7 @@
 
 ##### **一、提交代理申请**
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://openappsht.shtcloud.com/jqgj/register/#/?agentCode=630000064943&payMarketMode=1&number=0.9861456220437951)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/9d4b3785e7cabdaaae3bd2fb9d798032-2.webp" style="zoom:50%;" />](https://openappsht.shtcloud.com/jqgj/register/#/?agentCode=630000064943&payMarketMode=1&number=0.9861456220437951)
 
 **二、登录微信小程序并实名**`商互通开放平台`
 
@@ -18,7 +18,7 @@
 
 ##### 三**、快速自助下单（畅捷/快钱/联动切换无需下单）**
 
-[<img src="../media/order.png" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=26)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/f1b3ec096cb11075a2b1d92ef5b7eab1-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=26)
 
 > **下单流程：**请务必备注代理XXX，忘记备注请及时联系对接。
 
@@ -46,7 +46,7 @@
 
 **流量卡：**用户激活`7天后`收取，`48元/年`，代理分润`20元`
 
-![image-20230811092711834](https://wiki.zjkmkj.com/media/202308110927896.png)
+![image-20230811092711834](https://cos.zjkmkj.com/media/2024/08/20/5fcccbcba11afc952f1284afa8bae110-2.webp)
 
 ##### **二、分润发放**
 

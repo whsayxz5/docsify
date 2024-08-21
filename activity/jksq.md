@@ -24,7 +24,7 @@
 
 先关注`中能源公众号`并注册会员（号码同金控注册号码即可，无需认证）,`必须使用菜单1消费`（T1次工作日到账），单笔额度5万-20万`（低于5万无奖励）`，次日自动到账本金+奖励
 
-![image.png](https://wiki.zjkmkj.com/media/1564475019951591.png)
+![image.png](https://cos.zjkmkj.com/media/2024/08/20/0bcc8410c8e78cde0aaaccef02f0358b-2.webp)
 
 ##### 六、收益说明
 

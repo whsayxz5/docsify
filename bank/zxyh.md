@@ -13,7 +13,7 @@
 
 ---
 
-#  主要玩法
+# 主要玩法
 
 **一、预期收益**
 
@@ -45,13 +45,13 @@
 
 **二、图解姿势**
 
-![image-20220706091955068](https://wiki.zjkmkj.com/media/image-20220706091955068.png)
+![玩转中信](https://cos.zjkmkj.com/media/2024/08/20/ecf73cb9a1d8e17e314823ddc5623558-2.webp)
 
 **（一）万豪联名白金卡**
 
 **主要玩法：**`0.3%`低费率稳定刷分
 
-**适合神器：**[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)、[拉卡拉](tool/lkl.md)等支持支付宝/精准MCC的机器都可以
+**适合神器：**[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)、[易收钱](tool/ysq.md)、[拉卡拉](tool/lkl.md)等支持支付宝/精准MCC的机器都可以
 
 **积分规则：**[点我访问](#积分规则)
 
@@ -59,7 +59,7 @@
 
 **主要玩法：**`0.3%`低费率稳定刷分
 
-**适合神器：**[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)、[拉卡拉](tool/lkl.md)等支持支付宝/精准MCC的机器都可以
+**适合神器：**[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)、[易收钱](tool/ysq.md)、[拉卡拉](tool/lkl.md)等支持支付宝/精准MCC的机器都可以
 
 **积分规则：**[点我访问](#积分规则)
 
@@ -67,7 +67,7 @@
 
 **主要玩法：**`0.3%`低费率稳定刷分
 
-**适合神器：**[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)、[拉卡拉](tool/lkl.md)等支持支付宝/精准MCC的机器都可以
+**适合神器：**[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)、[易收钱](tool/ysq.md)、[拉卡拉](tool/lkl.md)等支持支付宝/精准MCC的机器都可以
 
 **积分规则：**[点我访问](#积分规则)
 
@@ -79,7 +79,7 @@
 
 ##### **一、建议神器**
 
-[合利宝](tool/hlb.md)/[钱小宝](tool/qxb.md)/[米易收](tool/mys.md)/[易收钱](tool/ysq.md)/[拉卡拉](tool/lkl.md)
+[合利宝](tool/hlb.md)/[钱小宝](tool/qxb.md)/[易收钱](tool/ysq.md)/[拉卡拉](tool/lkl.md)
 
 ##### **二、规则解析**
 
@@ -93,7 +93,7 @@
 
 **（二）建议玩法**
 
-微信/支付宝`推荐，风控严`：`100%有分`，[米易收](tool/mys.md)/[易收钱](tool/ysq.md)/[拉卡拉](tool/lkl.md)
+微信/支付宝`推荐，风控严`：`100%有分`，[易收钱](tool/ysq.md)/[拉卡拉](tool/lkl.md)
 
 指定MCC刷卡/扫码/PAY：`100%有分`，[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)，建议 `7011/5812`
 
@@ -101,11 +101,11 @@
 
 > **小结：**指定 mcc 银联扫码/PAY最省事，微信支付宝作为补充
 
-------
+---
 
 # 航空精英白
 
-**![img](../media/card_bj.png)**
+**![img](https://cos.zjkmkj.com/media/2024/08/20/f906ed5b3b50c22ae4c7178db8bd4aa8-2.webp)**
 
 **（一）卡片类型**
 
@@ -131,7 +131,7 @@
 
 # 万豪联名卡
 
-<img src="https://wiki.zjkmkj.com/media/image-20220628235149326.png" alt="image-20220628235149326" style="zoom:50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/44a26a171abd69f3a376054c53f35eee-2.webp" alt="image-20220628235149326" style="zoom:50%;" />
 
 **（一）年费标准**
 
@@ -173,13 +173,13 @@
 
 [点我申请大白金卡](http://u.zjkm.xyz/k1pYI)：6800元年费，回血较难
 
-![56621693200982_.pic](https://wiki.zjkmkj.com/media/202308281336288.jpg)
+![../media/24749716fd409ab99692a6547084a61cb4e.png](https://cos.zjkmkj.com/media/2024/08/20/ad983019385170705c978264e9e8910d-2.webp)
 
-------
+---
 
 # 国航世界卡
 
-**![img](https://wiki.zjkmkj.com/media/1553846441cs.jpg)**
+**![img](https://cos.zjkmkj.com/media/2024/08/20/d84430b36fce5e77604d203987a26650-2.webp)**
 
 **（一）年费标准**
 
@@ -207,11 +207,11 @@
 
 [点此直达](https://creditcard.ecitic.com/shenqing/guohangka.shtml)
 
-------
+---
 
 # 中信无限卡
 
-**![img](../media/1553848061cs.jpg)**
+**![img](https://cos.zjkmkj.com/media/2024/08/20/14c549cd6326a779e9e2870a91551b3a-2.webp)**
 
 **（一）年费标准**
 
@@ -249,11 +249,11 @@
 
 [点此直达](https://creditcard.ecitic.com/infinite/)
 
-------
+---
 
 # 东航无限卡
 
-**![img](../media/1553909622cs.jpg)**
+**![img](https://cos.zjkmkj.com/media/2024/08/20/e3e8b857c7d7271add3e610e3093d417-2.webp)**
 
 **（一）年费标准**
 
@@ -275,11 +275,11 @@
 
 [点此直达](https://creditcard.ecitic.com/h5/shenqing/jiakazhi/donghang_wxk.html)
 
-------
+---
 
 # 银联钻石卡
 
-**![img](../media/1553910968cs.jpg)**
+**![img](https://cos.zjkmkj.com/media/2024/08/20/92031afd87d072dba855bbb5ef4f57f7-2.webp)**
 
 **一、年费标准**
 
@@ -327,11 +327,11 @@
 
 [点此直达](https://creditcard.ecitic.com/zuanshika/)
 
-------
+---
 
 # 中信悦卡
 
-![1617120323286719.png](../media/1617120323286719.png)
+![1617120323286719.png](https://cos.zjkmkj.com/media/2024/08/20/fd9c5b74b48db8172dbe9ea62c75b5a3-2.webp)
 
 **一、年费标准**
 
@@ -345,9 +345,9 @@
 
 **三、积分规则**
 
-![1565015262659892.png](../media/1565015262659892.png)
+![1565015262659892.png](https://cos.zjkmkj.com/media/2024/08/20/4b6f77ffc513234a2e893a75c4aea9aa-2.webp)
 
-1、合格资产包括活期、理财、基金等，仅统计主卡持卡人名下资产 
+1、合格资产包括活期、理财、基金等，仅统计主卡持卡人名下资产
 
 2、月日均管理资产=该自然月每日管理资产之和/该月累计天数
 

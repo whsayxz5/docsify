@@ -10,7 +10,7 @@
 
 ##### **一、注册代理（即时开通）**
 
-[![image.png](../media/1567519864869188-20211217210928965.png)](https://fuhuibaapi.fuhuiba.ltd/agent/register?userMobile=FHB18969764555)
+[![image.png](https://cos.zjkmkj.com/media/2024/08/20/e1a2892f506a7e0d274530e5f4b8c2d3-2.webp)](https://fuhuibaapi.fuhuiba.ltd/agent/register?userMobile=FHB18969764555)
 
 ##### **二、下载代理APP《付惠吧》**
 
@@ -32,7 +32,7 @@
 
 ##### **六、购买机器**
 
-[<img src="../media/58971366cf7c6_610.jpg" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=29)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/00ce80ee129d9ff022de0ab57655a4c1-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=29)
 
 
 
@@ -68,7 +68,7 @@
 
 **快递费：**全国包邮（默认顺丰包邮）
 
-![1639314993312398.png](../media/1639314993312398.png)
+![1639314993312398.png](https://cos.zjkmkj.com/media/2024/08/20/35ec1025a3ea6e0cc02621e298db1984-2.webp)
 
 ##### **二、分润发放**
 

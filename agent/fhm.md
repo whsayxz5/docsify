@@ -10,17 +10,17 @@
 
 ##### 一、加入代理（自助）
 
-[<img src="https://wiki.zjkmkj.com/media/202307051704076.png" style="zoom:50%;" />](https://agenth5new.fuhuiba.ltd//#/register?parentId=1736556838021435393&referrer=%E6%B5%99%E6%B1%9F%E5%8D%A1%E7%9B%9F&tenantId=000001&inviteCode=4ZJ8TW&deptId=1123598813738675301)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/3607bbadbff9cbe2b707af1400ef835f-2.webp" style="zoom:50%;" />](https://agenth5new.fuhuiba.ltd//#/register?parentId=1736556838021435393&referrer=%E6%B5%99%E6%B1%9F%E5%8D%A1%E7%9B%9F&tenantId=000001&inviteCode=4ZJ8TW&deptId=1123598813738675301)
 
 ##### 二、注册代理
 
 代理商名称填写：`自己的名字`
 
-**三、下载APP**
+##### 三、下载APP
 
 **`掌上付惠吧`APP**：[点此下载](http://cloud.ipaycloud.cn/app/#/login?&name=fhb&type=agent&tenantId=000001&mode=prod)
 
-**四、申领码牌**
+##### 四、申领码牌
 
 无需下单，直接联系我司客服划拨到代理后台，用完可继续申领。
 
@@ -28,7 +28,7 @@
 
 > 请务必告知`代理XXX`以正常划拨
 
-**四、推广用户/推广代理**
+##### 五、推广用户/推广代理
 
 **邀请用户**：掌上付惠吧APP-我的-邀请商户-`生成专属二维码`（每个代理唯一），发给客户注册即可
 
@@ -36,33 +36,33 @@
 
 > 用户归属和码牌归属必须一致，否则会提示绑定失败
 
-**五、操作说明**
+##### 六、操作说明
 
 **客户入网、使用等流程：**[点我直达](tool/fhm.md)
 
-------
+---
 
 # 代理政策
 
-**一、政策说明**
+##### 一、政策说明
 
-**结算价：**看政策表格
+**结算价：**看政策表格`01、03代理结算加要+0.02%，商户费率不能低于这个基础`
 
 **码牌：**码牌免费，不够找我司客服领取
 
-**分润：**交易金额*（客户费率-结算价）
+**分润：**交易金额（客户费率-结算价）
 
 **举例：**金牌代理推广100户，客户月均扫码交易10万，实际可获得分润收入100×（11×10）=11000元
 
 > 特别说明：代理等级按照推广用户数量决定
 
-![89541702888290_.pic](https://wiki.zjkmkj.com/media/202312181631965.jpg)
+![../media/2453576c5d5327ad32abfa3bb699ac31c8e.png](https://cos.zjkmkj.com/media/2024/08/20/ee09078003c98ddd5194f2ab2871bc9c-2.webp)
 
-**二、分润及返现发放**
+##### 二、分润及返现发放
 
 分润：代理APP自动申请提现
 
-------
+---
 
 # 代理手册
 
@@ -88,8 +88,16 @@
 
 > 必须设置，否则无法往下划拨码牌
 
-![32411702882234_.pic_hd](https://wiki.zjkmkj.com/media/202312181450740.jpg)
+![32411702882234_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/62dd5e17897fe57f48ba96dd030700f9-2.webp)
 
 **2、划拨码牌**
 
 首页-设备管理-下拨，选择对应代理商即可
+
+##### 五、修改费率
+
+打开`掌上付惠吧`-代理管理-搜索用户名称关键字-点击页面右上角修改-修改费率即可
+
+<img src="https://wiki.zjkm.xyz/media/202403290843536.jpg" style="zoom:35%;" />
+
+<img src="https://wiki.zjkm.xyz/media/202403290846134.jpg" style="zoom:48%;" />

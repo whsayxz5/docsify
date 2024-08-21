@@ -62,7 +62,7 @@ Washington, DC – Dulles (IAD)
 
 **兑换规则：**兑换表格
 
-![img](../media/1554859160cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/2caaeafc4305ce4d209a0c84e9d2789d-2.webp)
 
 **路线规则：**在Excursionist Perk实施之后，每一段行程被视为一个个彼此孤立的单程，那些复杂的规则也都不复存在。仅转机尚有些许限制**。**
 
@@ -115,7 +115,7 @@ UA的PQM和PQS不可Rollover，第一年累积的超出定级标准的PQM或PQS�
 **飞行累积**：乘坐国航系自家航班，星空联盟成员航班及伙伴航司的航班时，均可累积国航里程。里程累积标准和飞行距离&舱位等级挂钩。
 **联名信用卡：**国内各大银行皆发行有国航联名信用卡
 
-![img](../media/1554861683cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/5c234ab9b24f8d979d14b12edeccd105-2.webp)
 
 **积分转点：**
 （一）国内各大银行积分皆可按一定比例转为国航里程
@@ -128,7 +128,7 @@ UA的PQM和PQS不可Rollover，第一年累积的超出定级标准的PQM或PQS�
 
 **国航系内地航线：**国航系的国内里程兑换为 Distance Based 。当兑换国航 [CA]，深圳航空 [ZH]，山东航空 [SC]，西藏航空 [TV]，和挂 CA 代码的内蒙古航空&大连航空的国内直达航线时，适用如下兑换标准。
 
-![img](../media/1554862544cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/a6d556222b9dba5a441fa4949e07a887-2.webp)
 
 **国航系（澳门航除外）国际航线：**国航系的国际航线里程兑换为 Zone Based,并对路径有严格限制**。、**
 
@@ -136,7 +136,7 @@ UA的PQM和PQS不可Rollover，第一年累积的超出定级标准的PQM或PQS�
 
 （二） 里程兑换表
 
-![img](../media/1554863016cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/a4c9e68b07006b9a4682e2687dbc1593-2.webp)
 
 除第五航权外，国航系自家的里程兑换必须始发地或目的地有一头位于中国内地。如果从非内地至非内地，则整个行程被拆分成两部分收取里程。
 
@@ -152,7 +152,7 @@ UA的PQM和PQS不可Rollover，第一年累积的超出定级标准的PQM或PQS�
 
 （一） 里程兑换表
 
-![img](../media/1554863766cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/3a389eef35783b9a52a7f28e8f95224b-2.webp)
 
 上表中橙色代表不划算的兑换，绿色代表较划算的兑换。
 
@@ -160,7 +160,7 @@ UA的PQM和PQS不可Rollover，第一年累积的超出定级标准的PQM或PQS�
 
 **国泰航空：**国航里程也可兑换国泰的航班，但除了第五航权航线外，必须兑换的始发地或目的地为国泰的总部 HKG。
 
-![img](../media/1554864056cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/b422f9ab47da0443225cb8bd85e7addf-2.webp)
 
 国航兑换国泰最大的亮点为兑换HKG至欧洲或南非的两舱，往返商务舱/头等舱仅需 95K/110K。国泰在欧洲内部无第五航权航线，故只能兑换点对点直达。
 
@@ -198,7 +198,7 @@ UA的PQM和PQS不可Rollover，第一年累积的超出定级标准的PQM或PQS�
 
 Altitude把会员分5个级别，其中Elite 35K是介于UA银和金之间的等级。
 
-![img](../media/1554866945cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/9c8eb1b987590d77dd2406f5cd4d7a34-2.webp)
 
 **四、兑换规则**
 
@@ -300,7 +300,7 @@ award ticket policy划分成了三个大的区块，乘坐Partner的航班，自
 
 （一）区域划分：整个世界分成了3 Areas。其中Area 1 包含南北美洲和夏威夷，Area 2 包含欧洲&非洲&中东，Area 3 则包含东亚和澳洲在内的剩余地区。在此三区的基础上再将全球划分为10 Zones，并制定了如下图Award Chart。
 
-![img](../media/1554876149cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/fc2c98b58796ca95af351a3fa29906ca-2.webp)
 
 （二）跨区原则：不能在出发地和目的地外的Area停留或转机，但可在同一Area 内的不同Zone停留或转机。
 
@@ -319,17 +319,17 @@ award ticket policy划分成了三个大的区块，乘坐Partner的航班，自
 （一）沿袭伙伴航司的Area和Zone划分规则，沿袭伙伴航司的转机/停留/开口规则。唯一的限制是如果飞机始发点是日本，则不可以有Stopover。
 （二）但是针对自家的Award Chart是有季节的。ANA划分为 L (low)，R (Regular)，H (High) 三个标准。
 
-![img](../media/1554877095cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/bdb6160d988f6a5f5ba523c9390ed5e9-2.webp)
 
 **自家国内航线兑换规则：**
 
 ANA沿袭了分淡旺季的Distance Based Award Chart。往返最多四个航段，经那霸 [OKA] 前往其它琉球诸岛机场可再加两个航段。兑换所需里程取决于所有航段里程合计，也取决于淡旺季。
 
-![img](../media/1554877223cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/1c894969dbf0662adfc8db9c42a498db-2.webp)
 
 **环球航行兑换规则：**
 ANA的环球航行也保留了Distance Based Award Chart。
-![img](../media/1554877340cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/ff14369cb8ebd696323de2c9cf625546-2.webp)
 
 （一）全程允许12个航段，4个地面segments。兑换所需里程按所有飞行航段相加总里程收取，地面segments不计入；
 

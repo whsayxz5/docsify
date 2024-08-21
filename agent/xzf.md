@@ -10,7 +10,7 @@
 
 ##### **一、提交代理申请**
 
-[<img src="../media/apply.png" style="zoom:50%;" />](http://u.zjkm.xyz/wd5At)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/019f259c60af1c42853d3e2d7a484e38-2.webp" style="zoom:50%;" />](http://u.zjkm.xyz/wd5At)
 
 **二、代理端**
 
@@ -44,7 +44,7 @@
 
 **流量卡：**无流量卡费用
 
-![80231699002801_.pic](https://wiki.zjkmkj.com/media/202311031713496.jpg)
+![80231699002801_.pic](https://cos.zjkmkj.com/media/2024/08/20/c806234734da8af99ca84f57293d5eaa-2.webp)
 
 ##### **二、分润发放**
 

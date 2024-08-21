@@ -2,7 +2,7 @@
 
 **一、快速下单**
 
-[<img src="https://wiki.zjkmkj.com/media/202312181646969.png" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/0b1328f69bb7b5705405cc2123e5f91c-2.webp" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
 
 **二、神器介绍**
 

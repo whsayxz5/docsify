@@ -2,11 +2,11 @@
 
 ##### 一、最新扫码神器
 
-[<img src="https://wiki.zjkmkj.com/media/202208211419930.png" alt="1569425353473233.png" style="zoom:33%;" />](https://wiki.zjkmkj.com/#/tool/smxz)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/e344ae3745843b6295944af5d6bc2a10-2.webp" alt="1569425353473233.png" style="zoom:33%;" />](https://wiki.zjkmkj.com/#/tool/smxz)
 
 ##### 二、神器介绍
 
-<img src="https://wiki.zjkmkj.com/media/202310090123870.jpg" alt="1559714911276181.jpg" style="zoom: 33%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/6c60da933f1b90376ce853f21777cdba-2.webp" alt="1559714911276181.jpg" style="zoom: 33%;" />
 
 **（一）神器来源**
 
@@ -38,6 +38,8 @@
 
 **银联：**500元/笔
 
+> 机器注册当日无法秒到，次日正常可秒到
+
 **（七）办理费用**
 
 0元，0元，0元
@@ -48,8 +50,7 @@
 
 **使用限制：**二维码严禁在境外使用！二维码严禁在境外使用！二维码严禁在境外使用！会导致资金冻结且短期无法解冻，等180天风控期过自动释放到账。
 
-![img](../media/1554713740cs.jpg)
-
+![img](https://cos.zjkmkj.com/media/2024/08/20/f8f5b12cfa68cdff8d810d07e429680a-2.webp)
 
 **（三）添加卡盟客服**
 
@@ -65,7 +66,7 @@
 
 使用微信/支付宝/云闪付/银行官方APP扫一扫付款即可
 
-------
+---
 
 # 超级码使用说明
 
@@ -82,8 +83,6 @@
 ##### 三、关于提现
 
 目前超级码不支持秒到，**所有交易金额均次工作日自动到账，提现按钮无效**
-
-
 
 ---
 

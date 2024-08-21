@@ -2,7 +2,7 @@
 
 ##### 一、活动对照表
 
-![image-20231208161451911](https://wiki.zjkmkj.com/media/202312081614086.png)
+![玩转加油交易](https://cos.zjkmkj.com/media/2024/08/20/5faad384cb3d2ad7e0605a46b460b878-2.webp)
 
 ##### 二、适用神器
 

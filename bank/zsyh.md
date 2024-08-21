@@ -28,37 +28,37 @@
 
 **二、图解姿势**
 
-![image.png](../media/1619947604464445.png)
+![玩转招行](https://cos.zjkmkj.com/media/2024/08/20/771509cb6106b021052242a19d3d9f63-2.webp)
 
 **（一）经典白金卡**
 
 **主要玩法：**生日10倍积分，附属卡超值建议配置，必备权益卡
 
-**适合神器：**首选支付宝[米易收](tool/mys.md)、[易收钱](tool/ysq.md)、其次刷卡[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)
+**适合神器：**首选支付宝[易收钱](tool/ysq.md)、其次刷卡[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)
 
 **（二）运通白金卡**
 
 **主要玩法：**生日10倍积分，能换万豪积分，适合重视商旅权益用户
 
-**适合神器：**首选支付宝[米易收](tool/mys.md)、[易收钱](tool/ysq.md)，其次刷卡[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)
+**适合神器：**首选支付宝[易收钱](tool/ysq.md)，其次刷卡[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)
 
 **（三）银联钻石卡**
 
 **主要玩法：**每年4次儿童机票是主要回血权益，适合亲子旅行刚需用户
 
-**适合神器：**首选支付宝[米易收](tool/mys.md)、[易收钱](tool/ysq.md)，其次刷卡[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)
+**适合神器：**首选支付宝[易收钱](tool/ysq.md)，其次刷卡[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)
 
 **（四）分期白金卡**
 
 **主要玩法：**0门槛兑换里程，无法申请经典白以上且积分较多用户的选择
 
-**适合神器：**首选支付宝[米易收](tool/mys.md)、[易收钱](tool/ysq.md)，其次刷卡[合利宝、](tool/hlb.md)[钱小宝](tool/qxb.md)
+**适合神器：**首选支付宝[易收钱](tool/ysq.md)，其次刷卡[合利宝、](tool/hlb.md)[钱小宝](tool/qxb.md)
 
 **三、高端卡图解**
 
-![56611693200793_.pic_hd](https://wiki.zjkmkj.com/media/202308281333140.jpg)
+![../media/24762502857034eb26d4e000756038add38.png](https://cos.zjkmkj.com/media/2024/08/20/df5361b4cd2daa3976fdf9952f1d5e80-2.webp)
 
-------
+---
 
 # 积分规则
 
@@ -67,15 +67,12 @@
 **一、积分类型**
 
 1. 永久积分：积分永久有效不会过期，主要是交易积分（积分抵扣年费只能用永久积分）
-
 2. 非永久积分：活动积分为主，有效期3年，不能抵扣年费，仅可用于兑换各种礼品
-
 3. 查询办法：掌上生活APP-我的-积分，总积分-永久积分=非永久积分，点击“积分账单”可以查询明细
 
 **二、招行特点**
 
 1. 天书没分：招行天书商户非常多，刷卡大概率没积分，首选支付宝
-
 2. 商户限制：招行目前对于部分机器及商户有动态限制，表现为刷卡无法成功`（05+认证失败/57/61等各种错误代码）`
 
 **三、常用积分规则**
@@ -108,13 +105,13 @@
 
 **姿势：首选支付宝，次选刷卡（先小额测商户查积分，再大额刷，见第二步）**
 
-**适合神器：**首选支付宝[米易收](tool/mys.md)、[易收钱](tool/ysq.md)，其次刷卡[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)
+**适合神器：**首选支付宝[易收钱](tool/ysq.md)，其次刷卡[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)
 
-------
+---
 
 # 招行经典白金卡
 
-<img src="../media/1553664261cs.jpg" alt="img" style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/272886fd214029e25157f624bbae4ceb-2.webp" alt="img" style="zoom:67%;" />
 
 **一、年费标准**
 
@@ -152,11 +149,11 @@
 
 [点我直达](http://market.cmbchina.com/ccard/vip/jingdian/index.html)
 
-------
+---
 
 # 招行美运白金卡
 
-![img](../media/1553671810cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/443e1e8459fe80b81e05df5a145fff0c-2.webp)
 
 **一、年费标准**
 
@@ -172,7 +169,7 @@
 
 **三、兑换规则**
 
-**![image.png](../media/1619868449178308.png)**
+**![image.png](https://cos.zjkmkj.com/media/2024/08/20/186b1bb30eccaa4b281181065bc9b434-2.webp)**
 
 **四、主要权益**
 
@@ -198,11 +195,11 @@
 
 [点我直达](http://market.cmbchina.com/ccard/vip/aebpc/index.html)
 
-------
+---
 
 # 招行银联钻石卡
 
-**<img src="../media/1553657437cs.jpg" alt="img" style="zoom:67%;" />**
+**<img src="https://cos.zjkmkj.com/media/2024/08/20/5455e7b599d34fedbb35edda2b6256b2-2.webp" alt="img" style="zoom:67%;" />**
 
 **一、年费标准**
 
@@ -214,7 +211,7 @@
 
 **三、兑换规则**
 
-**![image.png](../media/1619868449178308.png)**
+**![image.png](https://cos.zjkmkj.com/media/2024/08/20/186b1bb30eccaa4b281181065bc9b434-2.webp)**
 
 **四、主要权益**
 
@@ -246,11 +243,11 @@
 
 [点我直达](http://market.cmbchina.com/ccard/vip/diamond/index.html)
 
-------
+---
 
 # 招行无限信用卡
 
-**<img src="../media/1553666651cs.jpg" alt="img" style="zoom:67%;" />**
+**<img src="https://cos.zjkmkj.com/media/2024/08/20/55e6c05c7b235d9a8b0ac5ea0be9ada8-2.webp" alt="img" style="zoom:67%;" />**
 
 **一、年费标准**
 
@@ -266,7 +263,7 @@
 
 **三、兑换规则**
 
-**![image.png](../media/1619868449178308.png)**
+**![image.png](https://cos.zjkmkj.com/media/2024/08/20/186b1bb30eccaa4b281181065bc9b434-2.webp)**
 
 **四、主要权益**
 
@@ -296,11 +293,11 @@
 
 [点我直达](http://market.cmbchina.com/ccard/vip/wuxian/index.html)
 
-------
+---
 
 # 招行白金分期卡
 
-**<img src="../media/1553675343cs.jpg" alt="img" style="zoom:67%;" />**
+**<img src="https://cos.zjkmkj.com/media/2024/08/20/271a667a811e04cbcb1cc4d9eb09ee13-2.webp" alt="img" style="zoom:67%;" />**
 
 **一、年费标准**
 

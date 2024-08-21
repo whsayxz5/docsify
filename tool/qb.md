@@ -6,19 +6,19 @@
 - [钱宝代理](agent/qb.md)
 - [其他说明](#其他说明)
 
------
+---
 
 # 钱宝购买
 
 **一、产品已升级**
 
-[<img src="https://wiki.zjkmkj.com/media/202208211956819.png" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/b1384988fd86ce7a00ef161a847b1bf0-2.webp" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
 
 > 钱宝已停止推广，仅限老用户丢失补办，新用户勿拍，下单务必备注`原机器SN`
 
 **二、一清牌照**
 
-<img src=../media/1548831865cs.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/10/gravity/northeast/dx/20/dy/20/batch/1/degree/-45 width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/87d2162e825ba9531f49d59743de7ab0-2.webp" width=400 />
 
 > 钱宝客服热线电话：4000233388
 
@@ -50,6 +50,8 @@
 
 **京东白条：**`0.3%`（1000元以内），单笔1000元，单日5000元
 
+> 机器注册当日无法秒到，次日正常可秒到
+
 **六、购买费用**
 
 **机器费用：**目前仅限老用户拍补办（电签79元/台，手刷39元/台，不退款）
@@ -62,11 +64,9 @@
 
 **八、机具图片**
 
-<img src=../media/1602576429800136.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/10/gravity/northeast/dx/20/dy/20/batch/1/degree/-45  />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/181413621d7aab1950b9ede765954b3b-2.webp" style="zoom: 25%;" />
 
-
-
-------
+---
 
 # 钱宝使用教程
 
@@ -82,9 +82,7 @@
 
 **注意2：**注册手机号必须是本人实名认证的手机号，否则无法通过
 
-![image-20220829095220167](https://wiki.zjkmkj.com/media/202208290952589.png)
-
-
+![image-20220829095220167](https://cos.zjkmkj.com/media/2024/08/20/fc483757ba66bf0620daa49d81ad187f-2.webp)
 
 **（三）核定绑定**
 
@@ -144,9 +142,7 @@ APP-商户-交易额度-我要提额-人脸识别提额，验证通过后即可�
 
 > 注意：注册时间小于31天的商户，大于4000的PAY交易只能T1结算
 
-![1576804964198840.png](../media/1576804964198840.png)
-
-
+![1576804964198840.png](https://cos.zjkmkj.com/media/2024/08/20/21a681cdac8026cc2cae2ea7e8ef6ba6-2.webp)
 
 **三、用法详解**
 
@@ -216,7 +212,7 @@ SN开头Q0NL的机器：开机时同时按住开关和取消按键，进入设�
 
 **终端停用：**联系我司客服邮件启用
 
-------
+---
 
 # 钱宝时间表
 
@@ -234,9 +230,7 @@ SN开头Q0NL的机器：开机时同时按住开关和取消按键，进入设�
 
 > 注意:钱宝修改定位/跨地区后，会自动变为随机商户模式，如需使用时间表，请重新开关一次AI`招钱进宝APP-商户-信息维护-开通/关闭AI`，即可恢复时间表，否则一定是随机商户！
 
-![12.jpg](../media/1634007169230963.jpg)
-
-
+![12.jpg](https://cos.zjkmkj.com/media/2024/08/20/f70d5662162653890959e59401b5303f-2.webp)
 
 ---
 

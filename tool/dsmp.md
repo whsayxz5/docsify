@@ -12,7 +12,7 @@
 
 ##### **一、免费领取**
 
-[<img src="https://wiki.zjkmkj.com/media/202310100006648.png" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/76642ce913b26ca342c99938e551266f-2.webp" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
 
 ##### 二、主要特点
 
@@ -54,7 +54,7 @@
 
 **购买用户：**已下单购买码牌客户直接使用购买的码牌SN
 
-![image-20220511171950977](https://wiki.zjkmkj.com/media/202310091111913.png)
+![image-20220511171950977](https://cos.zjkmkj.com/media/2024/08/20/3ba2b25ec4c83b968d98f088aa6aa187-2.webp)
 
 **三、开始注册**
 
@@ -64,7 +64,7 @@
 
 > 注册提醒：存量用户会直接更新至点石码牌的申请页面，如果是第一次注册的话按照要求填写一下即可。
 
-![89381702717043_.pic_hd](https://wiki.zjkmkj.com/media/202312161657892.jpg)
+![89381702717043_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/92110c5a99735905588507cc360d26d8-2.webp)
 
 > 商户名称：不要用 xx 公司地址注册
 >
@@ -72,11 +72,11 @@
 >
 > MCC 行业：不可选择珠宝、教培、医疗行业
 
-<img src="https://wiki.zjkmkj.com/media/202312161547399.jpg" alt="89101702711548_.pic_hd" style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/b09fdb0c064668248385882024f7e66f-2.webp" alt="89101702711548_.pic_hd" style="zoom:67%;" />
 
-<img src="https://wiki.zjkmkj.com/media/202312161548317.jpg" alt="89131702711991_.pic_hd" style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/89d4435ad6ea64613aa89de8e991bf78-2.webp" alt="89131702711991_.pic_hd" style="zoom:67%;" />
 
-<img src="https://wiki.zjkmkj.com/media/202312161548480.jpg" alt="89121702711954_.pic_hd" style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/329d2eef96af92c1a005aa124929a3dc-2.webp" alt="89121702711954_.pic_hd" style="zoom:67%;" />
 
 **五、绑定码牌**
 

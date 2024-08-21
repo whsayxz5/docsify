@@ -8,17 +8,17 @@
 
 # 快速下单
 
-**一、加入代理（立即开通）**
+##### 一、加入代理（立即开通）
 
-扫描下方二维码-注册并下载`汇拓客APP`
+扫描下方二维码-注册并下载`拉生意APP`
 
-<img src="https://wiki.zjkmkj.com/media/202305251656351.png" alt="WechatIMG474" style="zoom:50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/2555e2351090fce038fa6bb2f18f2516-2.webp" alt="WechatIMG474" style="zoom:40%;" />
 
-**二、代理实名认证**
+##### 二、代理实名认证
 
-<img src="https://wiki.zjkmkj.com/media/202305300947498.jpg" alt="6501685411240_.pic_hd" style="zoom:50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/ead36e7be4ea2cedbc20847706085f49-2.webp" alt="6501685411240_.pic_hd" style="zoom:50%;" />
 
-**三、商户入网`必须代理端提交`**
+##### 三、商户入网`必须代理端提交`
 
 **商户简称：**扫码刷卡需要显示的名称，`与门头一致`，`美团/点评`就近查找。（务必注意有水印或者LOGO记得裁剪，否则审核不通过）
 
@@ -26,48 +26,48 @@
 
 **审核状态：**提交后，几分钟即可通过审核
 
-<img src="https://wiki.zjkmkj.com/media/202305300921982.jpg" alt="6441685409505_.pic" style="zoom:50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/9b91c0d93423a280f7264a6b55e158d5-2.webp" alt="6441685409505_.pic" style="zoom:50%;" />
 
-![12641688629544_.pic_hd](https://wiki.zjkmkj.com/media/202307061546029.jpg)
+![../media/2451124b7aec1efd557a7e7670024c332fb.jpg](https://cos.zjkmkj.com/media/2024/08/20/88422995961d6a4adcdb99317e425da6-2.webp)
 
-> 已入网商户结算修改：汇拓客-商户管理-商户变更-变更-商户费率变更，建议` D0+秒到`，提交
+> 已入网商户结算修改：拉生意-商户管理-商户变更-变更-商户费率变更，建议`D0+秒到`，提交
 
 ##### 四、获取码牌
 
-[<img src="https://wiki.zjkmkj.com/media/202307211126110.png" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=50)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/81c3189690382f4647430579e20d5490-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=50)
 
 > 代理用户也可通过我司小程序直接领取使用，按需下单
 
-**五、操作说明**
+##### 五、操作说明
 
 用户实名、码牌绑定等流程：[点我直达](tool/lkl.md)
 
-**六、邀请下级代理**
+##### 六、邀请下级代理
 
-汇拓客APP-拓展合作方-分享注册即可
+拉生意APP-拓展合作方-分享注册即可
 
-------
+---
 
 # 代理政策
 
-**一、政策说明**
+##### 一、政策说明
 
 **结算价：**看政策表格
 
-**客户默认费率：**0.3%（微信/支付宝/银联扫码），代理可自行修改
+**客户默认费率：**0.38%（微信/支付宝/银联扫码），代理可自行修改
 
-**分润：**交易金额*（客户费率-结算价）
+**分润：**交易金额（客户费率-结算价）
 
 **举例：**金牌代理推广100户，客户月均扫码交易`10万`，实际可获得分润收入`100*（11*10）=11000元`
 
-![6471689216828_.pic](https://wiki.zjkmkj.com/media/202307131054553.jpg)
+![6471689216828_.pic](https://cos.zjkmkj.com/media/2024/08/20/a148607ce8bda3d1a98cac6c4b2a78c4-2.webp)
 
 特别说明：代理等级按照码牌数量决定，一个用户最多可绑定5张，下单数量可累积。
 
-**二、分润及返现发放**
+##### 二、分润及返现发放
 
 分润：月结，直接结算到代理账户
 
-**三、特殊说明**
+##### 三、特殊说明
 
 共享原[易碰碰](tool/ypp.md)、[有钱收](tool/yqs.md)政策

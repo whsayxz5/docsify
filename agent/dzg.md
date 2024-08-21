@@ -10,11 +10,11 @@
 
 ##### **一、提交代理申请**
 
-[![image.png](https://wiki.zjkmkj.com/media/202304070944401.png)](http://u.zjkm.xyz/ZFipv)
+[![image.png](https://cos.zjkmkj.com/media/2024/08/20/33398f2b814ea197bc429f34ef35468c-2.webp)](http://u.zjkm.xyz/ZFipv)
 
 ##### **二、快速自助下单**
 
-[![image.png](../media/1567520073143557-20211217211234633.png)](http://kmshop.zjkmkj.com/detail/16)
+[![image.png](https://cos.zjkmkj.com/media/2024/08/20/e40d79fd2b3685142f4adc3d5c759b4f-2.webp)](http://kmshop.zjkmkj.com/detail/16)
 
 **下单流程：**请务必备注代理XXX，忘记备注请及时联系客服备注。
 
@@ -38,9 +38,9 @@
 
 **一、政策说明**
 
-![image.png](../media/1574065829102788.png)
+![image.png](https://cos.zjkmkj.com/media/2024/08/20/3d4a3de91eb8cf9fbcf70a2503c05800-2.webp)
 
-![image.png](../media/1573180365644577.png)
+![image.png](https://cos.zjkmkj.com/media/2024/08/20/2c1b048232776c0af46b8bcd46f39784-2.webp)
 
 > **注意点①：**首笔达标99元，激活后商城退款99元，代理账户会收到（99-49）元，需扣除49元机器款。
 
@@ -66,7 +66,7 @@
 
 **一、下载店管家APP**
 
-[![image.png](../media/1567525328385832.png)](https://uenpay.com/downloadcopy/dgj/down-dgj.html)
+[![image.png](https://cos.zjkmkj.com/media/2024/08/20/1f1b5c36f151147245b07fad6fec8e16-2.webp)](https://uenpay.com/downloadcopy/dgj/down-dgj.html)
 
 **账号/密码：**[点此查询](http://u.zjkmkj.com/QfU36)
 

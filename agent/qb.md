@@ -10,11 +10,11 @@
 
 **一、提交代理申请**
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://jinshuju.net/f/LEus0w)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/79f60f8c972be006b44c68bf9d39f3e2-2.webp" style="zoom:50%;" />](https://jinshuju.net/f/LEus0w)
 
 **二、快速自助下单**
 
-[<img src="../media/order.png" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=1)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/5e53eaeb213fd5de5e8a29b31012cc35-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=1)
 
 > 下单流程**：**请务必备注代理XXX，忘记备注请及时联系我司客服。
 
@@ -68,7 +68,7 @@
 
 钻石以下代理包邮，机构代理运费自付
 
-**![](../media/image-20220314085400295.png)**
+**![](https://cos.zjkmkj.com/media/2024/08/20/18d5b54f4e54774e0acf7b2357bf6c5a-2.webp)**
 
 **二、分润及返现发放**
 
@@ -114,7 +114,7 @@
 
 下级合作伙伴管理—终端划拨—输入sn号 数量 选择需划拨的合作伙伴
 
-![图片3.png](../media/1630890682607946.png)
+![图片3.png](https://cos.zjkmkj.com/media/2024/08/20/7ac6aebca8b199187e03af5b4069fcb8-2.webp)
 
 
 
@@ -124,7 +124,7 @@
 
 
 
-![图片4.png](../media/1630890722952774.png)
+![图片4.png](https://cos.zjkmkj.com/media/2024/08/20/63cc6cc34157f15533fcf06804a72e2a-2.webp)
 
 
 
@@ -140,13 +140,13 @@
 
 商户申请信息管理-商户入网申请—标`*`号的都得输入提交
 
-![图片5.png](../media/1630890764342012.png)
+![图片5.png](https://cos.zjkmkj.com/media/2024/08/20/3990e6beedbc5ed7c07f801691cedf2b-2.webp)
 
 **（二）终端变更/更换机器**
 
 商户申请信息管理-商户终端信息—输入商户编号（商户名称/sn号/法人/身份证号都可以）—终端信息—基本变更—终端sn号输入新的sn号- 确定提交
 
-![图片6.png](../media/1630890804959632.png)
+![图片6.png](https://cos.zjkmkj.com/media/2024/08/20/d12067bab8ae0dcd8dd7b532507700a9-2.webp)
 
 **（三)费率变更**
 
@@ -156,7 +156,7 @@
 
 商户申请信息管理-商户终端信息—变更—商户注册地址/商户手机号/银行卡
 
-![图片7.png](../media/1630890857112006.png)
+![图片7.png](https://cos.zjkmkj.com/media/2024/08/20/81c1128d0dd6dd3519fe4ef85d32e6ee-2.webp)
 
 
 
@@ -166,19 +166,19 @@
 
 **商户停用：**商户申请信息管理-商户终端信息—输入商户编号（商户名称/sn号/法人/身份证号都可以）—终端信息—停用
 
-![图片8.png](../media/1630890988432766.png)
+![图片8.png](https://cos.zjkmkj.com/media/2024/08/20/434558738c5d01a56a4cd075fe49944f-2.webp)
 
 **交易查询：**交易管理—查询统计—当日交易查询/历史交易查询
 
-![图片9.png](../media/1630891022976348.png)
+![图片9.png](https://cos.zjkmkj.com/media/2024/08/20/22b9adb01da49b8dd19e684e599a7600-2.webp)
 
 
 
 **八、开设代理**
 
-**![1635734200941740.jpg](../media/1635734200941740.jpg)**
+**![1635734200941740.jpg](https://cos.zjkmkj.com/media/2024/08/20/4d523b082e3b0b05c2e4c457325ed86b-2.webp)**
 
-**![1635734210813191.jpg](../media/1635734210813191.jpg)**
+**![1635734210813191.jpg](https://cos.zjkmkj.com/media/2024/08/20/0c29468e1ab5ede6da64799292af93f7-2.webp)**
 
 
 

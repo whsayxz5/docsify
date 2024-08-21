@@ -12,15 +12,15 @@
 
 ##### 一、免费领取
 
-[<img src="https://wiki.zjkmkj.com/media/202305251011831.png" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/99e41e5dbad40ce93fa53c4327b16c6c-2.webp" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
 
 > 领取复制到浏览器打开，即可获取专属收款码
 
-<img src="https://wiki.zjkmkj.com/media/202305311129552.jpg" alt="6461685410253_.pic_hd" style="zoom:50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/405b76538b86bce4d50ee3c412ecb336-2.webp" style="zoom:15%;" />
 
 ##### 二、正常下单`（代理或需要更多商户的客户）`
 
-[<img src="https://wiki.zjkmkj.com/media/202307211123520.png" style="zoom:33%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=50)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/12ced3f0e76208ace9e9a10577693506-2.webp" style="zoom:33%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=50)
 
 > **客户：**无需备注，在[:link: 我的订单](http://kmshop.zjkmkj.com/pages/users/order_list/index)-`订单详情页-商家备注`查看SN
 >
@@ -28,7 +28,7 @@
 
 ##### 三、一清牌照
 
-<img src="https://wiki.zjkmkj.com/media/202305260916554.jpg" alt="img" style="zoom:15%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/38ed429104e525504362c4b66fd1b3e5-2.webp" alt="img" style="zoom:10%;" />
 
 > 拉卡拉客服电话：95016
 
@@ -42,11 +42,11 @@
 
 ##### 五、交易限额
 
-**微信/支付宝：**`0.38%`，单笔`5`万，单日`10`万，单月`150`万，`可秒到/可D1`
+**微信/支付宝：**`0.38%`，单笔`5`万，单日`10`万，单月`150`万，实际限额以APP显示为准
 
-**银联扫码**：1000以下`0.38%`，1000以上`0.55%`，单日`10`万，单月`150`万，`只能D1到账`
+**银联扫码：**1000以下`0.38%`，1000以上`0.55%`，单日`10`万，单月`150`万
 
-> 注意：扫码现在商户限额以总部动态显示为准
+**到账时间：**目前默认全部 D1 到账，无法秒到
 
 ##### 六、购买费用
 
@@ -64,21 +64,25 @@
 
 [:link: 点此开通代理](agent/lkl.md)，注册分享即可推广，5张起共享封顶政策
 
-------
+---
 
 # 拉卡拉码牌使用教程
 
-##### 一、注册下载
+##### 一、扫码注册APP
 
-扫描下方二维码-注册并下载`汇拓客APP`
+<img src="https://cos.zjkmkj.com/media/2024/08/20/cc0469bc0a4c47ef11b05a20818969e0-2.webp" style="zoom:25%;" />
 
-<img src="https://wiki.zjkmkj.com/media/202305251656351.png" alt="WechatIMG474" style="zoom:50%;" />
+##### 二、下载APP`拉生意`
 
-**二、实名认证**
+[苹果：点我下载](https://tkfront.lakala.com/download/LSY/index.html)
 
-<img src="https://wiki.zjkmkj.com/media/202305300947498.jpg" alt="6501685411240_.pic_hd" style="zoom:50%;" />
+[安卓：点我下载](https://tkfront.lakala.com/download/LSY/index.html)
 
-**三、商户入网**
+##### 三、实名认证
+
+<img src="https://cos.zjkmkj.com/media/2024/08/20/4542e5527f26f84db670365f11c1c20c-2.webp" style="zoom:35%;" />
+
+##### 四、商户入网
 
 **商户简称：**扫码刷卡需要显示的名称，`与门头一致`，`美团/点评`就近查找。（务必注意有水印或者LOGO记得裁剪，否则审核不通过）
 
@@ -90,63 +94,59 @@
 
 > 注意：商户名字要`大于7个字`
 
-<img src="https://wiki.zjkmkj.com/media/202305300921982.jpg" alt="6441685409505_.pic" style="zoom:50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/efa192d8e199a0d09e90100e9e06db7f-2.webp" style="zoom:30%;" />
 
-![12641688629544_.pic_hd](https://wiki.zjkmkj.com/media/202307061546823.jpg)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/ae96300d4815759169944e0ea8d74a41-2.webp" style="zoom:30%;" />
 
-> 结算类型如选择`自动结算`，秒到提现费`0.02%`；
->
-> 部分小额交易未秒到会到账户余额，请手动提现，路径：拉卡拉 APP-首页-全部-拉到底-提款
-
-##### 四、商户认证
+##### 五、商户认证
 
 1. 下载APP[🔗拉卡拉](https://i.lakala.com/product/lakala/d.html)
-1. 打开拉卡拉APP-`选择手机号验证码登陆`（商户进件时所使用的号码）
-1. 开始进入`实名认证过程`-按照提示将身份证信息上传-开始人脸识别-按照方框内提示的文字进行操作`（请在光线充足的地方操作）`-识别完成后自动跳转-并选择`显示入网商户`
+2. 打开拉卡拉APP-`选择手机号验证码登陆`（商户进件时所使用的号码）
+3. 开始进入`实名认证过程`-按照提示将身份证信息上传-开始人脸识别-按照方框内提示的文字进行操作`（请在光线充足的地方操作）`-识别完成后自动跳转-并选择`显示入网商户`
 
-<img src="https://wiki.zjkmkj.com/media/202305261440946.jpg" alt="5221685083220_.pic_hd" style="zoom:50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/af76f6b85c25b020d7d9cc4e26a1540a-2.webp" style="zoom:15%;" />
 
-<img src="https://wiki.zjkmkj.com/media/202305291036071.png" alt="WechatIMG523" style="zoom:50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/9c4c1b795a8fa9bf5ebc21f838e24203-2.webp" style="zoom:28%;" />
 
-##### 五、获取码牌
+##### 六、获取码牌
 
 **体验用户：**请[:link: 点我领取](http://u.zjkm.xyz/X5CJy)自助领取，领取信息复制到浏览器打开就是二维码
 
 **购买用户：**目前多卡唯一用途就是扫码，其他情况请勿下单
 
-<img src="https://wiki.zjkmkj.com/media/202305301308922.jpg" alt="6571685423296_.pic" style="zoom:50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/79ddbe9a873216d0788c030eb9297ea4-2.webp" style="zoom:35%;" />
 
-**六、绑定码牌**
+##### 七、绑定码牌
 
-点击`汇拓客APP`-点击`商户管理`-点击`商户查询`-点击`设备查询`-终端设备信息选择`码牌`，扫描卡牌上二维码即可绑定。
+点击`拉生意APP`-点击`商户管理`-点击`商户查询`-点击`设备查询`-终端设备信息选择`码牌`，扫描卡牌上二维码即可绑定。
 
-<img src="https://wiki.zjkmkj.com/media/202305300940722.jpg" alt="6491685410851_.pic_hd" style="zoom:50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/c56cb975dcaee3f1f7811566f51bbf0d-2.webp" alt="6491685410851_.pic_hd" style="zoom:35%;" />
 
-<img src="https://wiki.zjkmkj.com/media/202305300936153.jpg" alt="6471685410588_.pic_hd" style="zoom:50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/4966f471d0c74ff54be795b3456b730c-2.webp"  style="zoom:35%;" />
 
-##### 六、扫码认证`非常重要`
+##### 八、扫码认证`非常重要`
 
->  目前支付宝微信均需认证后开通
+> 目前支付宝微信均需认证后开通
 
 **开通支付宝：**按照[:link: 支付宝认证教程](tool/zfbrz.md)操作
 
 **开通微信：**按照[:link: 微信认证教程](tool/wxrz.md)操作
 
-**七、正常使用**
+##### 九、正常使用
 
 保存收款码：第一步免费领取的就是[:link: 收款码](http://u.zjkm.xyz/X5CJy)，`必须用这个收款码`
 
 扫码付款：微信/支付宝/银联扫一扫保存的`收款码`即可
 
-> 禁止使用拉卡APP拉首页收款码/扫一扫，费率高无法修改且极易风控
+> 禁止使用拉卡拉APP拉首页收款码/扫一扫，费率高无法修改且极易风控
 
-##### 八、开通更多商户
+##### 十、开通更多商户
 
 > 拉卡拉最多可办理`5张/人`，使用新码牌重新入网即可
 
-![6511685412081_.pic_hd](https://wiki.zjkmkj.com/media/202305301002603.jpg)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/ad311a8e3191c54c8179d851d7f8e0fc-2.webp"  style="zoom:45%;" />
 
-------
+---
 
 # 拉卡拉码牌常见问题
 
@@ -172,6 +172,6 @@
 
 三、`扫码交易`属于附带功能，特别是支付宝微信，目前支付宝/微信全面严控，与机器/用户/玩法都无关，不存在无风控随便刷的路子，机器本身支持扫码不代表支付宝微信都能正常使用信用卡付款，如出现无法选择信用卡/支付风控/等问题属于正常行为，与机器本身刷卡功能无关，不作为机器使用问题之一。
 
-四、原则上刷卡机属于特殊物品，寄出不退不换；我司承诺提供更高标准的`七天无理由退换`，在`机器未使用`和`不影响二次销售`的前提下，用户可无理由在`签收后七天内`进行退换，`邮费自付`。
+四、原则上刷卡机属于特殊物品，寄出不退不换；我司承诺提供更高标准的`七天无理由退换`，在`机器未使用`和`不影响二次销售`的前提下，用户可无理由在`签收后七天内`进行退换，`来回运费自付`。
 
 五、如有任何不明之处，请随时联系我司客服。

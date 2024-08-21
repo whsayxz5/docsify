@@ -12,7 +12,7 @@
 
 ##### 一、加入代理（自助）
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://longpay.xddshare.com/ymsshare/?N=6JKL5oiQ5paH&C=633161&R=AGENT)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/3e7e28b3df15eaed121d0fd7b151478a-2.webp" style="zoom:50%;" />](https://longpay.xddshare.com/ymsshare/?N=6JKL5oiQ5paH&C=633161&R=AGENT)
 
 
 
@@ -72,7 +72,7 @@
 
 **举例：**金牌代理推广100户，客户月均扫码交易`10万`，实际可获得分润收入`100*（13*10）=13000元`
 
-![image-20220625002056294](https://wiki.zjkmkj.com/media/image-20220625002056294.png)
+![image-20220625002056294](https://cos.zjkmkj.com/media/2024/08/20/2237518deb05c3ccd7ec2a59ac4bc411-2.webp)
 
 ##### **二、分润及返现发放**
 
@@ -92,4 +92,4 @@
 
 ##### 二、操作图解
 
-![image-20220514232555817](../media/image-20220514232555817.png)
+![image-20220514232555817](https://cos.zjkmkj.com/media/2024/08/20/14c1c169a401bb135cdf5c871ce37e53-2.webp)

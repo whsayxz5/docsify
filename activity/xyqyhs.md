@@ -22,7 +22,7 @@
 
 私聊`羊毛哥`获取`航班/预约时间/服务机场/地址`信息
 
-<img src="https://wiki.zjkmkj.com/media/202311141507346.png" width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/102a880b2c0de96096f62a6d388d66c7-2.webp" width=400 />
 
 ##### （二）下单兑换
 

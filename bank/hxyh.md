@@ -6,13 +6,11 @@
 - [畅行华夏信用卡](#畅行华夏信用卡)
 - [华夏优享白金信用卡](#华夏优享白金信用卡)
 
-------
+---
 
 # 华夏海航联名卡
 
-
-
-<img src="../media/1625302007641013.jpg" alt="155.jpg" style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/bd775931211560ad2bcdcf168d948855-2.webp" alt="155.jpg" style="zoom:67%;" />
 
 **（一）年费标准**
 
@@ -26,7 +24,7 @@
 
 **（二）积分规则**
 
-![微信图片_20210703162717.png](../media/1625300849241256.png)
+![微信图片_20210703162717.png](https://cos.zjkmkj.com/media/2024/08/20/5ac9a943bd6d4d4ae21e9b27f73c7975-2.webp)
 
 **（三）主要权益**
 
@@ -70,11 +68,11 @@
 
 [:link: 点此进入](http://creditcard.hxb.com.cn/card/cn/cpygn/cpjs/hxlmxl/2017/07/17452.shtml)
 
-------
+---
 
 # 华夏精英·尊尚白金卡
 
-<img src="../media/1549934484cs.jpg" alt="img" style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/345e39d6ec294501e349a5d954e0bf68-2.webp" alt="img" style="zoom:67%;" />
 
 **（一）年费标准**
 
@@ -117,11 +115,11 @@
 
 [:link: 点此进入](http://creditcard.hxb.com.cn/card/cn/cpygn/cpjs/hxbjxl/2017/02/3505.shtml)
 
-------
+---
 
 # 华夏精英环球信用卡
 
-<img src="../media/1554192724cs.jpg" alt="img" style="zoom:67%;" />  ![img](../media/1554192746cs.jpg)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/7f4f2aab02ec752076df1f9f86b2dc88-2.webp" alt="img" style="zoom:67%;" />  ![img](https://cos.zjkmkj.com/media/2024/08/20/ddaf9cd90ddd0c23dd793441b2293c81-2.webp)
 
 **（一）年费标准**
 
@@ -159,11 +157,11 @@
 
 **（六）卡片网址**
 
-------
+---
 
 # 畅行华夏信用卡
 
-<img src="../media/1554195180cs.jpg" alt="img" style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/f1a2997266aba93d4c8df81b6361725f-2.webp" alt="img" style="zoom:67%;" />
 
 **（一）年费标准**
 
@@ -197,7 +195,7 @@ ETC速通：自动扣划高速公路通行费；“先通行，后还款”；�
 
 # 华夏优享白金信用卡
 
-<img src="https://wiki.zjkmkj.com/media/image-20220611172827630.png" alt="image-20220611172827630" style="zoom: 67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/f6e579d2c16120d56f4a19617a69b367-2.webp" alt="image-20220611172827630" style="zoom: 67%;" />
 
 **（一）年费标准**
 
@@ -223,7 +221,7 @@ ETC速通：自动扣划高速公路通行费；“先通行，后还款”；�
 
 3、快速安检3次
 
-4、高端健身服务5选1，2次：
+4、高端健身服务2次：`5选1`
 
 （1）五星酒店游泳/健身
 
@@ -250,8 +248,3 @@ ETC速通：自动扣划高速公路通行费；“先通行，后还款”；�
 **（六）卡片网址**
 
 [:link: 点此进入](https://creditcard.hxb.com.cn/card/cn/cpygn/cpjs/hxbjxl/2022/06/92295.shtml)
-
-
-
-
-

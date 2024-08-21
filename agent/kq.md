@@ -14,13 +14,13 @@
 
 ##### **一、提交代理申请**
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://jinshuju.net/f/LEus0w)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/9814f0526ddb6564a2a9246826239c6c-2.webp" style="zoom:50%;" />](https://jinshuju.net/f/LEus0w)
 
 
 
 ##### **二、快速自助下单（畅捷切换无需下单）**
 
-[<img src="../media/order.png" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=26)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/857ecb79a44679a711871a45a6517aac-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=26)
 
 
 
@@ -60,7 +60,7 @@
 
 **买断版：**88元一台（送一年流量卡），用户政策自行制定
 
-![](../media/image-20220322235656265.png)
+![](https://cos.zjkmkj.com/media/2024/08/20/7903c349a5c40efe750125a20699982d-2.webp)
 
 ##### **二、分润发放**
 
@@ -98,7 +98,7 @@ PC版：[点此进入](https://xwpos.furongyun.cn/)
 
 
 
-![图片5.png](../media/1631003383342652.png)
+![图片5.png](https://cos.zjkmkj.com/media/2024/08/20/ce78ef9e5c1cf1fdb4bddfa9bc0cc42d-2.webp)
 
 
 
@@ -108,7 +108,7 @@ PC版：[点此进入](https://xwpos.furongyun.cn/)
 
 2、选择1POS参数更新，然后2POS菜单更新，然5非接专用菜单，3/4/5菜单分别下载
 
-![图片6.png](../media/1631003451555067.png)
+![图片6.png](https://cos.zjkmkj.com/media/2024/08/20/4ac0c5daf0b1d710d15eb343e87bfe29-2.webp)
 
 **（三）96+拒绝**  
 
@@ -116,4 +116,4 @@ PC版：[点此进入](https://xwpos.furongyun.cn/)
 
 
 
-![图片7.png](../media/1631003521407638.png)
+![图片7.png](https://cos.zjkmkj.com/media/2024/08/20/cd1a96f031c16e92d8543e9f01210234-2.webp)

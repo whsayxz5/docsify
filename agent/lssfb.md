@@ -12,7 +12,7 @@
 
 **一、注册代理（即时开通）**
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://h5.leshuazf.com/wap/sfb-invite-h5/#/home?agentId=5826937&agentName=%E6%B5%99%E6%B1%9F%E5%8D%A1%E7%9B%9F%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&code=44806)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/7bdb01ebadb220f8776cf22057ea8857-2.webp" style="zoom:50%;" />](https://h5.leshuazf.com/wap/sfb-invite-h5/#/home?agentId=5826937&agentName=%E6%B5%99%E6%B1%9F%E5%8D%A1%E7%9B%9F%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&code=44806)
 
 **二、下载代理APP并实名**`收付贝`
 
@@ -20,7 +20,7 @@
 
 **三、快速自助下单**
 
-[<img src="../media/order.png" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=38)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/5fd84d12719866e80992f75efc7b8ebb-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=38)
 
 **下单流程：**请务必备注代理XXX，忘记备注请及时联系对接
 
@@ -38,7 +38,7 @@
 
 **一、政策说明**
 
-![image-20221221210423265](https://wiki.zjkmkj.com/media/202212212104352.png)
+![image-20221221210423265](https://cos.zjkmkj.com/media/2024/08/20/96691564357713db694eee7344c47376-2.webp)
 
 **机具：**99元/台
 

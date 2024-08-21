@@ -14,13 +14,13 @@
 
 **一、代理申请**
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://jinshuju.net/f/LEus0w)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/396db6a87f71e3a3b68fa548d3b16f69-2.webp" style="zoom:50%;" />](https://jinshuju.net/f/LEus0w)
 
 
 
 **二、快速自助下单**
 
-[![1569425353473233.png](../media/1617518736742356-20211217203519087.png)](https://kmbk.zjkmkj.com/Index/194)
+[![1569425353473233.png](https://cos.zjkmkj.com/media/2024/08/20/5acdbbbc9004cddae182186cd64a01dc-2.webp)](https://kmbk.zjkmkj.com/Index/194)
 
 
 
@@ -56,7 +56,7 @@
 
 **达标时间：**自终端入库之日起 180 天之内，未激活终端按 50 元/台补机具差价
 
-**![image.png](../media/1596612279505610.png)**
+**![image.png](https://cos.zjkmkj.com/media/2024/08/20/40eccc8e09be215e634bd52335960288-2.webp)**
 
 **二、分润及返现发放**
 

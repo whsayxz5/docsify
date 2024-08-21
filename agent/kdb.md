@@ -14,13 +14,13 @@
 
 ##### **一、提交代理申请**
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://jinshuju.net/f/LEus0w)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/7245c5b1163cceaea281989561b5fc47-2.webp" style="zoom:50%;" />](https://jinshuju.net/f/LEus0w)
 
 
 
 ##### **三、快速自助下单（畅捷/快钱切换无需下单）**
 
-[<img src="../media/order.png" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=35)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/288c5f7d31a7b7406f3672782c5a3831-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=35)
 
 
 
@@ -60,7 +60,7 @@
 
 **买断版：**88元一台（送一年流量卡），用户政策自行制定
 
-![](../media/image-20220322235656265.png)
+![](https://cos.zjkmkj.com/media/2024/08/20/7ccdf336a0e9977190a6769b98699f1d-2.webp)
 
 ##### **二、分润发放**
 
@@ -98,7 +98,7 @@ PC版：[点此进入](https://kdbpro-xwpos.candypay.com/)
 
 
 
-![图片5.png](../media/1631003383342652.png)
+![图片5.png](https://cos.zjkmkj.com/media/2024/08/20/37187d8baef917b4358d4cb9a8eb31f8-2.webp)
 
 
 
@@ -108,7 +108,7 @@ PC版：[点此进入](https://kdbpro-xwpos.candypay.com/)
 
 2、选择1POS参数更新，然后2POS菜单更新，然5非接专用菜单，3/4/5菜单分别下载
 
-![图片6.png](../media/1631003451555067.png)
+![图片6.png](https://cos.zjkmkj.com/media/2024/08/20/a5d098b5bce20d12112bdaafcf3824a0-2.webp)
 
 **（三）96+拒绝**  
 
@@ -116,4 +116,4 @@ PC版：[点此进入](https://kdbpro-xwpos.candypay.com/)
 
 
 
-![图片7.png](../media/1631003521407638.png)
+![图片7.png](https://cos.zjkmkj.com/media/2024/08/20/370b91bac6a7f1918e334432c9bad6a8-2.webp)

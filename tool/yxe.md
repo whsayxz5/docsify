@@ -11,15 +11,15 @@
 
 ##### 一、产品已升级
 
-[<img src="https://wiki.zjkmkj.com/media/202211072247560.png" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/e7b0354574256ab2a5beb2b9f814057c-2.webp" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
 
 > 注：自助领取体验卡SN，首张免费体验，仅限卡盟用户，不含代理
 
-![image-20220511171950977](https://wiki.zjkmkj.com/media/202211072247579.png)
+![image-20220511171950977](https://cos.zjkmkj.com/media/2024/08/20/72c1653765f318d603e97ee56b3257b7-2.webp)
 
 **二、一清牌照**
 
-<img src="https://wiki.zjkmkj.com/media/202209302235993.png" width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/74521a9bdfb2186005edfb820ff130a9-2.webp" width=400 />
 
 ##### 三、独特功能
 
@@ -63,11 +63,11 @@
 
 ##### 一、产品已升级
 
-[<img src="https://wiki.zjkmkj.com/media/202211072247560.png" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/e7b0354574256ab2a5beb2b9f814057c-2.webp" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
 
 > 注：自助领取体验卡SN，首张免费体验，仅限卡盟用户，不含代理
 
-![image-20220511171950977](https://wiki.zjkmkj.com/media/202211072247579.png)
+![image-20220511171950977](https://cos.zjkmkj.com/media/2024/08/20/72c1653765f318d603e97ee56b3257b7-2.webp)
 
 ##### 二、下载APP
 
@@ -79,7 +79,7 @@
 
 ##### 三、商户入网[:link: H5教程点我](https://g.eqxiu.com/s/Wuv7Ero2?eqrcode=1&share_level=2&from_user=20220428c422f9a5&from_id=e6088391-a&share_time=1651159548144)
 
-![WechatIMG1187](https://wiki.zjkmkj.com/media/202210141030889.jpeg)
+![WechatIMG1187](https://cos.zjkmkj.com/media/2024/08/20/1229ad4437cb18782cce3ffe77f9f6cb-2.webp)
 
 ##### **五、填写注意事项**
 
@@ -128,7 +128,7 @@ APP首页-买单收款，保存收款码到本地，微信/支付宝/银联扫�
 
 4、联系卡盟客服提供商户号，我司会联系总部加快审核进度
 
-![image-20220702234535040](https://wiki.zjkmkj.com/media/image-20220702234535040.png)
+![image-20220702234535040](https://cos.zjkmkj.com/media/2024/08/20/d6cb950cfbae2035db5d2c61dbab0348-2.webp)
 
 ---
 

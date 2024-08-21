@@ -11,17 +11,17 @@
 
 ##### **一、免费领取**
 
-[<img src="https://wiki.zjkmkj.com/media/202307311639544.png" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/cd8a4e7303bdd8fe717e95cef8b2466d-2.webp" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
 
 > 注：自助领取SN，无论用户/代理
 
-<img src="https://wiki.zjkmkj.com/media/202312181624453.png" alt="32451702887775_.pic_hd" style="zoom:50%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/6742f12a80cd85063129ef7cf9ee0a8b-2.webp" alt="32451702887775_.pic_hd" style="zoom:50%;" />
 
 
 
 ##### 二、一清牌照
 
-<img src="https://wiki.zjkmkj.com/media/202312181634005.jpeg" alt="img" style="zoom: 25%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/4f83f04ca24ef37ab14fa5937eba2c49-2.webp" alt="img" style="zoom: 25%;" />
 
 **三、特点**
 
@@ -77,7 +77,7 @@
 
 ##### 四、获取SN
 
-![32451702887775_.pic_hd](https://wiki.zjkmkj.com/media/202312181644814.png)
+![32451702887775_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/edd7dcbfbd87a2f955a81b3d12eff638-2.webp)
 
 ##### 五、绑定卡牌
 

@@ -1,6 +1,3 @@
----
-{}
----
 # 玩转工行
 
 **一、预期收益**
@@ -15,7 +12,7 @@
 
 工行的综合积分可兑换项目非常丰富，按需选择
 
-![image.png](../media/1611066998575545.png)
+![image.png](https://cos.zjkmkj.com/media/2024/08/20/53c9049ba5c5fb30848e10f7391d6575-2.webp)
 
 （三）其他权益
 
@@ -27,7 +24,7 @@
 
 **二、图解姿势**
 
-![9.jpg](../media/1624935088936759.jpg)
+![玩转工行](https://cos.zjkmkj.com/media/2024/08/20/d3f1ffe6aaec8b28f110583b0764fbd3-2.webp)
 
 ---
 
@@ -135,7 +132,7 @@
 
 # 香格里拉白金卡
 
-<img src=../media/1611035370101456.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/20/gravity/northeast/dx/20/dy/20/batch/1/degree/45 width=400 style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/26e60c8c674d46baa9b673ef84b62557-2.webp" width=400 style="zoom:67%;" />
 
 **一、年费标准**
 
@@ -181,7 +178,7 @@
 
 # 光芒女性PLUS版
 
-<img src=../media/1611027103630242.png?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/20/gravity/northeast/dx/20/dy/20/batch/1/degree/45 width=400 style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/204549ffc974e46eae7f0a6b15424560-2.webp" width=400 style="zoom:67%;" />
 
 **一、年费标准**
 
@@ -218,7 +215,7 @@ PLUS版不累计个人综合积分
 
 # 医护白金卡
 
-<img src=../media/1591343428921516.jpg?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/20/gravity/northeast/dx/20/dy/20/batch/1/degree/45 width=400 style="zoom:67%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/41592fd1adb943fcd311e102c27ac3da-2.webp" width=400 style="zoom:67%;" />
 
 **一、年费标准**
 
@@ -338,4 +335,4 @@ PLUS版不累计个人综合积分
 
 > 注意：不是所有悦途都支持，必须列表里的，列表外的需自测
 
-<img src=../media/image-20220118223148234.png?watermark/2/text/5rWZ5rGf5Y2h55uf/fontsize/20/dissolve/20/gravity/northeast/dx/20/dy/20/batch/1/degree/45 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/cc4cfd2676956b7d4848c0a0c82c11d4-2.webp" />

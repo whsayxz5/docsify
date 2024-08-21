@@ -10,11 +10,11 @@
 
 ##### **一、提交代理申请**
 
-[<img src="../media/apply.png" style="zoom:50%;" />](http://u.zjkm.xyz/ZFipv)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/e03ae8eaa47f1d15da48a478c6d7c9e1-2.webp" style="zoom:50%;" />](http://u.zjkm.xyz/ZFipv)
 
 ##### **二、快速自助下单**
 
-[<img src="../media/order.png" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=18)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/79dcbf1b61d89c8fc8b49f88289ca9de-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=18)
 
 > **下单流程：**请务必备注代理XXX，否则激活后无法划拨商户，忘记备注请及时联系对接。
 
@@ -40,7 +40,7 @@
 
 ##### **（一）政策说明**
 
-![](../media/image-20220429175158354.png)
+![](https://cos.zjkmkj.com/media/2024/08/20/aa93e8a8e3846788a14e10c712d229f0-2.webp)
 
 **（二）机器费用**
 

@@ -52,7 +52,7 @@
 
 1、东航系的国内里程兑换为Distance Based
 
-![img](../media/1554960403cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/a46b33b95f914813549ec176a78ea45e-2.webp)
 
 2、上海出发：作为东航的总部，SHA和PVG拥有数目最多的目的地。
 
@@ -66,19 +66,19 @@
 
 东航系国际线兑换标准如下表 
 
-![img](../media/1554960670cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/289fddc1d878eb95849237cbe25dccd9-2.webp)
 
 **（四）天合联盟机票兑换**
 
 东航最新的天合联盟机票兑换表
 
-![img](../media/1554960772cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/66b55c2e1f1f551a88f247c743c21374-2.webp)
 
 **（五）其它伙伴航司兑换**
 
 日航[JL]和澳大利亚航空[QF]的里程兑换标准 
 
-![img](../media/1554960851cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/3f46d994647098ba5f5f702667779057-2.webp)
 
 
 
@@ -133,7 +133,7 @@
 
 会员乘坐所有挂有“MF”为航班代号的厦航航班可累积奖励积分,2019年4月1日期（航班日期）起，定级/保级积分和航段标准如下：
 
-![img](../media/1555052979cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/e572ded33d6ef8ebbce249c2291090de-2.webp)
 
 （一）地区航线指中国大陆与港澳台地区间航线。
 
@@ -148,7 +148,7 @@
 
 厦门航空为2-23周岁的儿童和青少年旅客专门设计了“白鹭成长卡”，2-11周岁为儿童旅客，12-23周岁为青少年旅客：
 
-![img](../media/1555053757cs.png)
+![img](https://cos.zjkmkj.com/media/2024/08/20/e4aa17da6afb7fe17d7269bc937f7c00-2.webp)
 
 （一）成长卡会员乘机所累积积分有效期可延长至会员年满27岁当年的12月31日，成长卡会员年满23周岁后的次年1月1日将自动升级为白鹭普卡会员。
 

@@ -18,7 +18,7 @@
 
 
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://cloudcdn.cloudpnr.com/twinklestar/h5/agent-audit.html?agentId=410081350027839&operater=0000166942&prodId=410081&agentName=浙江卡盟网络科技有限公司&tempId=AF20211103036787)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/4588de201c6510b792b1dfe193608cdf-2.webp" style="zoom:50%;" />](https://cloudcdn.cloudpnr.com/twinklestar/h5/agent-audit.html?agentId=410081350027839&operater=0000166942&prodId=410081&agentName=浙江卡盟网络科技有限公司&tempId=AF20211103036787)
 
 
 
@@ -28,7 +28,7 @@
 
 **三、快速下单**
 
-[<img src="../media/order.png" style="zoom:50%;" />](https://kmshop.zjkmkj.com/pages/goods_details/index?id=32)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/0528282b049ce073c1f080d615a15e5b-2.webp" style="zoom:50%;" />](https://kmshop.zjkmkj.com/pages/goods_details/index?id=32)
 
 > 下单流程**：**请务必备注代理XXX，忘记备注请及时联系对接，激活后不可划拨！！！
 
@@ -52,7 +52,7 @@
 
 **流量卡：**激活次月收取，用户`45元/年`，代理商`分成20元`
 
-![1b54004e12ef11e019dd84842d18bad.png](../media/1636537016537629.png)
+![1b54004e12ef11e019dd84842d18bad.png](https://cos.zjkmkj.com/media/2024/08/20/e04358333ee60df43dd5d2ade4faf021-2.webp)
 
 **二、分润发放**
 
@@ -76,7 +76,7 @@
 
 **二、选择主体**`可根据本级和上级的服务商名称区分`
 
-![微信图片_20211102100047.png](../media/1635818461603377.png)
+![微信图片_20211102100047.png](https://cos.zjkmkj.com/media/2024/08/20/7770963c930ae261e3465ac24a44bf3f-2.webp)
 
 
 
@@ -90,7 +90,7 @@
 
 
 
-![微信图片_20211102100615.png](../media/1635818786613126.png)
+![微信图片_20211102100615.png](https://cos.zjkmkj.com/media/2024/08/20/6d123aa6da5cc36b85b3c7da1a484ee0-2.webp)
 
 
 
@@ -100,7 +100,7 @@
 
 
 
-![微信图片_20211102100741.png](../media/1635818873188676.png)
+![微信图片_20211102100741.png](https://cos.zjkmkj.com/media/2024/08/20/adb55bd9e5d6eb573898f85c3418c7ea-2.webp)
 
 
 
@@ -114,7 +114,7 @@
 
 
 
-![1.png](../media/1635819107232827.png)
+![1.png](https://cos.zjkmkj.com/media/2024/08/20/4376b77efd52a910699da761a277d477-2.webp)
 
 **三、终端详情（查看、绑定、解绑）**
 
@@ -128,7 +128,7 @@
 
 
 
-**![2.png](../media/1635819770421981.png)**
+**![2.png](https://cos.zjkmkj.com/media/2024/08/20/5fc6847e4e02f2cfe1cbca69de99b3f6-2.webp)**
 
 
 
@@ -146,7 +146,7 @@
 
 
 
-![3.png](../media/1635820008153378.png)
+![3.png](https://cos.zjkmkj.com/media/2024/08/20/172dc4265a5e779178171652d7c6e240-2.webp)
 
 （1）我的终端详情中可以查看机具列表，会提示当前机具的状态，已绑定或未绑定， 已绑定机具可解绑，未绑定机具，可直接绑定
 
@@ -166,7 +166,7 @@
 
 **1、终端划拨首页**
 
-![4.png](../media/1635820251573631.png)
+![4.png](https://cos.zjkmkj.com/media/2024/08/20/1c963d51c51d857aabba42c45389f62c-2.webp)
 
 （1）可选择需要划拨的服务商后，选择机具列表中的机具进行划拨
 
@@ -186,7 +186,7 @@
 
 1、终端回拨首页
 
-![6.png](../media/1635820682467202.png)
+![6.png](https://cos.zjkmkj.com/media/2024/08/20/54708daf63095d5ec810900ebf91b45b-2.webp)
 
 （1）终端回拨分为自由回拨及按批次回拨两种形式，自由回拨可单独选择终端号， 进行单个终端的回拨，按批次回拨可根据划拨的批次，进行批量回拨
 
@@ -200,7 +200,7 @@
 
 **批量定价页**
 
-***\*![7.png](../media/1635820889701595.png)\****
+***\*![7.png](https://cos.zjkmkj.com/media/2024/08/20/9b91619b0e186a053c59e3e12dc5f3b0-2.webp)\****
 
 （1）终端定价页面会显示该服务商下终端，可以选择终端进行批量定价
 
@@ -210,7 +210,7 @@
 
 **2、定价记录页**
 
-![8.png](../media/1635821133722555.png)
+![8.png](https://cos.zjkmkj.com/media/2024/08/20/2497887fff916e50d7afee16fa7a67b8-2.webp)
 
 可查询定价记录，包含定价的终端号及定价的费率
 
@@ -224,7 +224,7 @@
 
 **1、终端营销页**
 
-![9.png](../media/1635821280532318.png)
+![9.png](https://cos.zjkmkj.com/media/2024/08/20/70ab4bf6105754ef7d9005e381373acf-2.webp)
 
 
 
@@ -242,4 +242,4 @@
 
 **2、修改合并到账**
 
-![image-20220614203151956](https://wiki.zjkmkj.com/media/image-20220614203151956.png)
+![image-20220614203151956](https://cos.zjkmkj.com/media/2024/08/20/43a26ecd0e36a8104ebc0d956434a7fb-2.webp)

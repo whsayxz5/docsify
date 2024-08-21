@@ -9,7 +9,7 @@
 
 **一、产品已升级**
 
-[<img src="https://wiki.zjkmkj.com/media/202208211952722.png" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/00a459292ac059c17dd8b081e8f5fcdd-2.webp" alt="1569425353473233.png" style="zoom:33%;" />](start/tool.md)
 
 **二、神器介绍**
 
@@ -37,7 +37,7 @@
 
 **四、购买费用**
 
-**![1572247670679357.png](../media/1572247670679357.png)**
+**![1572247670679357.png](https://cos.zjkmkj.com/media/2024/08/20/5ec8edff6a353f4ea3cd1e53a54d12c7-2.webp)**
 
 **机器费用：**0元。扫码提交资料，下单付款即可
 
@@ -71,7 +71,7 @@
 
 **四、机具图片**
 
-**![1602578173775638.jpg](../media/1602578173775638.jpg)**
+**![1602578173775638.jpg](https://cos.zjkmkj.com/media/2024/08/20/8d2c80403fc29fe8c27a501fb0bc2afd-2.webp)**
 
 
 

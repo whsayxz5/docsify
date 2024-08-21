@@ -28,7 +28,7 @@
 
 # 浙商红利白金卡
 
-<img src="https://wiki.zjkmkj.com/media/202401301130561.webp" alt="img" style="zoom:33%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/ea6408025b7a552bbc69ec33555a29e0-2.webp" alt="img" style="zoom:33%;" />
 
 **一、年费标准**
 
@@ -40,7 +40,7 @@
 
 微信/支付宝消费：默认1%累积立减金。返现上限白金卡200元/月，金卡100元/月。
 
-<img src="https://wiki.zjkmkj.com/media/202401301130148.webp" alt="img" style="zoom:33%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/8d06eddee1c2b52cf20cf291347109d1-2.webp" alt="img" style="zoom:33%;" />
 
 ##### 三、申请入口
 
@@ -50,7 +50,7 @@
 
 支付宝/微信消费20000元。月，交易满10笔，合计返现200元
 
-<img src="https://wiki.zjkmkj.com/media/202306151741697.jpeg" alt="图片" style="zoom:25%;" /><img src="https://wiki.zjkmkj.com/media/202306151741918.jpeg" alt="图片" style="zoom:25%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/eafe55e43a7d22596cef0c36ae8268c6-2.webp" alt="图片" style="zoom:25%;" /><img src="https://cos.zjkmkj.com/media/2024/08/20/f59564b33f0f8b0379fb791a08771a32-2.webp" alt="图片" style="zoom:25%;" />
 
 ##### 五、领取时间
 
@@ -64,7 +64,7 @@
 
 # 东航白金卡
 
-<img src="https://wiki.zjkmkj.com/media/202401301128751.webp" alt="img" style="zoom:33%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/d943c19daa2f9fb1dffc2a3279ea44ee-2.webp" alt="img" style="zoom:33%;" />
 
 ##### 一、年费标准
 
@@ -89,7 +89,7 @@
 # 浙商车主卡
 
 
-<img src="https://wiki.zjkmkj.com/media/202401301129539.webp" alt="img" style="zoom: 33%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/73429f169e2d26e8fa7dad8349a6fba4-2.webp" alt="img" style="zoom: 33%;" />
 
 
 
@@ -101,13 +101,13 @@
 
 - 新户享100元加油或充电红包+6次免费洗车
 
-![img](https://wiki.zjkmkj.com/media/202401301129711.webp)
+![img](https://cos.zjkmkj.com/media/2024/08/20/476b62a277a6249f0ea8451847fb3b9c-2.webp)
 
 
 
 - 月消费166元，次月每日可享受一次6.6元洗车权益
 
-![img](https://wiki.zjkmkj.com/media/202401301129879.webp)
+![img](https://cos.zjkmkj.com/media/2024/08/20/303b44f6e4beb3ba6ebcf1b4ab612f65-2.webp)
 
 
 

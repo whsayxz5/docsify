@@ -11,7 +11,7 @@
 
 ##### **一、免费领取**
 
-[<img src="https://wiki.zjkmkj.com/media/202307311639544.png" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/38e3bbd1496bd460dbae1633e99c4313-2.webp" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
 
 > 注：找卡盟客服领取邀请码
 
@@ -63,17 +63,17 @@
 
 ##### **三、实名注册**
 
-![75301697442248_.pic_hd](https://wiki.zjkmkj.com/media/202310161544077.jpg)
+![75301697442248_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/338189a90705adc4fff83a104be9440e-2.webp)
 
 **四、人脸验证**
 
-![23511697444965_.pic_hd](https://wiki.zjkmkj.com/media/202310161629080.jpg)
+![23511697444965_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/d4f84a49282d49b4298eba9f699c8b81-2.webp)
 
 ##### **五、正常使用**
 
 `开运通 APP`-首页 -收款-输入金额-保存二维码-`云闪付 APP` 支付
 
-![23441697265771_.pic_hd](https://wiki.zjkmkj.com/media/202310141443925.jpg)
+![23441697265771_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/dcf77506dd27f07ba3042197b65360f0-2.webp)
 
 ---
 

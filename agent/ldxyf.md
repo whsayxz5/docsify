@@ -1,6 +1,3 @@
----
-{}
----
 # 代理简介
 
 - [快速下单](#快速下单)
@@ -13,7 +10,7 @@
 
 ##### 一、加入代理（立即开通）
 
-[<img src="../media/apply.png" style="zoom:50%;" />](https://igl.tyfpay.com.cn/static/xyf/register/index.html?popularizeCode=b6b&name=浙江卡盟)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/d570c3f1b6a438416e77785f671a8740-2.webp" style="zoom:50%;" />](https://igl.tyfpay.com.cn/static/xyf/register/index.html?popularizeCode=b6b&name=浙江卡盟)
 
 > 注册年龄18周岁到60周岁
 
@@ -27,7 +24,7 @@
 
 ##### 三、获取码牌及SN（重要！重要！重要！）
 
-[<img src="../media/order.png" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=42)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/89e559a1a1c6323218a7328bf78f5c75-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=42)
 
 > 请务必备注代理XXX，忘记备注请及时联系客服备注，否则无法划拨
 
@@ -49,23 +46,21 @@
 
 ---
 
-
-
 # 代理政策
 
 **一、政策说明**
 
-**结算价：**看政策表格
+**结算价：** 看政策表格
 
-**客户默认费率：**0.38%（微信/支付宝）/0.55%（大额碰一碰）/0.3%（小额碰一碰/银联扫码），代理可自行修改
+**客户默认费率：** 0.55%+1（银联扫码/快捷支付），代理可自行修改
 
-**分润：**交易金额（客户费率-结算价）
+**分润：** 交易金额（客户费率-结算价）
 
-**举例：**金牌代理推广100户，客户月均扫码交易`10万`，实际可获得分润收入`100*（11*10）=11000元`
+**举例：** 金牌代理推广100户，客户月均扫码交易`10万`，实际可获得分润收入`100*（5*6）=3000元`
 
-![image-20220625002331082](https://wiki.zjkmkj.com/media/image-20220625002331082.png)
+![image-20240302150558625](https://wiki.zjkm.xyz/media/202403021505703.png)
 
-特别说明：代理等级按照码牌数量决定，一个用户最多可绑定5张，下单数量可累积。
+特别说明：代理等级按照码牌数量决定
 
 **二、分润及返现发放**
 

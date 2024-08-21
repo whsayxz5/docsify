@@ -7,7 +7,7 @@
 
 # 渣打臻程白金卡
 
-![img](../media/1554365257cs.jpg)
+![img](https://cos.zjkmkj.com/media/2024/08/20/7e7acb4ee469ae0ee2f465d07fadd817-2.webp)
 
 **（一）年费标准**
 
@@ -47,7 +47,7 @@
 
 # 渣打真逸金卡
 
-**![img](../media/1554366572cs.jpg)**
+**![img](https://cos.zjkmkj.com/media/2024/08/20/68cf984bcf35c636fb9f6d74eba6f1c0-2.webp)**
 
 **（一）年费标准**
 

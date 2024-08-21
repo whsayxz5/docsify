@@ -1,6 +1,3 @@
----
-{}
----
 # 玩转农行
 
 - [主要玩法](#主要玩法)
@@ -42,7 +39,9 @@
 
 **二、图解姿势**
 
-**![微信图片_20210727100049.png](../media/1627351292161167.png)**
+
+<img src="https://cos.zjkmkj.com/media/2024/08/20/e2bd0e1c442c375a091cfce852af7845-2.webp" alt="image.png" width=800 />
+
 
 **（一）公务卡**
 
@@ -68,7 +67,7 @@
 
 **一、建议神器（点击下单）**
 
-[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)、[恒信通](tool/hxt.md)、[合利宝](tool/hlb.md)、[米易收](tool/mys.md)、[易收钱](tool/ysq.md)、[拉卡拉](tool/lkl.md)
+[合利宝](tool/hlb.md)、[钱小宝](tool/qxb.md)、[恒信通](tool/hxt.md)、[合利宝](tool/hlb.md)、[拉卡拉](tool/lkl.md)
 
 **二、标准积分流程**
 
@@ -94,7 +93,9 @@
 
 # 尊然白金卡精粹版
 
-**![img](../media/1553928263cs.jpg)**
+<img src="https://cos.zjkmkj.com/media/2024/08/20/8d3b251c7bae5bbf56f86366efc770d0-2.webp" alt="img" width=200 />
+
+
 
 **（一）年费标准**
 
@@ -130,7 +131,8 @@
 
 # 公务卡
 
-![951.jpg](../media/1627284061159384.jpg)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/bd40984acf9a64f76907c393b1f0903b-2.webp" alt="img" width=200 />
+
 
 **（一）年费标准**
 
@@ -162,7 +164,7 @@
 
 > 悠然白的升级版，增加了2次贵宾厅入场权和年消费达到3万元可免次年年费的门槛。购买微信五倍积分包（每月十元），可以实现5：1兑换东航/海航，目前农行最值得申请的卡片之一。
 
-<img src="https://wiki.zjkmkj.com/media/202401311134966.webp" alt="img" style="zoom:33%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/6f4180da120048f444d8092fb70f6993-2.webp" alt="img" width=200 />
 
 **年费政策**：
 
@@ -180,7 +182,7 @@
 
 > 悠然悦的车主版，年费政策相同，主打汽车代驾和洗车等车辆相关服务。如果需要贵宾厅和体检服务，可以选择悠然悦；如果需要代驾和洗车等车辆服务，可以选择车主白。两种卡片都可以按照综合5：1的兑换比例兑换航空里程。
 
-<img src="https://wiki.zjkmkj.com/media/202401311134163.webp" alt="img" style="zoom:33%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/7e8bbce07d65e0461c15216176799131-2.webp" alt="img" width=200 />
 
 **年费政策**：
 
@@ -197,7 +199,7 @@
 
 # 银联尊然白
 
-<img src="https://wiki.zjkmkj.com/media/202401311134213.webp" alt="img" style="zoom:33%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/762ddc8b411412ca5e06a64ec852bc98-2.webp" alt="img" width=200 />
 
 > 2024年农行新出白金卡，可以看作是银联版的精粹白，可以参加银联活动，比精粹白多一个10万积分可兑换接送机的权益，目前规则年费的持有成本高于精粹白。
 
@@ -210,14 +212,14 @@
 - 机场贵宾厅：无限次农行签约机场贵宾厅[服务细则](http://www.abchina.com/cn/CreditCard/CardServices/AirportVIP/) [机场贵宾厅列表](http://www.abchina.com/cn/CreditCard/ApplyCard/cardinfo/zunranbaijinxinyongka/201602/W020210107672496867413.pdf)
 - 全年3次专家预约挂号和全程陪同就诊
 - 境内接送机。10万信用卡积分兑换1次境内接送机服务，全年可享12次
-- 24 小时不限次免费道路救援
+- 不限次免费道路救援
 - 高端卡25：1兑换航空里程
 
 ---
 
 # 银联航司白
 
-<img src="https://wiki.zjkmkj.com/media/202401311134442.webp" alt="img" style="zoom:25%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/f8b986c4de41c076b14ec073d5ab7887-2.webp" alt="img" width=200 />
 
 > 农行航司白等同于精粹白+航司联名卡，可享受精粹白一样的无限次机场贵宾厅。
 
