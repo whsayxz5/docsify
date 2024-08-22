@@ -13,7 +13,7 @@
       position: fixed;
       bottom: 20px;
       right: 20px;
-      background: url('media/202312041931681.png') no-repeat;
+      background: url('202312041931681.png') no-repeat;
       background-size: cover;
       width: 50px;
       height: 50px;
@@ -66,21 +66,16 @@
       errorText  : '复制失败',
       successText: '已复制'
       },
-      formatUpdated: '{YYYY} 年 {MM} 月 {DD} 日', 
+
+      timeUpdater: {
+       text: "<div align='right'>更新时间: {docsify-updated}</div>",
+      formatUpdated: "{YYYY}/{MM}/{DD}",
+      whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
+      },
+
       plugins: [
         function (hook, vm) {
           //afterEach beforeEach
-          hook.beforeEach(function (html) {
-            //var url = 'https://ymbk-1256172758.cos.ap-shanghai.myqcloud.com/start/' + vm.route.file
-            //var editHtml = '[:memo: Edit Document](' + url + ')\n'
-      
-           return '\n\n<h1></h1>'
-              + '<img src="https://img.shields.io/badge/更新于-{docsify-updated}-brightgreen.svg" >'
-              + '\n\n'
-              + '<h1></h1>'
-              + '\n\n'
-              + html
-          })
     
           hook.afterEach(function (html) {
            return  html+ '\n\n' + '<footer>© 2024 卡盟百科 | <a href="https://beian.miit.gov.cn/" target="_blank" >浙ICP备18012494号</a> </footer>'
@@ -106,6 +101,8 @@
 <script src="js/emoji.min.js"></script>
 <!-- 水印 -->
 <script src="js/watermark.js"></script>  
+
+<script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.js"></script>
 
 <!--下面打水印-->
 <script>
