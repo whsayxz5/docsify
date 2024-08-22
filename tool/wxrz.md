@@ -61,11 +61,17 @@
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/a3d6c8762d7fd855c2c48914c8efe843-2.webp" style="zoom:28%;" />
 
-#### 十二、[至尊宝](tool/zzb.md)
+##### 十二、[至尊宝](tool/zzb.md)
 
 渠道码：按照下图路径获取
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/b47d9dade07acad011110ada5a6a59d1-2.webp" style="zoom:33%;" />
+
+##### 十三、[电银通](tool/dyt.md)
+
+渠道码：155516451
+
+<img src="https://cos.zjkmkj.com/media/2024/08/22/0e031918cade53e17832554729ecf071-2.webp" alt="image.png" width=500 />
 
 ---
 
@@ -98,7 +104,6 @@
 ![1841710227617\pic](../media/202403121514677.jpg)
 
 ![5971685343642_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/01638250c78b6f06bc3043ee876899ba-2.webp)
-
 
 ---
 

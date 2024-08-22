@@ -67,6 +67,12 @@
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/652cee7470991a38f2b8ee21050b55e9-2.webp" alt="image-20221020194728011" style="zoom:33%;" />
 
+##### 七、电银通
+
+渠道码：2088031479510608
+
+<img src="https://cos.zjkmkj.com/media/2024/08/22/4a12129d9e7afb285abcf1696d555541-2.webp" width=400/>
+
 ---
 
 # 支付宝商家注册
