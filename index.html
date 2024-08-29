@@ -66,9 +66,22 @@
       errorText  : '复制失败',
       successText: '已复制'
       },
-     
+      formatUpdated: '{YYYY} 年 {MM} 月 {DD} 日', 
       plugins: [
         function (hook, vm) {
+          //afterEach beforeEach
+          hook.beforeEach(function (html) {
+            //var url = 'https://ymbk-1256172758.cos.ap-shanghai.myqcloud.com/start/' + vm.route.file
+            //var editHtml = '[:memo: Edit Document](' + url + ')\n'
+      
+           return '\n\n<h1></h1>'
+              + '<img src="https://img.shields.io/badge/更新于-{docsify-updated}-brightgreen.svg" >'
+              + '\n\n'
+              + '<h1></h1>'
+              + '\n\n'
+              + html
+          })
+    
           hook.afterEach(function (html) {
            return  html+ '\n\n' + '<footer>© 2024 卡盟百科 | <a href="https://beian.miit.gov.cn/" target="_blank" >浙ICP备18012494号</a> </footer>'
           })
@@ -82,7 +95,6 @@
 <!-- 搜索 -->
 <script src="js/search.js"></script>
 <!-- 主代码 -->
-
 <script src="js/docsify.min.js"></script>
 <!-- 复制代码到剪贴板 -->
 <script src="js/docsify-copy-code.min.js"></script>
@@ -93,7 +105,6 @@
 <!-- 表情 -->
 <script src="js/emoji.min.js"></script>
 <!-- 水印 -->
-
 <script src="js/watermark.js"></script>  
 
 <!--下面打水印-->

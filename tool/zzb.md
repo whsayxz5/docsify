@@ -111,11 +111,9 @@
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/1d633df64440bcaea8d54767f2573995-2.webp" width=800 />
 
-
 <img src="https://cos.zjkmkj.com/media/2024/08/20/38efab1dd3d4cd649993fdce59a94c02-2.webp" width=800 />
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/d61d49a859405cee28d66cd6668fa46b-2.webp" width=800 />
-
 
 ##### 三、微信认证
 
@@ -174,7 +172,6 @@
 > 注意：仔细按照资料手动填写，避免自动识别错误，一旦错误提交将无法修改！！
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/2d96585b0c853610d82264ee03cb3b48-2.webp" width=800 />
-
 
 ---
 

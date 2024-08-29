@@ -18,7 +18,7 @@
 
 [北京专用](tool/zxzy.md)：[恒信通](tool/hxt.md)/[合利宝](tool/hlb.md)/[安心付](tool/axf.md)，指定餐厅/酒店刷；配合码牌支付宝/微信/银联扫码
 
-[光大专用](tool/gdzy.md)：常规刷卡无分，活动配合码牌支付宝/微信/银联扫码
+[光大专用](tool/gdzy.md)：[恒信通](tool/hxt.md)，指定餐厅/酒店刷；配合活动刷
 
 [邮储专用](tool/yczy.md)：[恒信通](tool/hxt.md)/[合利宝](tool/hlb.md)/[安心付](tool/axf.md)，指定餐厅/酒店刷；配合码牌支付宝/微信/银联扫码
 
