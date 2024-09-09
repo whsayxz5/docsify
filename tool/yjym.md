@@ -6,7 +6,7 @@
 
 **机器：**[👉合利宝](tool/hlb.md)/[👉恒信通](tool/hxt.md)/👉[电银通](tool/dyt.md)/👉[安心付](tool/axf.md)/👉[至尊宝](tool/zzb.md)
 
-**快捷/微支：**👉[聚收银](https://wiki.zjkmkj.com/#/tool/jsy)/👉[享云付](https://wiki.zjkmkj.com/#/tool/ldxyf)/👉[付惠码](https://wiki.zjkmkj.com/#/tool/fhm)/👉[拉卡拉](https://wiki.zjkmkj.com/#/tool/lkl)
+**快捷/微支：**👉[聚收银](https://wiki.zjkmkj.com/#/tool/jsy)/👉[付惠码](https://wiki.zjkmkj.com/#/tool/fhm)/👉[拉卡拉](https://wiki.zjkmkj.com/#/tool/lkl)
 
 ##### 二、文件解读[👉259号文件](http://camlmac.pbc.gov.cn/zhengwugongkai/4081330/4406346/4693545/4774331/index.html)
 

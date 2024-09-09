@@ -1,6 +1,6 @@
 # 生日玩法一览
 
-![生日](https://cos.zjkmkj.com/media/2024/08/20/3d2181eb3e206d9d877081262de20d71-2.webp)
+![生日月婉转多倍积分](https://cos.zjkmkj.com/media/2024/09/03/e8778e23aabc99c0884c41db094e6624-2.webp)
 
 ---
 

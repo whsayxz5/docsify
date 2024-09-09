@@ -1,3 +1,3 @@
 # 账单规则
 
-![玩转账单日](https://cos.zjkmkj.com/media/2024/08/23/3fe00b1c1d8cdb572bdc545276793a2b-2.webp)
+![账单规则p](https://cos.zjkmkj.com/media/2024/09/05/a8391713a0a9f1e352d5036b8f373dd5-2.webp)

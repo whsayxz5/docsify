@@ -51,8 +51,7 @@
 
   * [玩转神器:fire:](start/tool.md)
   * [基础概念](tool/jczs.md)
-  * [小微注销:fire:](tool/xwzx.md)
-  * [一机一码:fire:](tool/yjym.md)
+  * [突破小微:fire:](tool/xwzx.md)
   * [刷卡须知](tool/skxz.md)
   * [扫码须知](tool/smxz)
   * [风控解读:warning:](tool/skgf.md)
@@ -65,7 +64,6 @@
   * [付惠码:fire:](tool/fhm.md)
   * [拉卡拉:fire:](tool/lkl.md)
   * [聚收银:fire:](tool/jsy.md)
-  * [享云付:fire:](tool/ldxyf.md)
   * [收盈通](tool/hlbsyt.md)
   * [盛付通](tool/sft.md)
   * [盛刷](tool/ss.md)

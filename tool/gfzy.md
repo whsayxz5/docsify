@@ -14,7 +14,7 @@
 
 **二、操作姿势**
 
-👉快捷支付`首选`：[聚收银](tool/jsy.md)/[享云付](tool/ldxyf.md)，无需机器，在线注册绑卡直接刷，通过率较高
+👉快捷支付`首选`：[聚收银](tool/jsy.md)，无需机器，在线注册绑卡直接刷，通过率较高
 
 👉刷卡：[合利宝](tool/hlb.md)/[恒信通](tool/hxt.md)/[云付宝](tool/yfb.md)，小额测试（[:link: 点此查询](https://www.zjkmkj.com/Weixin/index)）有分直接大额
 
