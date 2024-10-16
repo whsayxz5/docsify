@@ -1,8 +1,8 @@
 # 建行百亿积分
 
-- [活动介绍](#活动介绍)
-- [独家姿势](#独家姿势)
-- [收益分析](#收益分析)
+* [活动介绍](https://wiki.zjkmkj.com/#/activity/jhbyjf?id=%e6%b4%bb%e5%8a%a8%e4%bb%8b%e7%bb%8d)
+* [独家姿势](https://wiki.zjkmkj.com/#/activity/jhbyjf?id=%e7%8b%ac%e5%ae%b6%e5%a7%bf%e5%8a%bf)
+* [收益分析](https://wiki.zjkmkj.com/#/activity/jhbyjf?id=%e6%94%b6%e7%9b%8a%e5%88%86%e6%9e%90)
 
 ---
 
@@ -10,21 +10,21 @@
 
 自从建行龙支付活动下线，终于来了个像样的多倍，积分不足的老铁抓紧上车。
 
-**一、活动时间**
+##### 一、活动时间
 
 2024.8.20-2024.9.30
 
-**二、活动介绍**
+##### 二、活动介绍
 
 任意消费`2万元`及以上，即可获得额外`3倍`积分，最高`20万`积分，即总交易`6.67万`即可拿满，`总额度225亿，先到先得。`
 
-**三、报名入口**
+##### 三、报名入口
 
 直接扫描下方二维码，跳转建行APP，报名即可。
 
 > 如微信内无法跳转，可选择右上角浏览器打开，再点报名
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/f25a96b6ffc85c6eadfcae374251be7e-2.webp" style="zoom:45%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/f25a96b6ffc85c6eadfcae374251be7e-2.webp" width=200 />
 
 ---
 
@@ -60,11 +60,11 @@
 
 ##### 四、对应神器
 
-**积分刷卡**：[恒信通](tool/hxt.md)/[合利宝](tool/hlb.md)/[安心付](tool/axf.md)/[至尊宝](tool/zzb.md)/[电银通](tool/dyt.md)
+**积分刷卡**：[恒信通](https://wiki.zjkmkj.com/#/tool/hxt)/[合利宝](https://wiki.zjkmkj.com/#/tool/hlb)/[安心付](https://wiki.zjkmkj.com/#/tool/axf)/[至尊宝](https://wiki.zjkmkj.com/#/tool/zzb)/[电银通](https://wiki.zjkmkj.com/#/tool/dyt)
 
-**龙支付**：[合利宝](tool/hlb.md)/[恒信通](tool/hxt.md)/[至尊宝](tool/zzb.md)
+**龙支付**：[合利宝](https://wiki.zjkmkj.com/#/tool/hlb)/[恒信通](https://wiki.zjkmkj.com/#/tool/hxt)/[至尊宝](https://wiki.zjkmkj.com/#/tool/zzb)
 
-**微信**：[拉卡拉](tool/lkl.md)/[付惠码](tool/fhm.md)/[聚收银](tool/jsy.md)
+**微信**：[拉卡拉](https://wiki.zjkmkj.com/#/tool/lkl)/[付惠码](https://wiki.zjkmkj.com/#/tool/fhm)/[聚收银](https://wiki.zjkmkj.com/#/tool/jsy)
 
 ---
 

@@ -1,3 +1,3 @@
 # 体检权益
 
-![1](https://cos.zjkmkj.com/media/2024/08/20/dc09793d26dbe6626295f27f6a66bcd1-2.webp)
+![https://cos.zjkmkj.com/media/2024/09/10/ba1a752c5933eb1f0ee318e9403f78b5-2.webp](https://cos.zjkmkj.com/media/2024/09/10/ba1a752c5933eb1f0ee318e9403f78b5-2.webp)

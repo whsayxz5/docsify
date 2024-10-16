@@ -10,7 +10,7 @@
 
 ##### 一、加入代理（自助）
 
-[<img src="https://cos.zjkmkj.com/media/2024/08/20/2661a343dd6fcb32234f048fa6f6f651-2.webp" style="zoom:50%;" />](https://wxaurl.cn/eVZrapGt83v)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/2661a343dd6fcb32234f048fa6f6f651-2.webp" style="zoom:50%;" />](https://wxaurl.cn/Co7cHxGIttv)
 
 ##### 二、注册代理
 
@@ -72,15 +72,13 @@
 >
 > **星驿付：**代理月结
 
-![中金支付](https://wiki.zjkm.xyz/media/202403021502273.png)
+![恒信通](https://cos.zjkmkj.com/media/2024/09/27/648bc1d3937e8577a2b3ce76c4ec585c-2.webp)
 
-![恒信通](https://wiki.zjkm.xyz/media/202403021500241.png)
+![首信易](https://cos.zjkmkj.com/media/2024/09/27/44d5caa4cda9021be7e3e9fe27b767fa-2.webp)
 
-![首信易)](https://wiki.zjkm.xyz/media/202403091606560.png)
+![星驿付](https://cos.zjkmkj.com/media/2024/09/27/2479dca2a64f4eedb53ff80363e8ce7b-2.webp)
 
-![星驿付](https://wiki.zjkm.xyz/media/202403140851182.png)
-
-![快付通](https://wiki.zjkm.xyz/media/202404101712994.jpg)
+![快付通](https://cos.zjkmkj.com/media/2024/09/27/da202d89da0caad08cbc5f5af1007976-2.webp)
 
 ![../media/244d7193b401c24b2e8ff19eb75382146ae.jpg](https://cos.zjkmkj.com/media/2024/08/20/246ad75a3602d85ce61cace1fdc59f2c-2.webp)
 

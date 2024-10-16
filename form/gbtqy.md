@@ -1,6 +1,6 @@
 # 贵宾厅权益
 
-![1](https://cos.zjkmkj.com/media/2024/08/20/205629f955cf7a3134232d2189572cf1-2.webp)
+![https://cos.zjkmkj.com/media/2024/10/15/e656904bcab3eb49d677a21e0bee2ef6-2.webp](https://cos.zjkmkj.com/media/2024/10/15/e656904bcab3eb49d677a21e0bee2ef6-2.webp)
 
 > 中信从今年开始，额外支付9元，可获得餐食体验。
 

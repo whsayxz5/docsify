@@ -50,9 +50,9 @@
 
 **龙支付**
 
-> [合利宝](tool/hlb.md)/[恒信通](tool/hxt.md)/[至尊宝](tool/zzb.md)
+> [恒信通](tool/hxt.md)/[至尊宝](tool/zzb.md)
 
-![https://cos.zjkmkj.com/media/2024/09/05/317cd1d95dca9e78ab826bfa11871b6a-2.webp](https://cos.zjkmkj.com/media/2024/09/05/317cd1d95dca9e78ab826bfa11871b6a-2.webp)
+![https://cos.zjkmkj.com/media/2024/10/14/5792991fbf03303ee8fcd1278f886a07-2.webp](https://cos.zjkmkj.com/media/2024/10/14/5792991fbf03303ee8fcd1278f886a07-2.webp)
 
 ---
 
