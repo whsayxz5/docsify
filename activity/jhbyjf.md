@@ -62,7 +62,7 @@
 
 **积分刷卡**：[恒信通](https://wiki.zjkmkj.com/#/tool/hxt)/[合利宝](https://wiki.zjkmkj.com/#/tool/hlb)/[安心付](https://wiki.zjkmkj.com/#/tool/axf)/[至尊宝](https://wiki.zjkmkj.com/#/tool/zzb)/[电银通](https://wiki.zjkmkj.com/#/tool/dyt)
 
-**龙支付**：[合利宝](https://wiki.zjkmkj.com/#/tool/hlb)/[恒信通](https://wiki.zjkmkj.com/#/tool/hxt)/[至尊宝](https://wiki.zjkmkj.com/#/tool/zzb)
+**龙支付**：[恒信通](https://wiki.zjkmkj.com/#/tool/hxt)
 
 **微信**：[拉卡拉](https://wiki.zjkmkj.com/#/tool/lkl)/[付惠码](https://wiki.zjkmkj.com/#/tool/fhm)/[聚收银](https://wiki.zjkmkj.com/#/tool/jsy)
 

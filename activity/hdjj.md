@@ -218,7 +218,7 @@
 
 活动途径：建设积分商城首页-入口广告、[PC端入口](http://jf.ccb.com/exchangecenter/search/product.jhtml?keyword=%E6%9C%89%E7%A4%BC&scoreRegion=%E7%A7%AF%E5%88%86%E8%8C%83%E5%9B%B4&exchangeChannel=net)
 
-神器：[钱小宝](tool/qxb.md)等
+神器：[恒信通](tool/hxt.md)等
 
 **（二）星级用户多倍积分**
 
@@ -226,7 +226,7 @@
 
 活动姿势：[点我查看](activity/jhlzf)
 
-神器：[钱小宝](tool/qxb.md)
+神器：[恒信通](tool/hxt.md)
 
 **（三）火车票满减**
 

@@ -50,9 +50,9 @@
 
 **龙支付**
 
-> [盛付通](tool/sftsqb.md)
+> [恒信通](tool/hxt.md)
 
-![最新神器](https://cos.zjkmkj.com/media/2024/12/26/3f193ca78c82e51ac190b08268b705ea-2.webp)
+![最新神器](https://cos.zjkmkj.com/media/2024/12/27/d07c2fb49cda632ae17731a3c39d9fd0-2.webp)
 
 ---
 
