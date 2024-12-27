@@ -56,6 +56,7 @@
   * [扫码须知](tool/smxz)
   * [风控解读:warning:](tool/skgf.md)
   * [涨价预警:warning:](tool/zjyj.md)
+  * [盛付通:fire:](tool/sftsqb.md)
   * [电银通:fire:](tool/dyt.md)
   * [合利宝:fire:](tool/hlb.md)
   * [恒信通:fire:](tool/hxt.md)
@@ -65,7 +66,6 @@
   * [拉卡拉:fire:](tool/lkl.md)
   * [聚收银:fire:](tool/jsy.md)
   * [收盈通](tool/hlbsyt.md)
-  * [盛付通](tool/sft.md)
   * [盛刷](tool/ss.md)
   * [支付宝认证](tool/zfbrz.md)
   * [微信认证](tool/wxrz.md)
@@ -97,8 +97,8 @@
   * [银联卡权益](form/ylkqy.md)
   * [附属卡权益](form/fskqy.md)
   * [代驾权益](form/djqy.md)
-  * [多倍积分](form/dbjf.md)
   * [加油交易](tool/jyjy.md)
+  * [里程有效期](form/jsjqy.md)
 * 酒店
 
   * [玩转酒店](hotel/wzjd.md)
@@ -127,6 +127,7 @@
 * 代理
 
   * [加入卡盟:fire:](agent/jrkm.md)
+  * [盛付通代理:fire:](agent/sftsqb.md)
   * [合利宝代理:fire:](agent/hlb.md)
   * [恒信通代理:fire:](agent/hxt.md)
   * [电银通代理:fire:](agent/dyt.md)
@@ -137,5 +138,4 @@
   * [云付宝代理:fire:](agent/yfb.md)
   * [至尊宝代理:fire:](agent/zzb.md)
   * [盛刷代理](agent/ss.md)
-  * [盛付通代理](agent/sft.md)
   * [钱小宝代理](agent/qxb.md)

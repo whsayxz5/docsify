@@ -1,3 +1,3 @@
 # 不计积分规则
 
-<img src="https://cos.zjkmkj.com/media/2024/10/16/9de43eef099696b9550f880863accabc-2.webp" width=800 />
+![https://cos.zjkmkj.com/media/2024/12/13/26c993d63c7f14dc2a017789940a8092-2.webp](https://cos.zjkmkj.com/media/2024/12/13/26c993d63c7f14dc2a017789940a8092-2.webp)

@@ -22,9 +22,7 @@
 
 **主要玩法：**支付宝一个月刷96000元即可拿满8000里程/月
 
-
-
-------
+---
 
 # 浙商红利白金卡
 
@@ -44,7 +42,7 @@
 
 ##### 三、申请入口
 
-[:link: 点我申请](http://u.zjkm.xyz/NXGhm)
+[:link: 点我申请](https://directbank.czbank.com/APPINSPECT/finance/creditCardApyOnline.jsp)
 
 ##### 四、主要玩法
 
@@ -82,16 +80,11 @@
 
 **线下消费：**要符合可计积分规则（没有明确规则，开盲盒），详见浙商银行手机银行—我的—积分—积分说明模块查询联名信用卡客户积分累计规则的详细说明
 
-
-
 ---
 
 # 浙商车主卡
 
-
 <img src="https://cos.zjkmkj.com/media/2024/08/20/73429f169e2d26e8fa7dad8349a6fba4-2.webp" alt="img" style="zoom: 33%;" />
-
-
 
 ##### 一、年费
 
@@ -103,13 +96,9 @@
 
 ![img](https://cos.zjkmkj.com/media/2024/08/20/476b62a277a6249f0ea8451847fb3b9c-2.webp)
 
-
-
 - 月消费166元，次月每日可享受一次6.6元洗车权益
 
 ![img](https://cos.zjkmkj.com/media/2024/08/20/303b44f6e4beb3ba6ebcf1b4ab612f65-2.webp)
-
-
 
 - 消费满666元30元支付宝红包，领取时效为发放月当月，领取后有效期30天
 - “捷停车”网络停车6.6折，单笔优惠上限5元。每日限1次

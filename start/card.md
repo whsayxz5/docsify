@@ -1,6 +1,6 @@
 # 值得办
 
-<img src="https://cos.zjkmkj.com/media/2024/09/18/aff896b630eeca27eb32bf68818cdd64-2.webp" width=800 />
+![值得办](https://cos.zjkmkj.com/media/2024/11/22/fdc5715ddd3205ca4508398db33ea034-2.webp)
 
 ---
 

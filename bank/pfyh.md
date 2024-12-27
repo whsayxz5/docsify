@@ -34,9 +34,6 @@
 
 **二、图解姿势**
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/250a2e9b6f27fdd318ba642ea426b7e2-2.webp" alt="image.png" width=800 />
-
-
 **（一）运通白金卡**
 
 **主要玩法**：消费达标，权益丰富，可兑换2万里程
@@ -58,7 +55,6 @@
 **一、不计积分平台**[公告链接](https://ccc.spdb.com.cn/miniSite/integral/daima.shtml)
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/56f048668ddb6df692a3fe701b0e04da-2.webp" alt="image.png" width=800 />
-
 
 
 | 支付平台 | 机构号 | 支付平台 | 机构号 |
@@ -84,7 +80,7 @@
 
 **（一）年费标准**
 
-首年年费可减免，60万积分抵扣次年10000元年费
+10000元/年，60万积分抵扣次年10000元年费
 
 **（二）积分规则**
 
@@ -94,7 +90,9 @@
 
 [贵宾厅](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_01_01.shtml#Menu=ChildMenu1)：全年不限次龙腾贵宾厅，每次可免费携3人次
 
-[境内接送机](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_01_06.shtml#Menu=ChildMenu1)：`8次`免费境内接送机、`4次`100元/次境外接送机
+[接送机](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_01_06.shtml#Menu=ChildMenu1)：`8次`免费境内接送机、`4次`100元/次境外接送机
+
+> 2025年1月1日起修改为`2次`境内接送机、`1次`境外接送机
 
 [亲子乐园](https://ccc.spdb.com.cn/miniSite/Platamex2018/new21.shtml#Menu=ChildMenu2)：消费达标最多赠送`6`点，`羊毛哥高价回收`
 
@@ -102,18 +100,21 @@
 
 [文化馆](https://ccc.spdb.com.cn/miniSite/Platamex2018/new211.shtml#Menu=ChildMenu2)：消费达标最多赠送`12`点
 
+> 2025年1月1日起将取消⬆️亲子乐园、缤纷文旅、文化馆权益内容
+
 [酒店住宿](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_01_031.shtml#Menu=ChildMenu1)：免费入住`4晚`“星级酒店”权益或者`2晚`“高价酒店”入住权益
 
-[电影票](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_03_02.shtml#Menu=ChildMenu3)：月消费18888元，每月送6张观影券
+[电影票](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_03_02.shtml#Menu=ChildMenu3)：月消费18888元，送`6点`观影券，上限`18点`
 
 [境外返现](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_01_08.shtml#Menu=ChildMenu1)：境外线下消费`10%`消费金额刷卡金回馈，每年限`6次`，最多`18000元`
+
+> 2025年1月1日起修改为上限`1000`元
 
 [靠浦飞延误险](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_01_10.shtml#Menu=ChildMenu1)：延误`2小时`起赔付机票款（最高1500元）
 
 [意外及旅行保险：](https://ccc.spdb.com.cn/miniSite/Platamex2018/4_0.shtml#Menu=ChildMenu1)延误`4小时`起赔付`600元/4小时`
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/252af1f7f7dc253218cf7fc19b655aa6-2.webp" alt="image.png" width=800 />
-
+<img src="https://cos.zjkmkj.com/media/2024/11/15/1faca1cc5dae2a0e8a0208e90f225f5d-2.webp" width=600 />
 
 **（四）简单玩法**
 
@@ -127,11 +128,13 @@
 
 # 美运白金卡
 
+<img src="https://cos.zjkmkj.com/media/2024/11/15/e7e76c9a28a61c7fa9bf773417aec67e-2.webp" width=200 />
+
 **（一）年费标准**
 
-首年免3600元年费，次年20万积分抵扣年费
+3600元/年，次年20万积分抵扣年费
 
-**[（二）里程兑换](https://ccc.spdb.com.cn/miniSite/Platamex2018/2_5.shtml#Menu=ChildMenu2)**
+[（二）里程兑换](https://ccc.spdb.com.cn/miniSite/Platamex2018/2_5.shtml#Menu=ChildMenu2)
 
 消费达标可兑换2万里程/年，12：1兑换国内东航、国航、南航、海航里程
 
@@ -139,7 +142,11 @@
 
 [贵宾厅](https://ccc.spdb.com.cn/miniSite/Platamex2018/1_0.shtml#Menu=ChildMenu1)：基础`2`次贵宾厅，消费达标最多赠送`6`次，共`8`次
 
+> 2025年1月1日起季度消费满`6万`送2点
+
 [境内接送机](https://ccc.spdb.com.cn/miniSite/Platamex2018/1_1.shtml#Menu=ChildMenu1)：基础`2`次免费境内接送机、消费达标最多赠送`3`次，共`5`次
+
+> 2025年1月1日起季度消费满`6万`送1点
 
 [亲子乐园](https://ccc.spdb.com.cn/miniSite/Platamex2018/new21.shtml#Menu=ChildMenu2)：消费达标最多赠送`12`点，`羊毛哥高价回收`
 
@@ -147,14 +154,17 @@
 
 [文化馆](https://ccc.spdb.com.cn/miniSite/Platamex2018/new211.shtml#Menu=ChildMenu2)：消费达标最多赠送24点
 
+> 2025年1月1日起将取消⬆️亲子乐园、缤纷文旅、文化馆权益内容
+
 [酒店住宿](https://ccc.spdb.com.cn/miniSite/Platamex2018/new211.shtml#Menu=ChildMenu2)：消费达标最多赠送3点
+
+> 2025年1月1日起季度消费满`6万`送1点
 
 [靠浦飞延误险](https://ccc.spdb.com.cn/miniSite/Platamex2018/4_4.shtml#Menu=ChildMenu1)：延误`2小时`起赔付机票款（最高1500元）
 
 [意外及旅行保险：](https://ccc.spdb.com.cn/miniSite/Platamex2018/4_0.shtml#Menu=ChildMenu1)延误`4小时`起赔付`600元/4小时`
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/3decf6084a77f1ee8d7d25794787fa45-2.webp" alt="image.png" width=800 />
-
+<img src="https://cos.zjkmkj.com/media/2024/11/16/34176b53f49cf5164c703f4fdbb747f2-2.webp" width=600 />
 
 **（四）主要玩法**
 

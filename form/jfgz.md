@@ -2,7 +2,7 @@
 
 ##### 一、积分表`重要`
 
-![https://cos.zjkmkj.com/media/2024/10/14/e1ba6806b815d137b02b73867db63f09-2.webp](https://cos.zjkmkj.com/media/2024/10/14/e1ba6806b815d137b02b73867db63f09-2.webp)
+![https://cos.zjkmkj.com/media/2024/12/06/3e68d733a71607911f1325c7816bef12-2.webp](https://cos.zjkmkj.com/media/2024/12/06/3e68d733a71607911f1325c7816bef12-2.webp)
 
 **二、各行玩法速查**
 

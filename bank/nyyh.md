@@ -43,7 +43,7 @@
 
 **二、图解姿势**
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/e2bd0e1c442c375a091cfce852af7845-2.webp" alt="image.png" width=800 />
+<img src="https://cos.zjkmkj.com/media/2024/10/16/b7db5f498e13f0a336b87144615f999e-2.webp" width=800 />
 
 **（一）公务卡**
 
