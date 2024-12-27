@@ -147,9 +147,6 @@
   <div id="app"></div>
   <footer id="mb-footer"></footer>
   <a id="customerServiceBtn" href="https://work.weixin.qq.com/kfid/kfcac09967c65c52a12" target="_blank"></a>
-
-  <!-- 定义加载时的提示符 -->
-  <div id="app">加载中...</div>
   
   <!-- docsify 配置 -->
   <script>
@@ -188,7 +185,7 @@
             if (path) {
               const updateTimeDiv = `
                 <div class="update-time">
-                  <img class="time-badge" data-file="${path}" src="https://img.shields.io/static/v1?label=更新于&message=加载中...&color=brightgreen" alt="更新时间">
+                  <img class="time-badge" data-file="${path}" src="https://img.shields.io/static/v1?label=更新于&message=加载中...&color=brightred" alt="更新时间">
                 </div>
               `;
               return updateTimeDiv + html;
