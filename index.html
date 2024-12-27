@@ -22,13 +22,13 @@
       text-align: center;
       font-size: 1.5rem;
       font-weight: bold;
-      color: #42b983;
+      color: #00A8E1;
       cursor: pointer;
       transition: color 0.3s;
     }
     
     .sidebar-title:hover {
-      color: #3aa675;
+      color: #00A8E1;
     }
     
     /* 调整搜索框位置和样式 */
@@ -87,37 +87,19 @@
     }
     
     /* 修改联系客服按钮样式 */
-    .contact-service {
+    #customerServiceBtn {
       position: fixed;
-      right: 20px;
       bottom: 20px;
+      right: 20px;
+      background: url('kf.png') no-repeat;
+      background-size: cover;
       width: 50px;
       height: 50px;
-      background-color: #ff4444;
-      color: white;
-      border-radius: 50%;
+      border: none;
       cursor: pointer;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
-      transition: all 0.3s ease;
-      z-index: 999;
       display: flex;
       align-items: center;
       justify-content: center;
-    }
-    
-    .contact-service:hover {
-      background-color: #ff2222;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-      transform: translateY(-2px);
-    }
-    
-    /* 客服图标样式 */
-    .contact-service::before {
-      content: '';
-      display: inline-block;
-      width: 24px;
-      height: 24px;
-      background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23ffffff'%3E%3Cpath d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-4h2v2h-2v-2zm2.07-7.75-.9.92C11.45 10.9 11 11.5 11 13h2v-.5c0-1.1.45-2.1 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41 0-1.1-.9-2-2-2s-2 .9-2 2H10c0-2.21 1.79-4 4-4s4 1.79 4 4c0 .88-.36 1.68-.93 2.25l-1.41 1.41C14.96 11.35 14 12.7 14 14h-2v-1.75z'/%3E%3C/svg%3E") center/contain no-repeat;
     }
     
     /* 更新时间样式 */
@@ -158,22 +140,29 @@
     }
   </style>
   
-  <!-- 添加阿里巴巴矢量图标库 -->
-  <link rel="stylesheet" href="//at.alicdn.com/t/c/font-class.css">
+
 </head>
 <body>
+
+  <div id="app"></div>
+  <footer id="mb-footer"></footer>
+  <a id="customerServiceBtn" href="https://work.weixin.qq.com/kfid/kfcac09967c65c52a12" target="_blank"></a>
+
   <!-- 定义加载时的提示符 -->
   <div id="app">加载中...</div>
   
   <!-- docsify 配置 -->
   <script>
     window.$docsify = {
-      name: '', // 文档标题
-      repo: '', // 仓库地址
-      loadSidebar: true, // 加载侧边栏
-      subMaxLevel: 2, // 目录最大层级
-      coverpage: false, // 封面
-      search: { // 搜索配置
+      themeColor: '#00A8E1',
+      name: '',
+      repo: '',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      coverpage: false,
+      maxLevel: 3,
+      notFoundPage: true,
+      search: {
         maxAge: 86400000,
         paths: 'auto',
         placeholder: '搜索',
@@ -192,16 +181,6 @@
               titleDiv.textContent = '卡盟百科';
               titleDiv.onclick = () => window.location.href = '#/';
               title.insertBefore(titleDiv, title.firstChild);
-            }
-            
-            // 添加联系客服按钮
-            if (!document.querySelector('.contact-service')) {
-              const contact = document.createElement('div');
-              contact.className = 'contact-service';
-              contact.onclick = () => {
-                window.open('https://work.weixin.qq.com/kfid/kfcac09967c65c52a12');
-              };
-              document.body.appendChild(contact);
             }
             
             // 添加更新时间
@@ -264,6 +243,8 @@
   <!-- 插件 -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="js/docsify-pagination.min.js"></script>
+  <script src="js/emoji.min.js"></script>
   
   <!-- 添加 watermark-simple.js -->
   <script src="js/watermark-simple.js"></script>
