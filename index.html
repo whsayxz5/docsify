@@ -48,7 +48,8 @@
       width: 250px !important;
       min-width: 250px;
       max-width: 250px;
-      will-change: transform;    /* 优化性能 */
+      will-change: transform;
+      transition: transform .25s ease-out;
     }
     
     /* 调整主内容区域位置和边距 */
@@ -57,8 +58,7 @@
       left: 0 !important;
       margin-left: 250px !important;
       width: calc(100% - 250px) !important;
-      max-width: none !important;
-      padding: 0 !important;
+      transition: margin-left .25s ease-out, width .25s ease-out;
     }
     
     /* 调整主内容中的文章容器 */
@@ -77,20 +77,26 @@
     /* 在小屏幕上的响应式处理 */
     @media screen and (max-width: 768px) {
       .sidebar {
-        transform: translateX(-250px);
+        left: -250px;
+        position: fixed;
+        z-index: 1000;
+        height: 100%;
+        transition: left .25s ease-out;
+      }
+      
+      body.close .sidebar {
+        left: 0;
+        transform: none;
       }
       
       .content {
         margin-left: 0 !important;
         width: 100% !important;
+        transition: margin-left .25s ease-out;
       }
       
       .markdown-section {
         padding: 2rem 1rem;
-      }
-      
-      body.close .sidebar {
-        transform: translateX(0);
       }
     }
     
