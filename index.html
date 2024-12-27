@@ -1,148 +1,281 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>羊毛百科</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="icon" href="favour.ico">
   <meta charset="UTF-8">
-  <link rel="stylesheet" href="vue.css">
-  <link rel="stylesheet" href="//at.alicdn.com/t/font_539333_ah8wb2hv6yknvcxr.css">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- 默认主题 -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  
+  <!-- 添加自定义样式 -->
   <style>
-    #customerServiceBtn {
+    /* 侧边栏所有链接加粗  */
+    .sidebar ul li a {
+      font-weight: bold;
+    }
+    
+    /* 添加标题样式 */
+    .sidebar-title {
+      padding: 1rem;
+      text-align: center;
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #42b983;
+      cursor: pointer;
+      transition: color 0.3s;
+    }
+    
+    .sidebar-title:hover {
+      color: #3aa675;
+    }
+    
+    /* 调整搜索框位置和样式 */
+    .search {
+      margin: 0 auto !important;
+      padding: 0 1rem;
+      width: 90% !important;
+    }
+    
+    /* 搜索框输入框样式 */
+    .search input {
+      text-align: center;
+    }
+    
+    /* 调整侧边栏宽度 */
+    .sidebar {
+      width: auto !important;
+      min-width: 200px;
+      max-width: 300px;
+    }
+    
+    /* 调整主内容区域位置 */
+    .content {
+      position: relative !important;
+      left: 0 !important;
+      right: 0 !important;
+      margin-left: 300px;
+      width: auto !important;
+      max-width: 100% !important;
+      padding: 0 1rem !important;
+    }
+    
+    /* 调整主内容中的文章容器 */
+    .markdown-section {
+      max-width: none;
+      padding: 2rem 0;
+    }
+    
+    /* 当侧边栏隐藏时的样式 */
+    body.close .content {
+      margin-left: 0;
+      padding: 0 2rem !important;
+    }
+    
+    /* 在小屏幕上的响应式处理 */
+    @media screen and (max-width: 768px) {
+      .sidebar {
+        width: 300px !important;
+        left: -300px;
+      }
+      
+      .content {
+        margin-left: 0;
+        padding: 2rem 1rem;
+      }
+    }
+    
+    /* 修改联系客服按钮样式 */
+    .contact-service {
       position: fixed;
-      bottom: 20px;
       right: 20px;
-      background: url('kf.png') no-repeat;
-      background-size: cover;
+      bottom: 20px;
       width: 50px;
       height: 50px;
-      border: none;
+      background-color: #ff4444;
+      color: white;
+      border-radius: 50%;
       cursor: pointer;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      transition: all 0.3s ease;
+      z-index: 999;
       display: flex;
       align-items: center;
       justify-content: center;
     }
+    
+    .contact-service:hover {
+      background-color: #ff2222;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      transform: translateY(-2px);
+    }
+    
+    /* 客服图标样式 */
+    .contact-service::before {
+      content: '';
+      display: inline-block;
+      width: 24px;
+      height: 24px;
+      background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23ffffff'%3E%3Cpath d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-4h2v2h-2v-2zm2.07-7.75-.9.92C11.45 10.9 11 11.5 11 13h2v-.5c0-1.1.45-2.1 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41 0-1.1-.9-2-2-2s-2 .9-2 2H10c0-2.21 1.79-4 4-4s4 1.79 4 4c0 .88-.36 1.68-.93 2.25l-1.41 1.41C14.96 11.35 14 12.7 14 14h-2v-1.75z'/%3E%3C/svg%3E") center/contain no-repeat;
+    }
+    
+    /* 更新时间样式 */
+    .update-time {
+      font-size: 0.9em;
+      margin-bottom: 1rem;
+    }
+    
+    .update-time img {
+      margin-bottom: 0.5rem;
+    }
+    
+    /* 修改页脚样式 */
+    .footer {
+      text-align: left;
+      padding: 1rem 0;
+      color: #666;
+      font-size: 0.9em;
+      margin-top: 2rem;
+    }
+    
+    .footer p {
+      display: inline;
+    }
+    
+    .footer p:first-child::after {
+      content: " | ";
+      margin: 0 0.5rem;
+    }
+    
+    .footer a {
+      color: #666;
+      text-decoration: none;
+    }
+    
+    .footer a:hover {
+      text-decoration: underline;
+    }
   </style>
-
+  
+  <!-- 添加阿里巴巴矢量图标库 -->
+  <link rel="stylesheet" href="//at.alicdn.com/t/c/font-class.css">
 </head>
-
 <body>
-  <div id="app"></div>
-  <footer id="mb-footer"></footer>
-  <a id="customerServiceBtn" href="https://work.weixin.qq.com/kfid/kfcac09967c65c52a12" target="_blank"></a>
-
+  <!-- 定义加载时的提示符 -->
+  <div id="app">加载中...</div>
+  
+  <!-- docsify 配置 -->
   <script>
     window.$docsify = {
-      //logo: '/media/logo.ico',
-      themeColor: '#00A8E1',
-      name: '羊毛百科',
-      loadNavbar: true,
-      loadSidebar: true,
-      //coverpage: true,
-      subMaxLevel: 2,
-      auto2top: true,
-	    maxLevel: 3,
-      notFoundPage: true,
-      //repo: 'https://wiki.zjkm.xyz',
-
-      //alias: {
-      //  '/.*/_sidebar.md': '/_sidebar.md'
-      //},
-    
-      auto2top: true,//切换页面后是否自动跳转到页面顶部
-    
-      search: 'auto',
-    //全文搜索
-    search: {
-      maxAge: 86400000,
-      paths: '/',
-      placeholder: '搜索...',
-      noData: '未找到结果',
-    },
-    
-      copyCode: {
-      buttonText : '复制',
-      errorText  : '复制失败',
-      successText: '已复制'
+      name: '', // 文档标题
+      repo: '', // 仓库地址
+      loadSidebar: true, // 加载侧边栏
+      subMaxLevel: 2, // 目录最大层级
+      coverpage: false, // 封面
+      search: { // 搜索配置
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: '搜索',
+        noData: '找不到结果'
       },
-      formatUpdated: '{YYYY} 年 {MM} 月 {DD} 日', 
+      // 添加自定义插件来插入标题
       plugins: [
-        function (hook, vm) {
-          //afterEach beforeEach
-          hook.beforeEach(function (html) {
-            //var url = 'https://ymbk-1256172758.cos.ap-shanghai.myqcloud.com/start/' + vm.route.file
-            //var editHtml = '[:memo: Edit Document](' + url + ')\n'
-      
-           return '\n\n<h1></h1>'
-              + '<img src="https://img.shields.io/badge/更新于-{docsify-updated}-brightgreen.svg" >'
-              + '\n\n'
-              + '<h1></h1>'
-              + '\n\n'
-              + html
-          })
-    
-          hook.afterEach(function (html) {
-           return  html+ '\n\n' + '<footer>© 2024 卡盟百科 | <a href="https://beian.miit.gov.cn/" target="_blank" >浙ICP备18012494号</a> </footer>'
-          })
+        function(hook, vm) {
+          // 保留原有的插件功能
+          hook.afterEach(function(html) {
+            // 在侧边栏开始处插入标题
+            const title = document.querySelector('.sidebar');
+            if (title && !document.querySelector('.sidebar-title')) {
+              const titleDiv = document.createElement('div');
+              titleDiv.className = 'sidebar-title';
+              titleDiv.textContent = '卡盟百科';
+              titleDiv.onclick = () => window.location.href = '#/';
+              title.insertBefore(titleDiv, title.firstChild);
+            }
+            
+            // 添加联系客服按钮
+            if (!document.querySelector('.contact-service')) {
+              const contact = document.createElement('div');
+              contact.className = 'contact-service';
+              contact.onclick = () => {
+                window.open('https://work.weixin.qq.com/kfid/kfcac09967c65c52a12');
+              };
+              document.body.appendChild(contact);
+            }
+            
+            // 添加更新时间
+            const path = vm.route.file;
+            if (path) {
+              const updateTimeDiv = `
+                <div class="update-time">
+                  <img class="time-badge" data-file="${path}" src="https://img.shields.io/static/v1?label=更新于&message=加载中...&color=brightgreen" alt="更新时间">
+                </div>
+              `;
+              return updateTimeDiv + html;
+            }
+            return html;
+          });
+
+          // 获取文件更新时间
+          hook.doneEach(function() {
+            const timeElement = document.querySelector('.time-badge');
+            if (timeElement) {
+              const filePath = timeElement.dataset.file;
+              fetch(filePath + '?t=' + new Date().getTime())
+                .then(response => {
+                  const lastModified = response.headers.get('last-modified');
+                  if (lastModified) {
+                    const date = new Date(lastModified);
+                    const formattedDate = date.toLocaleString('zh-CN', {
+                      year: 'numeric',
+                      month: '2-digit',
+                      day: '2-digit'
+                    }).replace(/\//g, '-');
+                    timeElement.src = `https://img.shields.io/static/v1?label=更新于&message=${formattedDate}&color=brightgreen`;
+                  } else {
+                    timeElement.src = 'https://img.shields.io/static/v1?label=更新于&message=未知&color=brightgreen';
+                  }
+                })
+                .catch(() => {
+                  timeElement.src = 'https://img.shields.io/static/v1?label=更新于&message=未知&color=brightgreen';
+                });
+            }
+          });
+
+          // 添加页脚
+          hook.afterEach(function(html) {
+            const footer = `
+              <div class="footer">
+                <p>© 2024 卡盟百科</p>
+                <p><a href="https://beian.miit.gov.cn" target="_blank">浙ICP备18012494号</a></p>
+              </div>
+            `;
+            return html + footer;
+          });
         }
       ]
     }
   </script>
-
-<script src="js/jquery.min.js"></script>
-<script src="js/jquery-1.3.2.min.js"></script>
-<!-- 搜索 -->
-<script src="js/search.js"></script>
-<!-- 主代码 -->
-<script src="js/docsify.min.js"></script>
-<!-- 复制代码到剪贴板 -->
-<script src="js/docsify-copy-code.min.js"></script>
-<!-- 上一章、 下一章 -->
-<script src="js/docsify-pagination.min.js"></script>
-<!-- 图片缩放 -->
-<script src="js/zoom-image.js"></script>
-<!-- 表情 -->
-<script src="js/emoji.min.js"></script>
-<!-- 水印 -->
-<script src="js/watermark.js"></script>  
-
-<!--下面打水印-->
-<script>
-
-var scrollFunc = function (e) {undefined
-//alert(1);
-watermark.load({ watermark_txt: "浙江卡盟" , watermark_alpha: 0.08,watermark_angle:45})
-}
-
-//给页面绑定滑轮滚动事件
-
-if (document.addEventListener) {undefined
-//alert(1);
-//pc端滚动
-document.addEventListener('DOMMouseScroll', scrollFunc, false);
-//移动端移动
-document.addEventListener('touchend', scrollFunc, false);
-}
-
-//滚动滑轮触发scrollFunc方法
-
-window.onmousewheel = document.onmousewheel = scrollFunc;
-watermark.load({ watermark_txt: "浙江卡盟" , watermark_alpha: 0.08,watermark_angle:45})
-
-</script>
-
-
-<!--
-<link rel="stylesheet" href="https://kmbk.zjkmkj.com/Public/xiabiao/xiabiao.css">
-<div class="progress" style="opacity: 0; width: 0%;"></div>
-<a class="s-xguide-down
- trans"
- href="javascript:void(0);"
- onclick="return
- false;"
- hidefocus=""></a>
- -->
-
+  
+  <!-- docsify 核心文件 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  
+  <!-- 插件 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  
+  <!-- 添加 watermark-simple.js -->
+  <script src="js/watermark-simple.js"></script>
+  
+  <script>
+    // 创建水印实例
+    const watermark = new Watermark({
+      text: '浙江卡盟',
+      alpha: 0.08,
+      angle: 45,
+      density: 150  // 调整密度可以控制水印的疏密
+    });
+  </script>
 </body>
 </html>
