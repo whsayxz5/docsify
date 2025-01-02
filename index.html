@@ -159,21 +159,27 @@
       padding: 2px 4px;
     }
     
-    /* 为正文内容中的图片添加卡片式效果 */
+    /* 为正文内容中的图片添加卡片式效果，但忽略小图片 */
     .markdown-section img:not(.time-badge) {
+      max-width: calc(100% - 16px);  /* 考虑padding的宽度 */
+    }
+    
+    /* 只对大于100px的图片应用卡片效果 */
+    .markdown-section img:not(.time-badge)[width]:not([width^="0"]):not([width^="1"]):not([width^="2"]):not([width^="3"]):not([width^="4"]):not([width^="5"]):not([width^="6"]):not([width^="7"]):not([width^="8"]):not([width^="9"]):not([width="100"]),
+    .markdown-section img:not(.time-badge):not([width]) {
       border-radius: 8px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
       border: 1px solid #eee;
       padding: 8px;
       background: white;
-      max-width: calc(100% - 16px);  /* 考虑padding的宽度 */
       transition: transform 0.2s ease, box-shadow 0.2s ease;
       display: block;
       margin: 1rem auto;
     }
     
-    /* 鼠标悬停效果 */
-    .markdown-section img:not(.time-badge):hover {
+    /* 鼠标悬停效果 - 只对大图片生效 */
+    .markdown-section img:not(.time-badge)[width]:not([width^="0"]):not([width^="1"]):not([width^="2"]):not([width^="3"]):not([width^="4"]):not([width^="5"]):not([width^="6"]):not([width^="7"]):not([width^="8"]):not([width^="9"]):not([width="100"]):hover,
+    .markdown-section img:not(.time-badge):not([width]):hover {
       transform: translateY(-2px);
       box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
     }
