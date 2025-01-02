@@ -122,11 +122,14 @@
     /* 更新时间样式 */
     .update-time {
       font-size: 0.9em;
-      margin-bottom: 1rem;
+      margin: 2rem 0 1rem 0;
+      padding-top: 1rem;
+      clear: both;
     }
     
     .update-time img {
       margin-bottom: 0.5rem;
+      max-width: 100%;
     }
     
     /* 修改页脚样式 */
@@ -181,6 +184,52 @@
     .markdown-section img.large-image:not([class*="badge"]):not([class*="emoji"]):not([src*="shields.io"]):not([src*="badge"]):not([src*="emoji"]):hover {
       transform: translateY(-2px);
       box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+    }
+    
+    /* 优化导航栏在移动端的显示 */
+    @media screen and (max-width: 768px) {
+      /* 调整导航栏样式 */
+      .app-nav {
+        position: fixed;
+        margin: 0;
+        padding: 10px 0;
+        width: 100%;
+        background-color: #fff;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        z-index: 999;
+      }
+
+      /* 调整主内容区域的上边距，为固定导航栏留出空间 */
+      .content {
+        padding-top: 60px !important;
+      }
+
+      /* 确保导航栏中的链接正确对齐 */
+      .app-nav > ul {
+        padding: 0 1rem;
+        display: flex;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        white-space: nowrap;
+      }
+
+      .app-nav > ul > li {
+        margin: 0 1rem 0 0;
+      }
+
+      /* 优化导航栏滚动条样式 */
+      .app-nav > ul::-webkit-scrollbar {
+        height: 4px;
+      }
+
+      .app-nav > ul::-webkit-scrollbar-track {
+        background: #f1f1f1;
+      }
+
+      .app-nav > ul::-webkit-scrollbar-thumb {
+        background: #888;
+        border-radius: 2px;
+      }
     }
   </style>
   
