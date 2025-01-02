@@ -158,6 +158,33 @@
       font-size: 0.95rem;
       padding: 2px 4px;
     }
+    
+    /* 为正文内容中的图片添加卡片式效果 */
+    .markdown-section img:not(.time-badge) {
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      border: 1px solid #eee;
+      padding: 8px;
+      background: white;
+      max-width: calc(100% - 16px);  /* 考虑padding的宽度 */
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      display: block;
+      margin: 1rem auto;
+    }
+    
+    /* 鼠标悬停效果 */
+    .markdown-section img:not(.time-badge):hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    }
+    
+    /* 确保时间徽章不受影响 */
+    .time-badge {
+      border-radius: 0;
+      box-shadow: none;
+      border: none;
+      padding: 0;
+    }
   </style>
   
 
