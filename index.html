@@ -159,50 +159,26 @@
       padding: 2px 4px;
     }
     
-    /* 修改图片默认显示样式 */
-    .markdown-section img:not(.time-badge) {
-      max-width: calc(100% - 16px);  /* 考虑padding的宽度 */
-      display: inline-block;  /* 改为行内块级元素 */
-      margin: 1rem 0;  /* 只保留上下边距 */
+    /* 为大尺寸图片添加卡片式效果 */
+    .markdown-section img {
+      max-width: 100%;
     }
     
-    /* 只对大于100px的图片应用卡片效果 */
-    .markdown-section img:not(.time-badge)[width]:not([width^="0"]):not([width^="1"]):not([width^="2"]):not([width^="3"]):not([width^="4"]):not([width^="5"]):not([width^="6"]):not([width^="7"]):not([width^="8"]):not([width^="9"]):not([width="100"]),
-    .markdown-section img:not(.time-badge):not([width]) {
+    .markdown-section img[width]:not([width^="1"]):not([width^="2"]):not([width^="3"]):not([width="400"]),
+    .markdown-section img[style*="width"]:not([style*="width: 1"]):not([style*="width: 2"]):not([style*="width: 3"]):not([style*="width: 400"]) {
       border-radius: 8px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      border: 1px solid #eee;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
       padding: 8px;
-      background: white;
+      background-color: white;
+      margin: 16px 0;
       transition: transform 0.2s ease, box-shadow 0.2s ease;
     }
     
-    /* 鼠标悬停效果 - 只对大图片生效 */
-    .markdown-section img:not(.time-badge)[width]:not([width^="0"]):not([width^="1"]):not([width^="2"]):not([width^="3"]):not([width^="4"]):not([width^="5"]):not([width^="6"]):not([width^="7"]):not([width^="8"]):not([width^="9"]):not([width="100"]):hover,
-    .markdown-section img:not(.time-badge):not([width]):hover {
+    /* 添加悬停效果 */
+    .markdown-section img[width]:not([width^="1"]):not([width^="2"]):not([width^="3"]):not([width="400"]):hover,
+    .markdown-section img[style*="width"]:not([style*="width: 1"]):not([style*="width: 2"]):not([style*="width: 3"]):not([style*="width: 400"]):hover {
       transform: translateY(-2px);
-      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
-    }
-    
-    /* 确保时间徽章不受影响 */
-    .time-badge {
-      border-radius: 0;
-      box-shadow: none;
-      border: none;
-      padding: 0;
-    }
-    
-    /* emoji表情样式修复 */
-    .markdown-section img.emoji {
-      display: inline-block;
-      margin: 0 3px;
-      padding: 0;
-      border: none;
-      box-shadow: none;
-      background: transparent;
-      vertical-align: middle;
-      max-height: 1.2em;
-      width: auto;
+      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
     }
   </style>
   
