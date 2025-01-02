@@ -63,13 +63,13 @@
 
 渠道码：按照下图路径获取
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/b47d9dade07acad011110ada5a6a59d1-2.webp" style="zoom:33%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/b47d9dade07acad011110ada5a6a59d1-2.webp" width=800 />
 
 ##### 六、[电银通](tool/dyt.md)
 
 渠道码：155516451
 
-<img src="https://cos.zjkmkj.com/media/2024/08/22/0e031918cade53e17832554729ecf071-2.webp" alt="image.png" width=500 />
+<img src="https://cos.zjkmkj.com/media/2024/08/22/0e031918cade53e17832554729ecf071-2.webp" alt="image.png" width=800 />
 
 ##### 七、[盛付通](tool/sftsqb.md)
 
@@ -77,9 +77,14 @@
 
 ##### 八、[进钱吧](tool/jqb.md)
 
-微信搜索`进钱吧掌柜`小程序-我的-商户信息-点击汇聚支付 Plus（微信）并截图去微信扫码关联
+渠道码：714033851
 
-<img src="https://cos.zjkmkj.com/media/2025/01/02/e8630e3456b459af3f6d85e66ef60d8e-2.webp" width=600 />
+子商户号：微信搜索`进钱吧掌柜`小程序-我的-商户信息-点击汇聚支付 Plus（微信）并截图去微信扫码关联
+
+<img src="https://cos.zjkmkj.com/media/2025/01/02/e8630e3456b459af3f6d85e66ef60d8e-2.webp" width=600 /><br>
+
+<img
+src="https://cos.zjkmkj.com/media/2025/01/02/6cf374d299339186a3c25969b42bbf39-2.webp" width=600 />
 
 ---
 
@@ -149,21 +154,7 @@
 
 ##### 一、盛付通
 
-<img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" style="zoom: 200%;" />
-
-<img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" style="zoom: 200%;" />
-
-<img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" style="zoom: 200%;" />
-
-<img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" style="zoom: 200%;" />
-
-<img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" style="zoom: 200%;" />
-
-<img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" style="zoom: 200%;" />
-
-<img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" style="zoom: 200%;" />
-
-<img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" style="zoom: 200%;" />
+<img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" width=800 />
 
 1、本次交易存在欺诈风险
 
@@ -174,3 +165,4 @@
 4、交易异常，已超出今日商户微信收款限额
 
 5、信用卡消费超过当日限额，请使用零钱或借记卡支付
+
