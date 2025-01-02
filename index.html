@@ -164,7 +164,8 @@
       max-width: 100%;
     }
     
-    /* 选择宽度超过100px的图片 */
+    /* 选择宽度超过100px的图片，包括webp格式 */
+    .markdown-section img:not([width^="1"]):not([style*="width: 1"]),
     .markdown-section img[width]:not([width^="1"]),
     .markdown-section img[style*="width"]:not([style*="width: 1"]) {
       border-radius: 8px;
@@ -176,6 +177,7 @@
     }
     
     /* 添加悬停效果 */
+    .markdown-section img:not([width^="1"]):not([style*="width: 1"]):hover,
     .markdown-section img[width]:not([width^="1"]):hover,
     .markdown-section img[style*="width"]:not([style*="width: 1"]):hover {
       transform: translateY(-2px);
