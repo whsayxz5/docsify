@@ -164,8 +164,11 @@
       max-width: 100%;
     }
     
-    .markdown-section img[width]:not([width^="1"]):not([width^="2"]):not([width^="3"]):not([width="400"]),
-    .markdown-section img[style*="width"]:not([style*="width: 1"]):not([style*="width: 2"]):not([style*="width: 3"]):not([style*="width: 400"]) {
+    /* 选择长或宽超过200px的图片 */
+    .markdown-section img[width]:not([width^="1"]):not([width^="2"]),
+    .markdown-section img[height]:not([height^="1"]):not([height^="2"]),
+    .markdown-section img[style*="width"]:not([style*="width: 1"]):not([style*="width: 2"]),
+    .markdown-section img[style*="height"]:not([style*="height: 1"]):not([style*="height: 2"]) {
       border-radius: 8px;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
       padding: 8px;
@@ -175,8 +178,10 @@
     }
     
     /* 添加悬停效果 */
-    .markdown-section img[width]:not([width^="1"]):not([width^="2"]):not([width^="3"]):not([width="400"]):hover,
-    .markdown-section img[style*="width"]:not([style*="width: 1"]):not([style*="width: 2"]):not([style*="width: 3"]):not([style*="width: 400"]):hover {
+    .markdown-section img[width]:not([width^="1"]):not([width^="2"]):hover,
+    .markdown-section img[height]:not([height^="1"]):not([height^="2"]):hover,
+    .markdown-section img[style*="width"]:not([style*="width: 1"]):not([style*="width: 2"]):hover,
+    .markdown-section img[style*="height"]:not([style*="height: 1"]):not([style*="height: 2"]):hover {
       transform: translateY(-2px);
       box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
     }
