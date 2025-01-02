@@ -164,10 +164,10 @@
       max-width: 100%;
     }
     
-    /* 选择宽度超过100px的图片，包括webp格式 */
-    .markdown-section img:not([width^="1"]):not([style*="width: 1"]),
-    .markdown-section img[width]:not([width^="1"]),
-    .markdown-section img[style*="width"]:not([style*="width: 1"]) {
+    /* 选择宽度超过100px的图片，排除小图标和表情符号 */
+    .markdown-section img:not([width^="1"]):not([style*="width: 1"]):not([alt*="emoji"]):not([src*="shields.io"]):not([class*="time-badge"]):not([src*="badge"]),
+    .markdown-section img[width]:not([width^="1"]):not([alt*="emoji"]):not([src*="shields.io"]):not([class*="time-badge"]):not([src*="badge"]),
+    .markdown-section img[style*="width"]:not([style*="width: 1"]):not([alt*="emoji"]):not([src*="shields.io"]):not([class*="time-badge"]):not([src*="badge"]) {
       border-radius: 8px;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
       padding: 8px;
@@ -177,9 +177,9 @@
     }
     
     /* 添加悬停效果 */
-    .markdown-section img:not([width^="1"]):not([style*="width: 1"]):hover,
-    .markdown-section img[width]:not([width^="1"]):hover,
-    .markdown-section img[style*="width"]:not([style*="width: 1"]):hover {
+    .markdown-section img:not([width^="1"]):not([style*="width: 1"]):not([alt*="emoji"]):not([src*="shields.io"]):not([class*="time-badge"]):not([src*="badge"]):hover,
+    .markdown-section img[width]:not([width^="1"]):not([alt*="emoji"]):not([src*="shields.io"]):not([class*="time-badge"]):not([src*="badge"]):hover,
+    .markdown-section img[style*="width"]:not([style*="width: 1"]):not([alt*="emoji"]):not([src*="shields.io"]):not([class*="time-badge"]):not([src*="badge"]):hover {
       transform: translateY(-2px);
       box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
     }
