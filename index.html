@@ -184,7 +184,12 @@
     }
   </style>
   
-
+  <meta property="og:title" content="羊毛百科">
+  <meta property="og:image" id="og-image" content="">
+  <meta property="og:description" content="羊毛百科 - 专业的羊毛知识分享平台">
+  
+  <!-- 添加微信JS-SDK -->
+  <script src="//res.wx.qq.com/open/js/jweixin-1.6.0.js"></script>
 </head>
 <body>
 
@@ -288,6 +293,75 @@
               // 对已加载的图片立即检查
               if (img.complete && img.naturalWidth > 100) {
                 img.classList.add('large-image');
+              }
+            });
+          });
+
+          // 配置微信分享
+          function configWxShare(shareImage) {
+            fetch('wx_sign.php')
+              .then(response => response.json())
+              .then(data => {
+                wx.config({
+                  debug: false,
+                  appId: data.appId,
+                  timestamp: data.timestamp,
+                  nonceStr: data.nonceStr,
+                  signature: data.signature,
+                  jsApiList: [
+                    'updateAppMessageShareData',
+                    'updateTimelineShareData'
+                  ]
+                });
+
+                wx.ready(function () {
+                  // 分享给朋友
+                  wx.updateAppMessageShareData({ 
+                    title: '羊毛百科', 
+                    desc: document.title, 
+                    link: window.location.href, 
+                    imgUrl: shareImage,
+                    success: function () {
+                      // 设置成功
+                    }
+                  });
+                  
+                  // 分享到朋友圈
+                  wx.updateTimelineShareData({ 
+                    title: document.title,
+                    link: window.location.href,
+                    imgUrl: shareImage,
+                    success: function () {
+                      // 设置成功
+                    }
+                  });
+                });
+              });
+          }
+
+          // 设置微信分享图片
+          hook.doneEach(function() {
+            // 查找第一张大图
+            const images = document.querySelectorAll('.markdown-section img');
+            let shareImage = '';
+            
+            const checkAndSetImage = (img) => {
+              if (img.naturalWidth > 400 && !shareImage) {
+                shareImage = img.src;
+                // 更新og:image meta标签
+                document.getElementById('og-image').setAttribute('content', shareImage);
+                // 配置微信分享
+                configWxShare(shareImage);
+              }
+            };
+
+            images.forEach(img => {
+              if (img.complete) {
+                checkAndSetImage(img);
+              } else {
+                img.onload = function() {
+                  checkAndSetImage(this);
+                }
               }
             });
           });
