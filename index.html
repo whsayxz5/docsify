@@ -164,10 +164,10 @@
       max-width: 100%;
     }
     
-    /* 选择宽度超过100px的图片，排除所有小图标和表情符号 */
-    .markdown-section > p > img:not([width^="1"]):not([style*="width: 1"]):not([alt*="emoji"]):not([src*="shields.io"]):not([class*="time-badge"]):not([src*="badge"]):not([src*="icon"]):not([src*="emoji"]):not([src*="links"]):not([width="20"]):not([width="24"]):not([width="32"]):not([width="48"]),
-    .markdown-section > p > img[width]:not([width^="1"]):not([alt*="emoji"]):not([src*="shields.io"]):not([class*="time-badge"]):not([src*="badge"]):not([src*="icon"]):not([src*="emoji"]):not([src*="links"]):not([width="20"]):not([width="24"]):not([width="32"]):not([width="48"]),
-    .markdown-section > p > img[style*="width"]:not([style*="width: 1"]):not([alt*="emoji"]):not([src*="shields.io"]):not([class*="time-badge"]):not([src*="badge"]):not([src*="icon"]):not([src*="emoji"]):not([src*="links"]):not([width="20"]):not([width="24"]):not([width="32"]):not([width="48"]) {
+    /* 选择宽度超过100px的图片，排除emoji */
+    .markdown-section > p > img:not([alt*="emoji"]):not([src*="emoji"]),
+    .markdown-section > p > img[width]:not([alt*="emoji"]):not([src*="emoji"]),
+    .markdown-section > p > img[style*="width"]:not([alt*="emoji"]):not([src*="emoji"]) {
       border-radius: 8px;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
       padding: 8px;
@@ -177,9 +177,9 @@
     }
     
     /* 添加悬停效果 */
-    .markdown-section > p > img:not([width^="1"]):not([style*="width: 1"]):not([alt*="emoji"]):not([src*="shields.io"]):not([class*="time-badge"]):not([src*="badge"]):not([src*="icon"]):not([src*="emoji"]):not([src*="links"]):not([width="20"]):not([width="24"]):not([width="32"]):not([width="48"]):hover,
-    .markdown-section > p > img[width]:not([width^="1"]):not([alt*="emoji"]):not([src*="shields.io"]):not([class*="time-badge"]):not([src*="badge"]):not([src*="icon"]):not([src*="emoji"]):not([src*="links"]):not([width="20"]):not([width="24"]):not([width="32"]):not([width="48"]):hover,
-    .markdown-section > p > img[style*="width"]:not([style*="width: 1"]):not([alt*="emoji"]):not([src*="shields.io"]):not([class*="time-badge"]):not([src*="badge"]):not([src*="icon"]):not([src*="emoji"]):not([src*="links"]):not([width="20"]):not([width="24"]):not([width="32"]):not([width="48"]):hover {
+    .markdown-section > p > img:not([alt*="emoji"]):not([src*="emoji"]):hover,
+    .markdown-section > p > img[width]:not([alt*="emoji"]):not([src*="emoji"]):hover,
+    .markdown-section > p > img[style*="width"]:not([alt*="emoji"]):not([src*="emoji"]):hover {
       transform: translateY(-2px);
       box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
     }
