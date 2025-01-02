@@ -159,9 +159,11 @@
       padding: 2px 4px;
     }
     
-    /* 为正文内容中的图片添加卡片式效果，但忽略小图片 */
+    /* 修改图片默认显示样式 */
     .markdown-section img:not(.time-badge) {
       max-width: calc(100% - 16px);  /* 考虑padding的宽度 */
+      display: inline-block;  /* 改为行内块级元素 */
+      margin: 1rem 0;  /* 只保留上下边距 */
     }
     
     /* 只对大于100px的图片应用卡片效果 */
@@ -173,8 +175,6 @@
       padding: 8px;
       background: white;
       transition: transform 0.2s ease, box-shadow 0.2s ease;
-      display: block;
-      margin: 1rem auto;
     }
     
     /* 鼠标悬停效果 - 只对大图片生效 */
@@ -190,6 +190,19 @@
       box-shadow: none;
       border: none;
       padding: 0;
+    }
+    
+    /* emoji表情样式修复 */
+    .markdown-section img.emoji {
+      display: inline-block;
+      margin: 0 3px;
+      padding: 0;
+      border: none;
+      box-shadow: none;
+      background: transparent;
+      vertical-align: middle;
+      max-height: 1.2em;
+      width: auto;
     }
   </style>
   
