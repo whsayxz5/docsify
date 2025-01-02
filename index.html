@@ -164,10 +164,8 @@
       max-width: 100%;
     }
     
-    /* 选择宽度超过100px的图片，排除emoji */
-    .markdown-section img:not([alt*="emoji"]):not([src*="emoji"]),
-    .markdown-section img[width]:not([alt*="emoji"]):not([src*="emoji"]),
-    .markdown-section img[style*="width"]:not([alt*="emoji"]):not([src*="emoji"]) {
+    /* 为大图添加卡片效果 */
+    .markdown-section img.large-image:not([alt*="emoji"]):not([src*="emoji"]) {
       border-radius: 8px;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
       padding: 8px;
@@ -177,9 +175,7 @@
     }
     
     /* 添加悬停效果 */
-    .markdown-section img:not([alt*="emoji"]):not([src*="emoji"]):hover,
-    .markdown-section img[width]:not([alt*="emoji"]):not([src*="emoji"]):hover,
-    .markdown-section img[style*="width"]:not([alt*="emoji"]):not([src*="emoji"]):hover {
+    .markdown-section img.large-image:not([alt*="emoji"]):not([src*="emoji"]):hover {
       transform: translateY(-2px);
       box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
     }
@@ -275,6 +271,22 @@
               </div>
             `;
             return html + footer;
+          });
+
+          // 为大图片添加类名
+          hook.doneEach(function() {
+            const images = document.querySelectorAll('.markdown-section img:not([alt*="emoji"]):not([src*="emoji"])');
+            images.forEach(img => {
+              img.onload = function() {
+                if (this.naturalWidth > 100) {
+                  this.classList.add('large-image');
+                }
+              }
+              // 对已加载的图片立即检查
+              if (img.complete && img.naturalWidth > 100) {
+                img.classList.add('large-image');
+              }
+            });
           });
         }
       ]
