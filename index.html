@@ -164,8 +164,8 @@
       max-width: 100%;
     }
     
-    /* 为大图添加卡片效果 */
-    .markdown-section img.large-image:not([alt*="emoji"]):not([src*="emoji"]) {
+    /* 为大图添加卡片效果，排除徽章和emoji */
+    .markdown-section img.large-image:not([class*="badge"]):not([class*="emoji"]):not([src*="shields.io"]):not([src*="badge"]):not([src*="emoji"]) {
       border-radius: 8px;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
       padding: 8px;
@@ -175,7 +175,7 @@
     }
     
     /* 添加悬停效果 */
-    .markdown-section img.large-image:not([alt*="emoji"]):not([src*="emoji"]):hover {
+    .markdown-section img.large-image:not([class*="badge"]):not([class*="emoji"]):not([src*="shields.io"]):not([src*="badge"]):not([src*="emoji"]):hover {
       transform: translateY(-2px);
       box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
     }
@@ -275,7 +275,7 @@
 
           // 为大图片添加类名
           hook.doneEach(function() {
-            const images = document.querySelectorAll('.markdown-section img:not([alt*="emoji"]):not([src*="emoji"])');
+            const images = document.querySelectorAll('.markdown-section img');
             images.forEach(img => {
               img.onload = function() {
                 if (this.naturalWidth > 100) {
