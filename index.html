@@ -59,12 +59,14 @@
       margin-left: 250px !important;
       width: calc(100% - 250px) !important;
       transition: margin-left .25s ease-out, width .25s ease-out;
+      padding: 0 5vw;
+      box-sizing: border-box;
     }
     
     /* 调整主内容中的文章容器 */
     .markdown-section {
       max-width: 1200px;
-      padding: 2rem 3rem;
+      padding: 2rem 0;
       margin: 0 auto;
     }
     
@@ -72,6 +74,7 @@
     body.close .content {
       margin-left: 0 !important;
       width: 100% !important;
+      padding: 0 5vw;
     }
     
     /* 在小屏幕上的响应式处理 */
@@ -92,11 +95,11 @@
       .content {
         margin-left: 0 !important;
         width: 100% !important;
-        transition: margin-left .25s ease-out;
+        padding: 0 1rem;
       }
       
       .markdown-section {
-        padding: 2rem 1rem;
+        padding: 2rem 0;
       }
     }
     
