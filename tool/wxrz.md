@@ -20,6 +20,7 @@
 
 # 适用神器
 
+- [进钱吧](#八、进钱吧)`新品`
 - [盛付通](#七、盛付通)`新品`
 - [电银通](#六、电银通)
 - [至尊宝](#五、至尊宝)
@@ -73,6 +74,12 @@
 ##### 七、[盛付通](tool/sftsqb.md)
 
 进入首页-点击扫码申请-填写资料并上传相关照片`照片和店铺名要一致，不要传设计稿图片，美团/点评下载即可，记得去除水印`-然后点击提交申请
+
+##### 八、[进钱吧](tool/jqb.md)
+
+微信搜索`进钱吧掌柜`小程序-我的-商户信息-点击汇聚支付 Plus（微信）并截图去微信扫码关联
+
+<img src="https://cos.zjkmkj.com/media/2025/01/02/e8630e3456b459af3f6d85e66ef60d8e-2.webp" width=600 />
 
 ---
 
@@ -141,6 +148,20 @@
 # 常见问题
 
 ##### 一、盛付通
+
+<img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" style="zoom: 200%;" />
+
+<img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" style="zoom: 200%;" />
+
+<img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" style="zoom: 200%;" />
+
+<img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" style="zoom: 200%;" />
+
+<img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" style="zoom: 200%;" />
+
+<img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" style="zoom: 200%;" />
+
+<img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" style="zoom: 200%;" />
 
 <img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" style="zoom: 200%;" />
 

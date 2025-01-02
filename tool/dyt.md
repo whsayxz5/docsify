@@ -23,8 +23,6 @@
 
 <img src="https://cos.zjkmkj.com/media/2024/08/19/52133333841394faaf120b26577de83f-2.webp" alt="image.png" width=400 />
 
-<img src="https://cos.zjkmkj.com/media/2024/08/19/52133333841394faaf120b26577de83f-2.webp" alt="image.png" width=400 />
-
 > 电银通客服热线电话：4009920980
 
 ##### 三、主要功能
@@ -97,8 +95,6 @@
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/ea2bebea026e8d2450685a4fad2ff71f-2.webp" alt="image.png" width=200 />
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/ea2bebea026e8d2450685a4fad2ff71f-2.webp" alt="image.png" width=200 />
-
 ---
 
 # 电银通使用教程
@@ -120,8 +116,6 @@
 > 不支持工商卡作结算卡
 >
 > 注册完成后页面显示费率不用理会，绑定终端后会自动修改
-
-<img src="https://cos.zjkmkj.com/media/2024/08/19/db8765eb92e028c90b865c229db3528f-2.webp" width=800/><br>
 
 <img src="https://cos.zjkmkj.com/media/2024/08/19/db8765eb92e028c90b865c229db3528f-2.webp" width=800/><br>
 
@@ -148,8 +142,6 @@ APP `电银通商户版`-我的--我的POS-绑定终端即可，绑定后费率�
 > 机器注册当日无法设置，次日可正常设置
 >
 > 电银通合并到账为分时段合并到账，不是手动合并提现
-
-<img src="https://cos.zjkmkj.com/media/2024/08/20/6fcb63a37419e8c3b3d1bd36f78726e2-2.webp" width=400/>
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/6fcb63a37419e8c3b3d1bd36f78726e2-2.webp" width=400/>
 
@@ -193,15 +185,13 @@ APP `电银通商户版`-我的-头像旁边的小箭头-切换商户-选择我�
 
 <img src="https://cos.zjkmkj.com/media/2024/08/26/6b539e4e3277721191a7c0188a456b11-2.webp" width=200/>
 
-<img src="https://cos.zjkmkj.com/media/2024/08/26/6b539e4e3277721191a7c0188a456b11-2.webp" width=200/>
-
 ---
 
 # 常见问题
 
 ##### 一、关闭按键音
 
-签到-操作员99-密码12345678-系统参数设置-点击下翻↓-是否关闭按键音 `没有此选项就是不能关闭声音`
+电银通天喻关闭按键音路径：99-12345678-按键3系统参数设置-按字母翻页键-到是否关闭按键声音-选是
 
 ##### 二、CMM00165：二要素/三要素鉴权失败
 
@@ -218,6 +208,7 @@ APP `电银通商户版`-我的-头像旁边的小箭头-切换商户-选择我�
 ##### 五、出现 绑定失败 字样
 
 开通提示 `绑定失败，请稍后刷新后重试错误`，[👉请联系羊毛哥处理](http://u.zjkmkj.com/unVf1)
+
 
 ---
 

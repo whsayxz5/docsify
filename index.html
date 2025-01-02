@@ -31,53 +31,16 @@
       color: #00A8E1;
     }
     
-    /* 修改标题区域样式 */
-    .sidebar-header {
-      display: flex;
-      align-items: center;
-      justify-content: center;  /* 居中显示 */
-      padding: 1rem;
-      gap: 8px;  /* 标题和搜索按钮之间的间距 */
-    }
-    
-    /* 修改搜索按钮样式 */
-    .search-btn {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      width: 24px;
-      height: 24px;
-      padding: 0;
-      background: none;
-      border: none;
-      cursor: pointer;
-      color: #00A8E1;
-    }
-    
-    /* 搜索按钮悬停效果 */
-    .search-btn:hover {
-      opacity: 0.8;
-    }
-    
-    /* 放大镜图标 */
-    .search-btn::before {
-      content: '';
-      display: block;
-      width: 20px;
-      height: 20px;
-      background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2300A8E1' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='8'%3E%3C/circle%3E%3Cline x1='21' y1='21' x2='16.65' y2='16.65'%3E%3C/line%3E%3C/svg%3E") center/contain no-repeat;
-    }
-    
-    /* 修改搜索框样式 */
+    /* 调整搜索框位置和样式 */
     .search {
-      display: none;
       margin: 0 auto !important;
       padding: 0 1rem;
       width: 90% !important;
     }
     
-    .search.active {
-      display: block;
+    /* 搜索框输入框样式 */
+    .search input {
+      text-align: center;
     }
     
     /* 调整侧边栏宽度 */
@@ -96,10 +59,9 @@
       margin-left: 250px !important;
       width: calc(100% - 250px) !important;
       transition: margin-left .25s ease-out, width .25s ease-out;
-      padding-top: 20px !important;
     }
     
-    /* 调主内容中的文章容器 */
+    /* 调整主内容中的文章容器 */
     .markdown-section {
       max-width: 1000px;
       padding: 2rem;
@@ -135,12 +97,6 @@
       
       .markdown-section {
         padding: 2rem 1rem;
-      }
-      
-      /* 确保切换按钮始终可见 */
-      .sidebar-toggle {
-        display: block !important;
-        opacity: 1 !important;
       }
     }
     
@@ -202,16 +158,6 @@
       font-size: 0.95rem;
       padding: 2px 4px;
     }
-    
-    /* 添加导航栏样式 */
-    .app-nav {
-      position: fixed;
-      top: 0;
-      right: 0;
-      margin: 25px 60px 0 0;
-      z-index: 1000;
-    }
-    
   </style>
   
 
@@ -229,8 +175,10 @@
       name: '',
       repo: '',
       loadSidebar: true,
+      loadNavbar: true, 
       subMaxLevel: 2,
       coverpage: false,
+      auto2top: true,
       maxLevel: 3,
       notFoundPage: true,
       search: {
@@ -244,31 +192,14 @@
         function(hook, vm) {
           // 保持原有的插件功能
           hook.afterEach(function(html) {
-            // 修改侧边栏标题部分
+            // 在侧边栏开始处插入标题
             const title = document.querySelector('.sidebar');
-            if (title && !document.querySelector('.sidebar-header')) {
-              const headerDiv = document.createElement('div');
-              headerDiv.className = 'sidebar-header';
-              
+            if (title && !document.querySelector('.sidebar-title')) {
               const titleDiv = document.createElement('div');
               titleDiv.className = 'sidebar-title';
               titleDiv.textContent = '卡盟百科';
               titleDiv.onclick = () => window.location.href = '#/';
-              
-              const searchBtn = document.createElement('button');
-              searchBtn.className = 'search-btn';
-              searchBtn.setAttribute('aria-label', '搜索');
-              searchBtn.onclick = () => {
-                const search = document.querySelector('.search');
-                search.classList.toggle('active');
-                if (search.classList.contains('active')) {
-                  search.querySelector('input').focus();
-                }
-              };
-              
-              headerDiv.appendChild(titleDiv);
-              headerDiv.appendChild(searchBtn);
-              title.insertBefore(headerDiv, title.firstChild);
+              title.insertBefore(titleDiv, title.firstChild);
             }
             
             // 添加更新时间
@@ -314,16 +245,14 @@
           hook.afterEach(function(html) {
             const footer = `
               <div class="footer">
-                <p>© 2024 卡盟百科</p>
+                <p>© 2025 卡盟百科</p>
                 <p><a href="https://beian.miit.gov.cn" target="_blank">浙ICP备18012494号</a></p>
               </div>
             `;
             return html + footer;
           });
         }
-      ],
-      // 添加导航栏配置
-      loadNavbar: true,      // 启用导航栏
+      ]
     }
   </script>
   

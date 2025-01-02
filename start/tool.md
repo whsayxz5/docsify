@@ -46,13 +46,13 @@
 
 **手机闪付**
 
-> `小额`[恒信通](tool/hxt.md)
+> `暂时下线`[恒信通](tool/hxt.md)
 
 **龙支付**
 
-> [恒信通](tool/hxt.md)
+> `暂时下线`[恒信通](tool/hxt.md)
 
-![最新神器](https://cos.zjkmkj.com/media/2024/12/27/d07c2fb49cda632ae17731a3c39d9fd0-2.webp)
+![](https://cos.zjkmkj.com/media/2025/01/02/82c898cff0e131f66623efe754582865-2.webp)
 
 ---
 

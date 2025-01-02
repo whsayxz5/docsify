@@ -21,8 +21,6 @@
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/1d5990147b05bddb430bc361a521194c-2.webp" width=400 />
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/1d5990147b05bddb430bc361a521194c-2.webp" width=400 />
-
 > 至尊宝客服热线电话：4007006889
 
 ##### 三、主要功能
@@ -113,13 +111,8 @@
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/1d633df64440bcaea8d54767f2573995-2.webp" width=800 />
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/1d633df64440bcaea8d54767f2573995-2.webp" width=800 />
-
 <img src="https://cos.zjkmkj.com/media/2024/08/20/38efab1dd3d4cd649993fdce59a94c02-2.webp" width=800 />
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/38efab1dd3d4cd649993fdce59a94c02-2.webp" width=800 />
-
-<img src="https://cos.zjkmkj.com/media/2024/08/20/d61d49a859405cee28d66cd6668fa46b-2.webp" width=800 />
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/d61d49a859405cee28d66cd6668fa46b-2.webp" width=800 />
 
@@ -202,3 +195,4 @@
 四、原则上刷卡机属于特殊物品，寄出不退不换；我司承诺提供更高标准的 `七天无理由退换`，在 `机器未使用`和 `不影响二次销售`的前提下，用户可无理由在 `签收后七天内`进行退换，`来回运费自付`。
 
 五、如有任何不明之处，请随时联系我司客服。
+

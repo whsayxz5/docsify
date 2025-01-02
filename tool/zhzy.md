@@ -26,6 +26,6 @@
 
 ##### 二、操作姿势
 
-👉**刷卡：**[云付宝](tool/yfb.md)/[至尊宝](tool/zzb.md)，小额测试（[:link: 点此查询](https://mcc.zjkmkj.com)），有分直接大额
+👉**刷卡：[至尊宝](tool/zzb.md)，小额测试（[:link: 点此查询](https://mcc.zjkmkj.com)），有分直接大额
 
 👉**微信/支付宝：**[付惠码](tool/fhm.md)/[聚收银](tool/jsy.md)/[拉卡拉](tool/lkl.md)，直接刷
