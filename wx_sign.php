@@ -10,7 +10,9 @@ class JSSDK {
 
   public function getSignPackage() {
     $jsapiTicket = $this->getJsApiTicket();
-    $url = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
+    
+    // 使用传入的url参数，而不是服务器端的URL
+    $url = isset($_GET['url']) ? $_GET['url'] : "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
     $timestamp = time();
     $nonceStr = $this->createNonceStr();
 

@@ -299,44 +299,71 @@
 
           // 配置微信分享
           function configWxShare(shareImage) {
-            fetch('wx_sign.php')
-              .then(response => response.json())
-              .then(data => {
-                wx.config({
-                  debug: false,
-                  appId: data.appId,
-                  timestamp: data.timestamp,
-                  nonceStr: data.nonceStr,
-                  signature: data.signature,
-                  jsApiList: [
-                    'updateAppMessageShareData',
-                    'updateTimelineShareData'
-                  ]
-                });
+            // 确保是在微信环境中
+            if (typeof WeixinJSBridge == "undefined") {
+              if (document.addEventListener) {
+                document.addEventListener('WeixinJSBridgeReady', initWxConfig, false);
+              }
+            } else {
+              initWxConfig();
+            }
 
-                wx.ready(function () {
-                  // 分享给朋友
-                  wx.updateAppMessageShareData({ 
-                    title: '羊毛百科', 
-                    desc: document.title, 
-                    link: window.location.href, 
-                    imgUrl: shareImage,
-                    success: function () {
-                      // 设置成功
-                    }
+            function initWxConfig() {
+              fetch('wx_sign.php?url=' + encodeURIComponent(window.location.href.split('#')[0]))
+                .then(response => response.json())
+                .then(data => {
+                  wx.config({
+                    debug: false,
+                    appId: data.appId,
+                    timestamp: data.timestamp,
+                    nonceStr: data.nonceStr,
+                    signature: data.signature,
+                    jsApiList: [
+                      'updateAppMessageShareData',
+                      'updateTimelineShareData',
+                      'onMenuShareTimeline',
+                      'onMenuShareAppMessage'
+                    ]
                   });
-                  
-                  // 分享到朋友圈
-                  wx.updateTimelineShareData({ 
-                    title: document.title,
-                    link: window.location.href,
-                    imgUrl: shareImage,
-                    success: function () {
-                      // 设置成功
-                    }
+
+                  wx.ready(function () {
+                    // 新版接口
+                    wx.updateAppMessageShareData({ 
+                      title: '羊毛百科', 
+                      desc: document.title, 
+                      link: window.location.href.split('#')[0] + '#' + vm.route.path,
+                      imgUrl: shareImage,
+                      success: function () {
+                        console.log('分享设置成功');
+                      },
+                      fail: function(res) {
+                        console.log('分享设置失败:', res);
+                      }
+                    });
+                    
+                    // 旧版接口，兼容老版本
+                    wx.onMenuShareAppMessage({
+                      title: '羊毛百科',
+                      desc: document.title,
+                      link: window.location.href.split('#')[0] + '#' + vm.route.path,
+                      imgUrl: shareImage,
+                      success: function () {
+                        console.log('老版分享设置成功');
+                      },
+                      fail: function(res) {
+                        console.log('老版分享设置失败:', res);
+                      }
+                    });
                   });
+
+                  wx.error(function(res){
+                    console.log('微信配置失败:', res);
+                  });
+                })
+                .catch(error => {
+                  console.log('获取签名失败:', error);
                 });
-              });
+            }
           }
 
           // 设置微信分享图片
@@ -346,8 +373,15 @@
             let shareImage = '';
             
             const checkAndSetImage = (img) => {
-              if (img.naturalWidth > 400 && !shareImage) {
+              if (img.naturalWidth > 400 && !shareImage && 
+                  !img.src.includes('shields.io') && 
+                  !img.src.includes('badge') && 
+                  !img.src.includes('emoji')) {
                 shareImage = img.src;
+                // 确保图片URL是绝对路径
+                if (!shareImage.startsWith('http')) {
+                  shareImage = window.location.origin + (shareImage.startsWith('/') ? '' : '/') + shareImage;
+                }
                 // 更新og:image meta标签
                 document.getElementById('og-image').setAttribute('content', shareImage);
                 // 配置微信分享
@@ -364,6 +398,13 @@
                 }
               }
             });
+
+            // 如果没有找到合适的图片，使用默认图片
+            if (!shareImage) {
+              shareImage = window.location.origin + '/logo.png'; // 确保你有一个默认的logo图片
+              document.getElementById('og-image').setAttribute('content', shareImage);
+              configWxShare(shareImage);
+            }
           });
         }
       ]
