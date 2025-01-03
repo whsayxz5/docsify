@@ -8,6 +8,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- 默认主题 -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- 在其他CSS之前添加进度条样式 -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.css">
   
   <!-- 添加自定义样式 -->
   <style>
@@ -68,6 +70,58 @@
       max-width: 1200px;
       padding: 2rem 0;
       margin: 0 auto;
+      line-height: 1.7;
+      font-size: 16px;
+    }
+    
+    .markdown-section h1,
+    .markdown-section h2,
+    .markdown-section h3 {
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+      font-weight: 600;
+    }
+    
+    .markdown-section p {
+      margin: 1.2em 0;
+    }
+    
+    /* 添加文章内容块状引用样式 */
+    .markdown-section blockquote {
+      border-left: 4px solid #00A8E1;
+      background-color: rgba(0, 168, 225, 0.05);
+      padding: 1rem;
+      margin: 1rem 0;
+      border-radius: 0 4px 4px 0;
+    }
+    
+    /* 优化代码块样式 */
+    .markdown-section pre {
+      border-radius: 6px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+    
+    /* 添加链接悬停效果 */
+    .markdown-section a {
+      position: relative;
+      text-decoration: none;
+      color: #00A8E1;
+    }
+    
+    .markdown-section a:after {
+      content: '';
+      position: absolute;
+      width: 100%;
+      height: 1px;
+      bottom: 0;
+      left: 0;
+      background-color: #00A8E1;
+      transform: scaleX(0);
+      transition: transform 0.3s ease;
+    }
+    
+    .markdown-section a:hover:after {
+      transform: scaleX(1);
     }
     
     /* 当侧边栏隐藏时的样式 */
@@ -193,6 +247,61 @@
         .markdown-section {
             padding-top: 70px; /* 在移动设备上增加更多间距 */
         }
+    }
+    
+    /* 优化移动端侧边栏切换按钮 */
+    .sidebar-toggle {
+      background-color: rgba(255, 255, 255, 0.8);
+      border-radius: 0 4px 4px 0;
+      padding: 10px;
+      transition: background-color 0.3s;
+    }
+
+    .sidebar-toggle:hover {
+      background-color: rgba(255, 255, 255, 0.95);
+    }
+
+    /* 优化移动端搜索框 */
+    @media screen and (max-width: 768px) {
+      .search input {
+        font-size: 16px; /* 防止iOS自动缩放 */
+        padding: 8px 12px;
+      }
+      
+      /* 优化客服按钮在移动端的位置 */
+      #customerServiceBtn {
+        bottom: 70px;
+        right: 15px;
+        width: 45px;
+        height: 45px;
+      }
+    }
+
+    #back-to-top {
+      position: fixed;
+      bottom: 90px;
+      right: 20px;
+      width: 40px;
+      height: 40px;
+      background-color: rgba(0, 168, 225, 0.8);
+      border-radius: 50%;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all 0.3s;
+      z-index: 1000;
+    }
+
+    #back-to-top:hover {
+      background-color: rgba(0, 168, 225, 1);
+      transform: translateY(-3px);
+    }
+
+    #back-to-top svg {
+      width: 20px;
+      height: 20px;
+      fill: white;
     }
   </style>
   
@@ -327,6 +436,58 @@
       alpha: 0.08,
       angle: 45,
       density: 150  // 调整密度可以控制水印的疏密
+    });
+  </script>
+  
+  <!-- 在其他script之前添加进度条脚本 -->
+  <script src="//cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js"></script>
+  
+  <script>
+    // 配置docsify
+    window.$docsify = {
+      // 添加进度条钩子
+      plugins: [
+        function(hook) {
+          hook.beforeEach(function(content) {
+            NProgress.start();
+            return content;
+          });
+
+          hook.doneEach(function() {
+            NProgress.done();
+          });
+        },
+        // 保留原有的其他插件...
+      ]
+    }
+  </script>
+
+  <!-- 添加返回顶部按钮 -->
+  <div id="back-to-top">
+    <svg viewBox="0 0 24 24">
+      <path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"/>
+    </svg>
+  </div>
+
+  <script>
+    // 添加返回顶部功能
+    document.addEventListener('DOMContentLoaded', function() {
+      const backToTop = document.getElementById('back-to-top');
+      
+      window.addEventListener('scroll', function() {
+        if (window.scrollY > 300) {
+          backToTop.style.display = 'flex';
+        } else {
+          backToTop.style.display = 'none';
+        }
+      });
+
+      backToTop.addEventListener('click', function() {
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth'
+        });
+      });
     });
   </script>
 </body>
