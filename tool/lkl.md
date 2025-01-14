@@ -16,7 +16,7 @@
 
 > 领取复制到浏览器打开，即可获取专属收款码
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/405b76538b86bce4d50ee3c412ecb336-2.webp" style="zoom:15%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/405b76538b86bce4d50ee3c412ecb336-2.webp" width=800 /><br>
 
 ##### 二、正常下单`（代理或需要更多商户的客户）`
 
@@ -82,7 +82,7 @@
 
 ##### 三、实名认证
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/4542e5527f26f84db670365f11c1c20c-2.webp" style="zoom:35%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/4542e5527f26f84db670365f11c1c20c-2.webp" width=800 /><br>
 
 ##### 四、商户入网
 
@@ -96,19 +96,21 @@
 
 > 注意：商户名字要`大于7个字`
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/efa192d8e199a0d09e90100e9e06db7f-2.webp" style="zoom:30%;" />
+<img src="https://cos.zjkmkj.com/media/2025/01/06/3d12bed5026eb72378aedaddedccfcaa-2.webp" width=800 /><br>
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/ae96300d4815759169944e0ea8d74a41-2.webp" style="zoom:30%;" />
+<img src="https://cos.zjkmkj.com/media/2025/01/06/33d650a6323feee1f244013f288d219a-2.webp" width=800 /><br>
 
-##### 五、商户认证
+<img src="https://cos.zjkmkj.com/media/2025/01/06/4388b5a07ff96e8f14a01736b0165ed7-2.webp" width=800 /><br>
+
+五、商户认证
 
 1. 下载APP[🔗拉卡拉](https://i.lakala.com/product/lakala/d.html)
 2. 打开拉卡拉APP-`选择手机号验证码登陆`（商户进件时所使用的号码）
 3. 开始进入`实名认证过程`-按照提示将身份证信息上传-开始人脸识别-按照方框内提示的文字进行操作`（请在光线充足的地方操作）`-识别完成后自动跳转-并选择`显示入网商户`
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/af76f6b85c25b020d7d9cc4e26a1540a-2.webp" style="zoom:15%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/af76f6b85c25b020d7d9cc4e26a1540a-2.webp" width=800 /><br>
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/9c4c1b795a8fa9bf5ebc21f838e24203-2.webp" style="zoom:28%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/9c4c1b795a8fa9bf5ebc21f838e24203-2.webp" width=800 /><br>
 
 ##### 六、获取码牌
 
@@ -116,15 +118,15 @@
 
 **购买用户：**目前多卡唯一用途就是扫码，其他情况请勿下单
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/79ddbe9a873216d0788c030eb9297ea4-2.webp" style="zoom:35%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/79ddbe9a873216d0788c030eb9297ea4-2.webp" width=800 /><br>
 
 ##### 七、绑定码牌
 
 点击`拉生意APP`-点击`商户管理`-点击`商户查询`-点击`设备查询`-终端设备信息选择`码牌`，扫描卡牌上二维码即可绑定。
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/c56cb975dcaee3f1f7811566f51bbf0d-2.webp" alt="6491685410851_.pic_hd" style="zoom:35%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/c56cb975dcaee3f1f7811566f51bbf0d-2.webp" width=800 /><br>
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/4966f471d0c74ff54be795b3456b730c-2.webp"  style="zoom:35%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/4966f471d0c74ff54be795b3456b730c-2.webp" width=800 /><br>
 
 ##### 八、扫码认证`非常重要`
 
@@ -146,7 +148,13 @@
 
 > 拉卡拉最多可办理`5张/人`，使用新码牌重新入网即可
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/ad311a8e3191c54c8179d851d7f8e0fc-2.webp"  style="zoom:45%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/ad311a8e3191c54c8179d851d7f8e0fc-2.webp" width=800 /><br>
+
+##### 十一、更换结算卡
+
+`拉生意` APP-我的-已绑定-修改结算卡
+
+<img src="https://cos.zjkmkj.com/media/2025/01/06/9b6d33caa84abaef7c52d90c18378e1d-2.webp" width=800 /><br>
 
 ---
 
@@ -154,7 +162,7 @@
 
 ##### 一、修改结算卡
 
-首页钱包-提现银行卡-添加银行卡或者首页卡管理添加银行卡
+`拉生意` APP-我的-已绑定-修改结算卡
 
 ##### 二、查账热线
 

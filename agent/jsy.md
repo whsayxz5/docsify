@@ -8,15 +8,19 @@
 
 # 快速下单
 
-##### 一、加入代理（自助）
+##### 一、加入代理（自助）`方法2选1`
 
-[<img src="https://cos.zjkmkj.com/media/2024/08/20/2661a343dd6fcb32234f048fa6f6f651-2.webp" style="zoom:50%;" />](https://wxaurl.cn/f0DE1DCpj5f)
+[1、点击进行注册](https://wxaurl.cn/IBtBDKYrBrh)
+
+2、扫描下方二维码注册
+
+<img src="https://cos.zjkmkj.com/media/2025/01/06/74caeb99f1514675e02d2ad38e32c556-2.webp" width=200 /><br>
 
 ##### 二、注册代理
 
 代理商名称填写：`自己的名字`
 
-![23391697092984_.pic](https://cos.zjkmkj.com/media/2024/08/20/418db90a97a1c45ca5272bf21acfc8a3-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/418db90a97a1c45ca5272bf21acfc8a3-2.webp" width=800 /><br>
 
 ##### 三、领取码牌
 
@@ -40,19 +44,19 @@
 
 **1.设置产品结算价**
 
-![22981696906285_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/a74e9c9dd88722287fbf620e48d7adde-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/a74e9c9dd88722287fbf620e48d7adde-2.webp" width=800 /><br>
 
 **2.设置下级代费率**
 
-![22941696905232_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/d2bab6fcbd1a46af6fd6a6a737c6988a-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/d2bab6fcbd1a46af6fd6a6a737c6988a-2.webp" width=800 /><br>
 
 **3.机具划拨**
 
-![22961696905863_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/f952f27006ba730cad84ac8e392f6940-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/f952f27006ba730cad84ac8e392f6940-2.webp" width=800 /><br>
 
 **六、代理商后台切换教程**
 
-![22951696905341_.pic](https://cos.zjkmkj.com/media/2024/08/20/95f15160dfaebf85a76e7e13dcdbf351-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/95f15160dfaebf85a76e7e13dcdbf351-2.webp" width=800 /><br>
 
 ---
 
@@ -69,10 +73,8 @@
 **举例：** 金牌代理推广100户，每个客户月交易5万，实际可获得分润 `XX`元
 
 > 特别说明：代理等级按照推广用户数量决定
-> 
+>
 > **星驿付：** 代理月结
-
-
 
 ![恒信通](https://cos.zjkmkj.com/media/2024/09/27/648bc1d3937e8577a2b3ce76c4ec585c-2.webp)
 
@@ -111,4 +113,3 @@
 **三、政策查看**
 
 [点此查看](#代理政策)
-

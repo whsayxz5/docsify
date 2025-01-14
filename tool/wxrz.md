@@ -12,8 +12,6 @@
 
 四、[核实收款商户号](#核实收款商户号)
 
-五、[常见问题](#常见问题)
-
 :heart: 恭喜你，可以正常使用微信支付了
 
 ---
@@ -37,13 +35,13 @@
 
 渠道码：按照下图路径获取，不同通道对应不同渠道码
 
-![wecom-temp-3077466-87cbd1cc7aab31f2a2c173ca8a97556e](https://cos.zjkmkj.com/media/2024/08/20/f5bd6ffb73ac80f32ddaed7ece0fb4b2-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/f5bd6ffb73ac80f32ddaed7ece0fb4b2-2.webp" width=800 /><br>
 
 ##### 二、[聚收银](tool/jsy.md)
 
 渠道码：按照下图路径获取，不同通道对应不同渠道码
 
-![22901696858015_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/ad682f67541b963fb7328a7b8d03d8a8-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/ad682f67541b963fb7328a7b8d03d8a8-2.webp" width=800 /><br>
 
 ##### 三、[拉卡拉](tool/lkl.md)
 
@@ -51,19 +49,19 @@
 
 子商户号：拉生意APP-商户管理-微信实名认证-认证二维码，截图保存
 
-![1](https://cos.zjkmkj.com/media/2024/08/20/79242ec450d1495cf57c05261fe2ecd1-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/79242ec450d1495cf57c05261fe2ecd1-2.webp" width=800 /><br>
 
 ##### 四、[云付宝](tool/yfb.md)
 
 云付宝Pro-首页-扫码认证-微信-获取小程序二维码-长按复制微信子商户号/使用微信扫码进行认证
 
-![img](https://cos.zjkmkj.com/media/2024/08/20/d77fb288849a853190e2d856cfb7701b-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/d77fb288849a853190e2d856cfb7701b-2.webp" width=800 /><br>
 
 ##### 五、[至尊宝](tool/zzb.md)
 
 渠道码：按照下图路径获取
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/b47d9dade07acad011110ada5a6a59d1-2.webp" width=800 />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/b47d9dade07acad011110ada5a6a59d1-2.webp" width=800 /><br>
 
 ##### 六、[电银通](tool/dyt.md)
 
@@ -79,12 +77,16 @@
 
 渠道码：714033851
 
-子商户号：微信搜索`进钱吧掌柜`小程序-我的-商户信息-点击汇聚支付 Plus（微信）并截图去微信扫码关联
+子商户号：复制此链接发送到羊毛哥对话框点击打开`#小程序://进钱吧掌柜/qLwBbeAUAxv2rWh`-我的-商户信息-点击汇聚支付 Plus（微信）截图-去微信扫码关联
 
-<img src="https://cos.zjkmkj.com/media/2025/01/02/e8630e3456b459af3f6d85e66ef60d8e-2.webp" width=600 /><br>
+进钱吧掌柜`小程序账号`：注册手机号
+
+进钱吧掌柜`小程序密码`：abc+今天日期（例如 2025年1月3日注册，abc 都是小写，密码就是abc0103）
+
+<img src="https://cos.zjkmkj.com/media/2025/01/02/e8630e3456b459af3f6d85e66ef60d8e-2.webp" width=800 /><br>
 
 <img
-src="https://cos.zjkmkj.com/media/2025/01/02/6cf374d299339186a3c25969b42bbf39-2.webp" width=600 />
+src="https://cos.zjkmkj.com/media/2025/01/02/6cf374d299339186a3c25969b42bbf39-2.webp" width=800 />
 
 ---
 
@@ -95,6 +97,8 @@ src="https://cos.zjkmkj.com/media/2025/01/02/6cf374d299339186a3c25969b42bbf39-2.
 **一、注册商家**
 
 打开`微信扫一扫`，选择`刚刚保存的二维码`，关注`微信支付商家助手公众号`，在弹出的消息`点击开户意愿通知`，信息核实界面点击`去核实`
+
+<img src="https://cos.zjkmkj.com/media/2025/01/04/98999187fd3a0b580c6c735727f38302-2.webp" width=800 /><br>
 
 （一）注册类型
 
@@ -112,11 +116,11 @@ src="https://cos.zjkmkj.com/media/2025/01/02/6cf374d299339186a3c25969b42bbf39-2.
 
 提交后状态变为待审核，1个工作日内微信会推送审核结果
 
+<img src="https://cos.zjkmkj.com/media/2024/08/20/01638250c78b6f06bc3043ee876899ba-2.webp" width=800 /><br>
+
 ![1831710227616\pic](../media/202403121513179.jpg)
 
 ![1841710227617\pic](../media/202403121514677.jpg)
-
-![5971685343642_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/01638250c78b6f06bc3043ee876899ba-2.webp)
 
 ---
 
@@ -126,7 +130,7 @@ src="https://cos.zjkmkj.com/media/2025/01/02/6cf374d299339186a3c25969b42bbf39-2.
 
 收到商家通过审核通知后，扫第一步获取的`渠道二维码`，选择小微商户`商户_XXX`
 
-![6021685343902_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/12c63648fb853d96f95f244c41760f49-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/12c63648fb853d96f95f244c41760f49-2.webp" width=800 /><br>
 
 **二、核实收款商户号**
 
@@ -136,7 +140,7 @@ src="https://cos.zjkmkj.com/media/2025/01/02/6cf374d299339186a3c25969b42bbf39-2.
 
 > **注意：**无需重复注册小微商户，同一个小微商户可以同时认证5个子商户（超出会自动提示超过数量），不用的可以解除关联。
 
-![wecom-temp-771d439727246655b74e6d184cd32fb7](https://cos.zjkmkj.com/media/2024/08/20/cac96be372cee0622c7ca5171db1eaa3-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/cac96be372cee0622c7ca5171db1eaa3-2.webp" width=800 /><br>
 
 ##### 三、特殊情况
 
@@ -147,22 +151,3 @@ src="https://cos.zjkmkj.com/media/2025/01/02/6cf374d299339186a3c25969b42bbf39-2.
 扫第一步获取的`渠道二维码`，点击已核实商户号，取消需要关联的商户号即可。
 
 > 此为特殊操作，用于同一个服务商更换商户号/商户号权限关闭等情况
-
----
-
-# 常见问题
-
-##### 一、盛付通
-
-<img src="https://cos.zjkmkj.com/media/2024/10/28/49e9fd64e88c4601b5b03ae4b4c94a76-2.webp" width=800 />
-
-1、本次交易存在欺诈风险
-
-2、当前商户存在异常行为
-
-3、交易异常，今日不可向该商户继续付款
-
-4、交易异常，已超出今日商户微信收款限额
-
-5、信用卡消费超过当日限额，请使用零钱或借记卡支付
-

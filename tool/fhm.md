@@ -12,11 +12,11 @@
 
 ##### **一、免费领取**
 
-[<img src="https://cos.zjkmkj.com/media/2024/08/20/76571ee371ccbc819d161316375d323c-2.webp" style="zoom:33%;" />](http://u.zjkm.xyz/X5CJy)
+[<img src="https://cos.zjkmkj.com/media/2024/08/20/76571ee371ccbc819d161316375d323c-2.webp" style="zoom:33%;" />](http://t.zjkmkj.com/LxQ8)
 
 > 注：自助领取SN，无论用户/代理
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/9cd06d2f1b34510996d74672476e2037-2.webp" alt="32451702887775_.pic_hd" style="zoom:25%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/9cd06d2f1b34510996d74672476e2037-2.webp" width=800 /><br>
 
 ##### 二、一清牌照`多通道产品`
 
@@ -86,19 +86,19 @@
 
 > **审核时间**：提交后登录如提示`未激活`，等几分钟会审核完成
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/1bbcc369b1c3d435ef56d8d219f54d1e-2.webp" alt="img" style="zoom: 46%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/1bbcc369b1c3d435ef56d8d219f54d1e-2.webp" width=800 /><br>
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/bc68b49602949a946bc0552a24a9af3c-2.webp" alt="img" style="zoom: 22%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/bc68b49602949a946bc0552a24a9af3c-2.webp" width=800 /><br>
 
 ##### 四、获取SN
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/815176526659ff858649c357568b7537-2.webp" alt="img" style="zoom: 22%;" />
+<img src="https://cos.zjkmkj.com/media/2024/08/20/815176526659ff858649c357568b7537-2.webp" width=800 /><br>
 
 ##### 五、绑定卡牌
 
 点击`APP首页`-`设备管理`-`添加设备`-`SN号码输入（第二步领取的SN）`，绑定即可。
 
-![../media/3591ceb61623c8899228a9ac3a848e9f.jpg](https://cos.zjkmkj.com/media/2024/08/20/6507a004ab80f90d4a1b2982e36c821c-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/6507a004ab80f90d4a1b2982e36c821c-2.webp" width=800 /><br>
 
 ##### 六、开通扫码`非常重要`
 

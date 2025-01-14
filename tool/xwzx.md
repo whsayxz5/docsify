@@ -62,7 +62,7 @@
 
 3.人工客服会按照要求查询你名下小微商户的数量和支付公司的名称
 
-<img src="https://cos.zjkmkj.com/media/2024/11/15/c6bac2aea810472bf385d314021979f8-2.webp" width=400 />
+<img src="https://cos.zjkmkj.com/media/2024/11/15/c6bac2aea810472bf385d314021979f8-2.webp" width=800 />
 
 ##### 二、小微注销
 

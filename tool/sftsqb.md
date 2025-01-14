@@ -102,7 +102,7 @@
 
 #### 一、下载APP `盛钱呗`
 
-[苹果：点我下载](http://zqb.shengpay.com/cp-h5-nfcmerchant/download.html)
+[苹果：点我下载](https://apps.apple.com/cn/app/%E7%9B%9B%E9%92%B1%E5%91%97/id1495300221)
 
 [安卓：点我下载](http://zqb.shengpay.com/cp-h5-nfcmerchant/download.html)
 
@@ -112,7 +112,7 @@
 
 > 若之前已注册过 `盛钱呗`APP现在可以重复注册使用，一个手机号可以重复注册5次，`注册成功后，手机号将无法改变！`
 
-<img src="https://cos.zjkmkj.com/media/2024/10/28/e03274069ff442964043ae0e213b6b9a-2.webp" style="zoom: 20%;" />
+<img src="https://cos.zjkmkj.com/media/2024/10/28/e03274069ff442964043ae0e213b6b9a-2.webp" width=800 /><br>
 
 填写经营名称选择所属行业点击下一步，上传相关照片填写信息后点击下一步，输入银行卡号点击提交
 
@@ -120,13 +120,13 @@
 >
 > **店铺名切勿包含以下敏感词：** 酒店/移动/联通/电信/通讯/通信/大楼/广场/物流/有限责任/个体/商超/商户/商贸/学院/学校/国贸/旅行社/营业厅/商厦/贸易/国际/商场/合伙/股份/企业/工商/实业/烟酒/集团/公司
 
-<img src="https://cos.zjkmkj.com/media/2024/10/28/0a1aa9c23efaed2eb590957698510e43-2.webp" style="zoom: 20%;" />
+<img src="https://cos.zjkmkj.com/media/2024/10/28/0a1aa9c23efaed2eb590957698510e43-2.webp" width=800 /><br>
 
 #### 三、绑定终端
 
 盛钱呗APP-首页-绑定机具-输入机器背后的机具号-核对无误之后点击确认绑定
 
-<img src="https://cos.zjkmkj.com/media/2024/11/01/581a4aad7fdeb72ec4e084e7389ad75e-2.webp" style="zoom: 20%;" />
+<img src="https://cos.zjkmkj.com/media/2024/11/01/581a4aad7fdeb72ec4e084e7389ad75e-2.webp" width=800 /><br>
 
 #### 四、设置合并到账
 

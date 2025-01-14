@@ -2,7 +2,7 @@
 
 ##### 一、积分表`重要`
 
-![https://cos.zjkmkj.com/media/2024/12/06/3e68d733a71607911f1325c7816bef12-2.webp](https://cos.zjkmkj.com/media/2024/12/06/3e68d733a71607911f1325c7816bef12-2.webp)
+![积分规则](https://cos.zjkmkj.com/media/2025/01/06/dfb4b20fb102cc108b045e70700adf61-2.webp)
 
 **二、各行玩法速查**
 
@@ -28,6 +28,4 @@
 
 [招行专用](tool/zhzy.md)：[恒信通](tool/hxt.md)/[至尊宝](tool/zzb.md)，指定餐厅/酒店刷；配合码牌支付宝/微信，不可`小额PAY/银联扫码`
 
-[龙支付](activity/jhlzf.md)：[恒信通](tool/hxt.md)
-
-其他：[恒信通](tool/hxt.md)/[合利宝](tool/hlb.md)/[安心付](tool/axf.md)，指定有积分MCC刷；配合[恒信通](tool/hxt.md)小额PAY；配合码牌支付宝/微信/银联扫码
+其他：[恒信通](tool/hxt.md)/[合利宝](tool/hlb.md)/[安心付](tool/axf.md)，指定有积分MCC刷；配合码牌支付宝/微信/银联扫码

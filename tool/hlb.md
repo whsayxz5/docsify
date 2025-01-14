@@ -139,7 +139,10 @@ APP【首页】/【扫码认证】进行微信认证和支付宝认证，新功�
 
 > 微信支付宝扫码随缘，建议优先用[拉卡拉](tool/lkl.md)、[付惠码](tool/fhm.md)
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/8686b7545e760799de3c7d06344e6745-2.webp" alt="img" width=800 />
+
+<img src="https://cos.zjkmkj.com/media/2025/01/09/fbc092f5c45191936202d68f50c7cc20-2.webp" alt="img" width=800 />
+
+<img src="https://cos.zjkmkj.com/media/2025/01/09/308669f03eddf5a10bc11a82fa5243c1-2.webp" alt="img" width=800 />
 
 ##### 八、合并到账
 

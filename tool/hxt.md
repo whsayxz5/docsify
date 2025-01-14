@@ -122,13 +122,15 @@
 >
 > 7295家政服务-------商户简称：xx家政服务/家政
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/91a70b7fb1cf6dde872e51bb40d44439-2.webp" width=800 />
+<img src="https://cos.zjkmkj.com/media/2025/01/04/f4518bd556404d636cdbe47e747ae564-2.webp" width=800 />
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/2faa77125d09e38e1416978545d48b22-2.webp" width=800 />
+<img src="https://cos.zjkmkj.com/media/2025/01/04/185b5921ab7e27a0486deae969d30836-2.webp" width=800 />
 
 ##### 四、开通扫码
 
 `小程序首页-我的-提额认证`，绑定任意本人信用卡，使用绑定信用卡刷卡（不包括pay/扫码）`1000元`以上，次日自动开通扫一扫（`机器菜单-扫一扫`，支持支付宝）
+
+<img src="https://cos.zjkmkj.com/media/2025/01/04/3406b7a48f3ed006fcb457050fe42d29-2.webp" width=400 />
 
 ##### 五、正常使用
 
@@ -151,6 +153,8 @@
 ##### 七、合并结算
 
 小程序首页-我的-设置-结算方式-定期结算打开-选择手动结算（刷卡到余额）
+
+> 合并到账最高`5万元`
 
 ##### 八、扫码认证
 

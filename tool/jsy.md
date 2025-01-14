@@ -19,7 +19,7 @@
 
 **快捷方便**：无需机器，在线注册，完全免费
 
-**聚合支付**：快付通/恒信通/拉卡拉等，多支付通道，可快捷/微信/支付宝/银联扫码`暂时下线`
+**聚合支付**：快付通/恒信通/拉卡拉等，多支付通道，可快捷/微信/支付宝/~~银联扫码~~
 
 **笔笔有分：** 不在任何黑名单，全行有分
 
@@ -73,13 +73,13 @@
 
 ##### [🔗 点我领取](http://u.zjkm.xyz/X5CJy)自助领取
 
-![](https://cos.zjkmkj.com/media/2024/08/20/93ed4c477be9f80e86ed40b04583507b-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/93ed4c477be9f80e86ed40b04583507b-2.webp" width=800 /><br>
 
 **二、用户注册**
 
 `第一步领取的网址`，发送到任意微信聊天框，点击链接开始注册
 
-![](https://cos.zjkmkj.com/media/2024/12/20/136e94928848fee0ac87fdef27d4b318-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/12/20/136e94928848fee0ac87fdef27d4b318-2.webp" width=800 /><br>
 
 ##### 二、开通商户
 
@@ -87,25 +87,25 @@
 
 > 广发银行限制餐饮类交易，关键字：餐、饮、烧烤、糕、馆、麻辣烫、吃、饭、米线、饺、菜、食、火锅、肉、汤、花甲、黄焖鸡、披萨、砂锅、饺、水果捞、奶茶、包子、早餐、鸡排等
 
-![22881696857690_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/08363b833c8d9a69a21dcf0fd0cc3229-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/08363b833c8d9a69a21dcf0fd0cc3229-2.webp" width=800 /><br>
 
 **（二）开通恒信通支付**
 
 > 恒信通商户名称建议: xx市xx行业
 
-![31011702174061_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/9d9c6fe4ece2d78fa817dbe6416edf5d-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/9d9c6fe4ece2d78fa817dbe6416edf5d-2.webp" width=800 /><br>
 
 **（三）开通首信易**
 
 > **[👉点我下载首信易钱包](https://webox.5upay.com/shouhuibao/index)**
 
-![../media/24838dd0db59410ab851b775d8c97c9cb22.jpg](https://cos.zjkmkj.com/media/2024/08/20/53795eb3caae9440389114287ca783e6-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/53795eb3caae9440389114287ca783e6-2.webp" width=800 /><br>
 
-![../media/2484385a19342fa806698cad6b07e60615f.jpg](https://cos.zjkmkj.com/media/2024/08/20/d7ba2dcf588ed47cdfd031fade580c47-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/d7ba2dcf588ed47cdfd031fade580c47-2.webp" width=800 /><br>
 
 **（四）开通拉卡拉**
 
-![../media/248915e9d179f7a283ac1cc01abf12ee620.jpeg](https://cos.zjkmkj.com/media/2024/08/20/ff25df5211714a65df8a747dc124a4d0-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/ff25df5211714a65df8a747dc124a4d0-2.webp" width=800 /><br>
 
 **（五）开通银盛码**
 
@@ -113,11 +113,11 @@
 >
 > 注意：门头环境照片不能乱拍其他不相关信息
 
-![../media/2487aec5fa180b00c9bc8188b45622e32d1.jpg](https://cos.zjkmkj.com/media/2024/08/20/649a687575f68810ff2b3695001ce18d-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/649a687575f68810ff2b3695001ce18d-2.webp" width=800 /><br>
 
 **（六）开通电银通**
 
-![](https://cos.zjkmkj.com/media/2025/01/02/c018eb2d313646a678ef696b054ff0ce-2.webp)
+<img src="https://cos.zjkmkj.com/media/2025/01/02/c018eb2d313646a678ef696b054ff0ce-2.webp" width=800 /><br>
 
 ##### 四、扫码认证 `微信支付宝需要认证`
 
@@ -129,6 +129,8 @@
 
 👉`商户运营管理助手`小程序 -码牌-截图保存，保存收款码即可
 
+<img src="https://cos.zjkmkj.com/media/2025/01/04/7a8b6cc918c4c5583ec37059f8d64ac0-2.webp" width=400 /><br>
+
 ##### 六、正常使用
 
 **快捷支付：**微信扫码-扫收款码，选择特惠支付/标准支付，绑卡交易即可。
@@ -139,7 +141,7 @@
 
 **支付宝支付：**支付宝扫码-扫收款码，选择支付宝-选择通道商户，按照提示付款即可。
 
-![](https://cos.zjkmkj.com/media/2024/12/20/764d9a3b4995395ad2464c0f4ca97a38-2.webp)
+<img src="https://cos.zjkmkj.com/media/2025/01/04/225c88f303fa35a9ba73fa0688c06936-2.webp" width=800 /><br>
 
 ##### 七、一键开通功能
 
@@ -147,7 +149,7 @@
 
 > 其他渠道根据基本信息匹配，也可以点修改资料改名称
 
-![../media/24581b5de3788eba5d709b4232fd0f89bcc.jpg](https://cos.zjkmkj.com/media/2024/08/20/eb74cc3acb84aea52948a4b6ad23b8cb-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/eb74cc3acb84aea52948a4b6ad23b8cb-2.webp" width=800 /><br>
 
 ---
 
