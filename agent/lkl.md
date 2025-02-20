@@ -28,22 +28,20 @@
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/9b91c0d93423a280f7264a6b55e158d5-2.webp" alt="6441685409505_.pic" style="zoom:50%;" />
 
-![../media/2451124b7aec1efd557a7e7670024c332fb.jpg](https://cos.zjkmkj.com/media/2024/08/20/88422995961d6a4adcdb99317e425da6-2.webp)
+
+<img src="https://cos.zjkmkj.com/media/2024/08/20/88422995961d6a4adcdb99317e425da6-2.webp" alt="6441685409505_.pic" style="zoom:50%;" />
 
 
-##### 四、获取码牌
+##### 四、操作说明
 
-[<img src="https://cos.zjkmkj.com/media/2024/08/20/81c3189690382f4647430579e20d5490-2.webp" style="zoom:50%;" />](http://kmshop.zjkmkj.com/pages/goods_details/index?id=50)
+用户实名、商户认证、码牌使用等流程：[点我直达](tool/lkl.md)
 
-> 代理用户也可通过我司小程序直接领取使用，按需下单
+##### 五、邀请下级代理
 
-##### 五、操作说明
+`拉生意`APP-拓展合作方-分享注册即可
 
-用户实名、码牌绑定等流程：[点我直达](tool/lkl.md)
+<img src="https://cos.zjkmkj.com/media/2025/01/24/2c4dff18406b7e9cc42e171f6db9bb78-2.webp" alt="6441685409505_.pic" style="zoom:50%;" />
 
-##### 六、邀请下级代理
-
-拉生意APP-拓展合作方-分享注册即可
 
 ---
 

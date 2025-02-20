@@ -10,7 +10,7 @@
 
 **刷卡：**[恒信通](tool/hxt.md)/[合利宝](tool/hlb.md)/[安心付](tool/axf.md)/[至尊宝](tool/zzb.md)/[电银通](tool/dyt.md)/[盛付通](tool/sftsqb.md)
 
-**扫码：**[拉卡拉](tool/lkl.md)/[付惠码](tool/fhm.md)/[聚收银](tool/jsy.md)
+**扫码：**[拉卡拉](tool/lkl.md)/[付惠码](tool/fhm.md)/[聚收银](tool/jsy.md)/[进钱吧](tool/jqb.md)/[综易付](tool/zyf.md)
 
 **快捷：**[聚收银](tool/jsy.md)
 
@@ -34,7 +34,7 @@
 
 **微信/支付宝**
 
-> [拉卡拉](tool/lkl.md)/[付惠码](tool/fhm.md)/[聚收银](tool/jsy.md)/[合利宝](tool/hlb.md)/[电银通](tool/dyt.md)/[盛付通](tool/sftsqb.md)
+> [拉卡拉](tool/lkl.md)/[付惠码](tool/fhm.md)/[聚收银](tool/jsy.md)/[合利宝](tool/hlb.md)/[电银通](tool/dyt.md)/[盛付通](tool/sftsqb.md)/[进钱吧](tool/jqb.md)/[综易付](tool/zyf.md)
 
 **快捷支付**
 
@@ -46,13 +46,13 @@
 
 **手机闪付**
 
-> `暂时下线`[恒信通](tool/hxt.md)
+> `暂时下线`[恒信通](tool/hxt.md)/[综易付](tool/zyf.md)
 
 **龙支付**
 
 > `暂时下线`[恒信通](tool/hxt.md)
 
-![最新神器](https://cos.zjkmkj.com/media/2025/01/10/3462c82ad01bbe6b61b38689a4f6deb4-2.webp)
+![最新神器](https://cos.zjkmkj.com/media/2025/02/15/c1d3a7376a12246384b425a5ece36231-2.webp)
 
 ---
 
@@ -80,9 +80,13 @@
 
 👉[付惠码](tool/fhm.md)：微信/支付宝
 
+👉[进钱吧](tool/jqb.md)：微信/支付宝
+
+👉[综易付](tool/zyf.md)：微信/支付宝/云闪付
+
 👉[聚收银](tool/jsy.md)：微信/支付宝/快捷支付
 
-👉[拉卡拉](tool/lkl.md)：微信/支付宝/云闪付，支持加油
+👉[拉卡拉](tool/lkl.md)：微信/支付宝，支持加油
 
 ---
 

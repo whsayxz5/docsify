@@ -30,8 +30,6 @@
 
 [十三、仟一](#十三、仟一)
 
-[十四、联迪](#十四、联迪)
-
 ---
 
 # 一、联迪
@@ -48,7 +46,7 @@
 
 **维修报备：**无需报备
 
-**售后服务流程：**咨询售后热线(13705053305)[](http://voice.google.com/calls?a=nc,%2B13705053305 "Call +1 370-505-3305 via Google Voice")[](http://voice.google.com/calls?a=nc,%2B13705053305 "Call +1 370-505-3305 [](http://voice.google.com/calls?a=nc,%2B13705053305 "Call +1 370-505-3305 via Google Voice")[](http://voice.google.com/calls?a=nc,%2B13705053305 "Call +1 370-505-3305 via Google Voice")[](http://voice.google.com/calls?a=nc,%2B13705053305 "Call +1 370-505-3305 via Google Voice")via Google Voice")[](http://voice.google.com/calls?a=nc,%2B13705053305 "Call +1 370-505-3305 [](http://voice.google.com/calls?a=nc,%2B13705053305 "Call +1 370-505-3305 via Google Voice")via Google Voice")，排查是否是硬件问题，非硬件问题，热线直接解决；如果是硬件问题，售后会提供售后地址，寄修，正常3-5工作日寄回客户。
+**售后服务流程：**咨询售后热线[13705053305](http://voice.google.com/calls?a=nc,%2B13705053305 "Call +1 370-505-3305 via Google Voice")，排查是否是硬件问题，非硬件问题，热线直接解决；如果是硬件问题，售后会提供售后地址，寄修，正常3-5工作日寄回客户。
 
 **维修联系地址：**福建省福州市仓山区盖山镇盘屿路 869号金山工业区福湾园14号楼附属楼二楼
 
@@ -192,11 +190,3 @@
 > 请让快递联系该号码
 
 **软件服务：**吕鑫鑫18702548503
-
----
-
-# 十四、联迪
-
-**收件人：**
-
-**回寄地址：**

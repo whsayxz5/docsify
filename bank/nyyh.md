@@ -45,6 +45,8 @@
 
 <img src="https://cos.zjkmkj.com/media/2024/10/16/b7db5f498e13f0a336b87144615f999e-2.webp" width=800 />
 
+<img src="https://cos.zjkmkj.com/media/2024/10/16/b7db5f498e13f0a336b87144615f999e-2.webp" width=800 />
+
 **（一）公务卡**
 
 永久1.5倍积分，能办必办
@@ -69,7 +71,7 @@
 
 **一、建议神器（点击下单）**
 
-[合利宝](tool/hlb.md)、[恒信通](tool/hxt.md)、[合利宝](tool/hlb.md)、[拉卡拉](tool/lkl.md)
+[合利宝](tool/hlb.md)、[恒信通](tool/hxt.md)、[拉卡拉](tool/lkl.md)
 
 **二、标准积分流程**
 
@@ -94,6 +96,8 @@
 ---
 
 # 尊然白金卡精粹版
+
+<img src="https://cos.zjkmkj.com/media/2024/08/20/8d3b251c7bae5bbf56f86366efc770d0-2.webp" alt="img" width=200 />
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/8d3b251c7bae5bbf56f86366efc770d0-2.webp" alt="img" width=200 />
 
@@ -135,6 +139,8 @@
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/bd40984acf9a64f76907c393b1f0903b-2.webp" alt="img" width=200 />
 
+<img src="https://cos.zjkmkj.com/media/2024/08/20/bd40984acf9a64f76907c393b1f0903b-2.webp" alt="img" width=200 />
+
 **（一）年费标准**
 
 免年费
@@ -167,6 +173,8 @@
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/6f4180da120048f444d8092fb70f6993-2.webp" alt="img" width=200 />
 
+<img src="https://cos.zjkmkj.com/media/2024/08/20/6f4180da120048f444d8092fb70f6993-2.webp" alt="img" width=200 />
+
 **（一）年费标准**
 
 首年免费，消费满3万元免次年年费
@@ -189,6 +197,8 @@
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/7e8bbce07d65e0461c15216176799131-2.webp" alt="img" width=200 />
 
+<img src="https://cos.zjkmkj.com/media/2024/08/20/7e8bbce07d65e0461c15216176799131-2.webp" alt="img" width=200 />
+
 **年费政策**：
 
 首年免费，消费满3万元免次年年费
@@ -203,6 +213,8 @@
 ---
 
 # 银联尊然白
+
+<img src="https://cos.zjkmkj.com/media/2024/08/20/762ddc8b411412ca5e06a64ec852bc98-2.webp" alt="img" width=200 />
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/762ddc8b411412ca5e06a64ec852bc98-2.webp" alt="img" width=200 />
 
@@ -226,6 +238,8 @@
 
 <img src="https://cos.zjkmkj.com/media/2024/08/20/f8b986c4de41c076b14ec073d5ab7887-2.webp" alt="img" width=200 />
 
+<img src="https://cos.zjkmkj.com/media/2024/08/20/f8b986c4de41c076b14ec073d5ab7887-2.webp" alt="img" width=200 />
+
 > 农行航司白等同于精粹白+航司联名卡，可享受精粹白一样的无限次机场贵宾厅。
 
 **年费政策**：
@@ -245,6 +259,8 @@
 
 <img src="https://cos.zjkmkj.com/media/2024/09/13/17f99086edac1cf0d429f0ed4ccb7fc8-2.webp" alt="img" width=200 />
 
+<img src="https://cos.zjkmkj.com/media/2024/09/13/17f99086edac1cf0d429f0ed4ccb7fc8-2.webp" alt="img" width=200 />
+
 > 俗称黑神庙卡，卡等级为金卡，主要特点是Visa双标，审批难度较低，可参加活动，外加农行天天返现等活动，是一个不错的农行入门卡。
 
 **年费政策**：
@@ -259,6 +275,8 @@
 ---
 
 # 乐绚万事达白金卡
+
+<img src="https://cos.zjkmkj.com/media/2024/09/13/102ee872283dbf8e13651c8b9eaf3d0b-2.webp" alt="img" width=200 />
 
 <img src="https://cos.zjkmkj.com/media/2024/09/13/102ee872283dbf8e13651c8b9eaf3d0b-2.webp" alt="img" width=200 />
 

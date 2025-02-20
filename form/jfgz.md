@@ -12,7 +12,7 @@
 
 [民生专用](tool/mszy.md)：[恒信通](tool/hxt.md)/[合利宝](tool/hlb.md)/[安心付](tool/axf.md)，指定餐厅/酒店刷；不可`PAY/扫码`
 
-[浦发专用](tool/pfzy.md)：[恒信通](tool/hxt.md)/[合利宝](tool/hlb.md)/[安心付](tool/axf.md)，指定餐厅/酒店刷，配合码牌支付宝/微信/银联扫码
+[浦发专用](tool/pfzy.md)：[恒信通](tool/hxt.md)，指定餐厅/酒店刷，配合码牌支付宝/微信/银联扫码
 
 [广发专用](tool/gfzy.md)：[恒信通](tool/hxt.md)/[至尊宝](tool/zzb.md)/[合利宝](tool/hlb.md)/[安心付](tool/axf.md)，配合码牌支付宝/微信/银联扫码`（有分，不一定能过）`
 

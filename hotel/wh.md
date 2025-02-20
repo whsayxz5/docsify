@@ -2,9 +2,9 @@
 
 万豪的银卡和金卡除了多点入住积分，没有任何用处。如果打算玩万豪，白金才是起步。当然你可以老老实实住够50晚，不过没有待遇住50晚一是烧钱二是难受，有会员待遇加持才更有性价比。此处提供捷径可直升白金/轻松保级：
 
-![万豪快速升级](https://cos.zjkmkj.com/media/2024/08/20/db5e39cf7bbc4628538c1ca07c9be284-2.webp)
+![万豪快速升级](https://cos.zjkmkj.com/media/2025/02/11/74b2f4eb84936ed7bc9975993c6d5f75-2.webp)
 
-**一、直升万豪白金卡**
+##### 一、直升万豪白金卡
 
 **（一）淘宝88VIP：8N升白金卡**
 
@@ -49,7 +49,7 @@
 
 3.费用2400元，房晚到账完成升级
 
-**二、单刷SNP（300元）**
+##### 二、单刷SNP（300元）
 
 **（一）适合用户**
 
@@ -65,7 +65,7 @@
 
 **2.费用300元，3天左右到账**
 
-**三、在线账号激活**
+##### 三、在线账号激活
 
 1.登录[:link: 万豪官网](https://www.marriott.com)，点右上角` Sign In or Join`，在弹出的界面里点`Create online account`，在左边需要完善的`Membership Information`里，`Member Number`填上上面的飞猪给你的会员号，其他信息按实际来，
 
@@ -75,6 +75,18 @@
 
 4.完成账号激活后就可以在万豪app登陆了，变白金也可以直接看到
 
+##### 四、Q1活动
+
+**活动内容：**每晚1000积分+1个奖励房晚（双倍房晚），一共77晚
+
+**注册时间：**即日起至2025年4月14日
+
+**入住时间：**2025年2月11日至4月28日
+
+**注册路径：**万豪旅享家APP-账户-推广与优惠
+
+> 想要快速提升等级的，可以找[👉羊毛哥](http://u.zjkmkj.com/unVf1)代刷
+
 ---
 
 # 万豪简介
@@ -83,7 +95,7 @@ Marriott 集团自1957年成立首间万豪酒店以来，已经发展为全球�
 
 整个品牌分布横跨从奢华到经济，从经典到时尚，行业巨无霸的存在。要注意的是 Ritz-Carlton Reserve, BVLGARI 这两个品牌并不参与会员项目，此外小部分29个品牌中的酒店也不参与。
 
-![img](https://cos.zjkmkj.com/media/2024/08/20/368a8e13edf1407d7b49e8153ad4a2a8-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/368a8e13edf1407d7b49e8153ad4a2a8-2.webp" width=800 />
 
 **一、奢华酒店：**
 
@@ -157,7 +169,7 @@ Marriott 集团自1957年成立首间万豪酒店以来，已经发展为全球�
 
 **一、会员等级待遇**
 
-![万豪会员待遇](https://cos.zjkmkj.com/media/2024/08/20/029c8e9810fc18a98f0c586ec34a22d2-2.webp)
+![万豪](https://cos.zjkmkj.com/media/2025/02/11/b104ac81a8dea7ad9324bf1e063a3ca2-2.webp)
 
 **普卡会员（Member）：**注册初始级别
 
@@ -237,7 +249,7 @@ Marriott 集团自1957年成立首间万豪酒店以来，已经发展为全球�
 
 3、点击之后会跳转至下列表格-按照表格要求填写-即完成账户合并
 
-![image-20230826135824088](https://cos.zjkmkj.com/media/2024/08/20/08630363128c3f7fd0ffcc806f1d4b7c-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/08630363128c3f7fd0ffcc806f1d4b7c-2.webp" width=800 />
 
 ---
 
@@ -260,7 +272,7 @@ Marriott 集团自1957年成立首间万豪酒店以来，已经发展为全球�
 
 **大使服务：**专人负责帮你安排你的出行计划，包括酒店预订/餐厅预定等等，同时大使也可以帮你去找酒店谈心升级（实测下来不同大使能力差别也蛮大，不用期待太高）
 
-### **二、早餐(欢迎礼) & 酒廊**
+**二、早餐(欢迎礼) & 酒廊**
 
 早餐和酒廊是高级会员最实在的福利之一：
 
@@ -268,7 +280,7 @@ Marriott 集团自1957年成立首间万豪酒店以来，已经发展为全球�
 - 如果酒店有行政酒廊，一般提供酒廊早餐（简易点），那么欢迎礼就可以直接选积分然后去酒廊吃早餐
 - 简单选择，如果送早餐就选积分；如果不送早餐就选早餐
 
-### **三、房型升级**
+**三、房型升级**
 
 除了早餐和酒廊，房型升级也是实打实的白金福利，白金会员免费升级套房向来很吸引眼球。关于这项福利的通常规则：
 
@@ -281,9 +293,9 @@ Marriott 集团自1957年成立首间万豪酒店以来，已经发展为全球�
 - 关于升级优先级，酒店系统确实用代码显示会员等级，所以是有优先级的。通常来说：`现金直接定> 业主推荐/隐藏会籍 > 终身白金/酒店常住客 > 大使>钛金>白金 > 金卡`
 - FHR/Virtuoso 等预定可以当做是一个白金入住，同样会给予一定升级
 
-### **四、年度礼遇：50/75晚奖励**
+**四、年度礼遇：50/75晚奖励**
 
-![image-20220801221552395](https://cos.zjkmkj.com/media/2024/08/20/55b4fb1eb06846a2a0445ca86f21aa33-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/55b4fb1eb06846a2a0445ca86f21aa33-2.webp" width=800 />
 
 当年有效入住达到50晚和75晚时，可选择一次年度礼遇，[点此链接选择](https://choice-benefit.marriott.com/)
 
@@ -314,7 +326,7 @@ Marriott 集团自1957年成立首间万豪酒店以来，已经发展为全球�
 - 国内目前免房券最佳使用酒店为：上海W、上海艾迪逊、南京丽思卡尔顿等
 - 免房券目前可以预定不超过房券15000分的酒店，超出部分积分由账户积分额外扣除
 
-### **五、套房券使用介绍**
+**五、套房券使用介绍**
 
 旺季谈心不见得能成功升级，想要提前锁定更好的房，套房券就是最好的选择（不仅是Marriott, Hyatt也一样）。套房券(Suite Night Award, 简称SNA)作用是提前锁定更好的房间：
 
@@ -329,11 +341,19 @@ Marriott 集团自1957年成立首间万豪酒店以来，已经发展为全球�
 - 如果有房，那么系统会自动确认升级请求；如果没房，那么系统重复这个步骤。
 - **如果直到到达前1天还是无法确认升级，那么系统会自动退货你的套房券。**
 
-具体操作步骤很简单，登录账户之后在 My Trips 标签页下面可以看到你接下来的行程，点击 View/Modify 到预定信息页面：![img](https://cos.zjkmkj.com/media/2024/08/20/a6f8fe6a042ce22d7367a9ad80310a0c-2.webp)
+具体操作步骤很简单，登录账户之后在 My Trips 标签页下面可以看到你接下来的行程，点击 View/Modify 到预定信息页面：
 
-在预定信息页面你应该能看到如下请求升级的按钮。点击进入房型选择页面。![img](https://cos.zjkmkj.com/media/2024/08/20/4aa0ea0548b3be3734d34d1c039377d3-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/a6f8fe6a042ce22d7367a9ad80310a0c-2.webp" width=800 />
 
-在房型选择页面，一般都有多个房型可供选择。系统允许一张券多选，确认时应该是从高到低挨个筛查是否可升级。多选可以增加升级的概率。![img](https://cos.zjkmkj.com/media/2024/08/20/b6ef54ead0cda15175c6ca4b6236a677-2.webp)
+在预定信息页面你应该能看到如下请求升级的按钮。点击进入房型选择页面。
+
+<img src="https://cos.zjkmkj.com/media/2024/08/20/4aa0ea0548b3be3734d34d1c039377d3-2.webp" width=800 />
+
+在房型选择页面，一般都有多个房型可供选择。系统允许一张券多选，确认时应该是从高到低挨个筛查是否可升级。多选可以增加升级的概率。
+
+<img src="https://cos.zjkmkj.com/media/2024/08/20/b6ef54ead0cda15175c6ca4b6236a677-2.webp" width=800 />
+
+<img src="https://cos.zjkmkj.com/media/2024/08/20/4aa0ea0548b3be3734d34d1c039377d3-2.webp" width=800 />
 
 如果你想使用套房券却发现网页提示 “Suite Night Awards cannot be used for this reservation”，一般是以下几种原因：
 
@@ -393,7 +413,7 @@ Marriott 里程转为UA里程时可以享受 10% 加成（包括大礼包），�
 
 每次在酒店产生的合格消费都可以积累积分，**在万豪旗下绝大部分品牌，每1美元合格消费可以积累10分基础分**：
 
-![img](https://cos.zjkmkj.com/media/2024/08/20/5772268e67813b2a2bf51d86c5a0efda-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/5772268e67813b2a2bf51d86c5a0efda-2.webp" width=800 />
 
 - 注意 Residece Inn, TownePlace Suites, Element 这三个品牌1美元合格消费只能积累5分基础分，Marriott Executive Apartments & ExecuStay 这两个品牌只有每1美元房费积累2.5分（注意只有房费）。Ritz-Carlton Reserve, Bulgari 这两个品牌不参与 loyalty program。
 
@@ -414,7 +434,9 @@ Marriott 里程转为UA里程时可以享受 10% 加成（包括大礼包），�
 
 **（二）促销活动**
 
-万豪每年都有3-4次季度促销: MegaBonus，一般就是入住送额外积分，住得越多拿的越多，一般算下来平均一晚可以多拿一两千分。![img](https://cos.zjkmkj.com/media/2024/08/20/dc2a9af22ee5755329a3bd802151db3e-2.webp)
+万豪每年都有3-4次季度促销: MegaBonus，一般就是入住送额外积分，住得越多拿的越多，一般算下来平均一晚可以多拿一两千分。
+
+<img src="https://cos.zjkmkj.com/media/2024/08/20/dc2a9af22ee5755329a3bd802151db3e-2.webp" width=800 />
 
 **（三）转分**
 
@@ -448,7 +470,7 @@ Refer的入口在这里：[Marriott Rewards Refer a Friend](http://www.marriott.
 
 除了标准兑换，万豪还有一个PointSavers和C+P兑换。PointSavers就是万豪会挑选一些酒店给你额外的积分兑换折扣，基本上没啥用，看标准积分兑换就够了。
 
-![image.png](https://cos.zjkmkj.com/media/2024/08/20/16d8a71639c7c30d20d0fdb8e7d1db00-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/16d8a71639c7c30d20d0fdb8e7d1db00-2.webp" width=800 />
 
 **（二） 住四送一**
 
@@ -482,21 +504,27 @@ Rewards Moment，简单说就是你可以用积分兑换或者竞拍一些活动
 
 **（一）Culinary**
 
-餐饮活动，时常会推出一些和世界知名餐馆合作的体验活动。你可以获得和米其林餐厅主厨近距离接触交流厨艺的机会。![img](https://cos.zjkmkj.com/media/2024/08/20/44bc2b5be6ea61f33896d6df4f6f71db-2.webp)
+餐饮活动，时常会推出一些和世界知名餐馆合作的体验活动。你可以获得和米其林餐厅主厨近距离接触交流厨艺的机会。
+
+<img src="https://cos.zjkmkj.com/media/2024/08/20/44bc2b5be6ea61f33896d6df4f6f71db-2.webp" width=800 />
 
 **（二）Lifestyle**
 
-生活体验，探访知名地标体验著名景点等等，很多时候会附带当地知名酒店的住宿。![img](https://cos.zjkmkj.com/media/2024/08/20/b0c5e70724879c80365a2697cceb2d1a-2.webp)
+生活体验，探访知名地标体验著名景点等等，很多时候会附带当地知名酒店的住宿。
+
+<img src="https://cos.zjkmkj.com/media/2024/08/20/3809b352c9a465c351f2fa6441eb0239-2.webp" width=800 />
 
 **（三）Sports**
 
-体育竞技，篮球、棒球、足球、F1、高尔夫都是常见选项。比如美网竞拍你可以体验包厢看球，甚至还能和球星互动。F1你将有机会直接进到围场内部，参观车队维修间等等。![img](https://cos.zjkmkj.com/media/2024/08/20/3809b352c9a465c351f2fa6441eb0239-2.webp)
+体育竞技，篮球、棒球、足球、F1、高尔夫都是常见选项。比如美网竞拍你可以体验包厢看球，甚至还能和球星互动。F1你将有机会直接进到围场内部，参观车队维修间等等。
+
+<img src="https://cos.zjkmkj.com/media/2024/08/20/b0c5e70724879c80365a2697cceb2d1a-2.webp" width=800 />
 
 **（四）Entertainment**
 
 娱乐休闲，主要是各类音乐节。经常和各大演唱会场馆有长期合作，比如上海梅赛德斯奔驰文化中心的各类演出就经常出现在竞拍列表上。
 
-![img](https://cos.zjkmkj.com/media/2024/08/20/07920c1551ee54ce5f53337846e01d26-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/07920c1551ee54ce5f53337846e01d26-2.webp" width=800 />
 
 **六、房券获取和使用**
 

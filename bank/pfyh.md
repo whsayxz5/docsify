@@ -14,7 +14,7 @@
 
 **（一）16万联名卡里程**`价值10000元`
 
-**日航联名卡`停发`**：6万日航里程(15:1)
+**日航联名卡`停发`：**6万日航里程(15:1)
 
 **东航钛金卡**：10万东航里程(14:1)
 
@@ -26,7 +26,7 @@
 
 **（三）卡片配置**
 
-**建议配置**：美运超白金卡（满分神卡）/美国运通白金卡+日航卡+东航钛金卡+
+**建议配置**：美运超白金卡（满分神卡）/美国运通白金卡+日航卡+东航钛金卡
 
 **（四）其他权益**
 
@@ -54,19 +54,23 @@
 
 **一、不计积分平台**[公告链接](https://ccc.spdb.com.cn/miniSite/integral/daima.shtml)
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/56f048668ddb6df692a3fe701b0e04da-2.webp" alt="image.png" width=800 />
+![浦发专用](https://cos.zjkmkj.com/media/2025/02/05/492cf4600ad94fc37c771c96dfeddd52-2.webp)
 
 
 | 支付平台 | 机构号 | 支付平台 | 机构号 |
 | :------: | :----: | :------: | :----: |
 | 卡友支付 |  801  |   中付   |  847  |
-|   汇付   |  823  |   钱宝   |  848  |
+|  拉卡拉  |  822  |   钱宝   |  848  |
+|   汇付   |  823  | 嘉联支付 |  849  |
 |   银盛   |  826  |  付临门  |  850  |
 | 联动优势 |  829  | 国通星驿 |  857  |
 | 易生支付 |  831  |  和融通  |  864  |
-| 现代金控 |  834  |  瑞银信  |  887  |
+| 海科融通 |  833  |  瑞银信  |  887  |
+| 现代金控 |  834  |   乐刷   |  890  |
 |  随行付  |  836  |  畅捷通  |  900  |
-|  点百趣  |  843  |          |        |
+|  开店宝  |  843  |  合利宝  |  928  |
+| 电银信息 |  872  |  盛付通  |  482  |
+|   杉德   |  827  |          |        |
 
 ##### 二、专用玩法
 
@@ -90,25 +94,13 @@
 
 [贵宾厅](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_01_01.shtml#Menu=ChildMenu1)：全年不限次龙腾贵宾厅，每次可免费携3人次
 
-[接送机](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_01_06.shtml#Menu=ChildMenu1)：`8次`免费境内接送机、`4次`100元/次境外接送机
-
-> 2025年1月1日起修改为`2次`境内接送机、`1次`境外接送机
-
-[亲子乐园](https://ccc.spdb.com.cn/miniSite/Platamex2018/new21.shtml#Menu=ChildMenu2)：消费达标最多赠送`6`点，`羊毛哥高价回收`
-
-[缤纷文旅](https://ccc.spdb.com.cn/miniSite/Platamex2018/new211.shtml#Menu=ChildMenu2)：持卡年限达标+消费达标最多赠送6点
-
-[文化馆](https://ccc.spdb.com.cn/miniSite/Platamex2018/new211.shtml#Menu=ChildMenu2)：消费达标最多赠送`12`点
-
-> 2025年1月1日起将取消⬆️亲子乐园、缤纷文旅、文化馆权益内容
+[接送机](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_01_06.shtml#Menu=ChildMenu1)：`2次`免费境内接送机、`1次`100元/次境外接送机
 
 [酒店住宿](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_01_031.shtml#Menu=ChildMenu1)：免费入住`4晚`“星级酒店”权益或者`2晚`“高价酒店”入住权益
 
 [电影票](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_03_02.shtml#Menu=ChildMenu3)：月消费18888元，送`6点`观影券，上限`18点`
 
-[境外返现](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_01_08.shtml#Menu=ChildMenu1)：境外线下消费`10%`消费金额刷卡金回馈，每年限`6次`，最多`18000元`
-
-> 2025年1月1日起修改为上限`1000`元
+[境外返现](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_01_08.shtml#Menu=ChildMenu1)：境外线下消费`10%`消费金额刷卡金回馈，每年限`6次`，最多`1000元`
 
 [靠浦飞延误险](https://ccc.spdb.com.cn/miniSite/privatebanking2018/iframe_01_10.shtml#Menu=ChildMenu1)：延误`2小时`起赔付机票款（最高1500元）
 
@@ -140,25 +132,11 @@
 
 **（三）主要权益**
 
-[贵宾厅](https://ccc.spdb.com.cn/miniSite/Platamex2018/1_0.shtml#Menu=ChildMenu1)：基础`2`次贵宾厅，消费达标最多赠送`6`次，共`8`次
+[贵宾厅](https://ccc.spdb.com.cn/miniSite/Platamex2018/1_0.shtml#Menu=ChildMenu1)：基础`2`次贵宾厅，消费达标最多赠送`2`次，共`4`次
 
-> 2025年1月1日起季度消费满`6万`送2点
+[境内接送机](https://ccc.spdb.com.cn/miniSite/Platamex2018/1_1.shtml#Menu=ChildMenu1)：基础`2`次免费境内接送机、消费达标最多赠送`1`次，共`3`次
 
-[境内接送机](https://ccc.spdb.com.cn/miniSite/Platamex2018/1_1.shtml#Menu=ChildMenu1)：基础`2`次免费境内接送机、消费达标最多赠送`3`次，共`5`次
-
-> 2025年1月1日起季度消费满`6万`送1点
-
-[亲子乐园](https://ccc.spdb.com.cn/miniSite/Platamex2018/new21.shtml#Menu=ChildMenu2)：消费达标最多赠送`12`点，`羊毛哥高价回收`
-
-[缤纷文旅](https://ccc.spdb.com.cn/miniSite/Platamex2018/new211.shtml#Menu=ChildMenu2)：持卡年限达标+消费达标最多赠送6点
-
-[文化馆](https://ccc.spdb.com.cn/miniSite/Platamex2018/new211.shtml#Menu=ChildMenu2)：消费达标最多赠送24点
-
-> 2025年1月1日起将取消⬆️亲子乐园、缤纷文旅、文化馆权益内容
-
-[酒店住宿](https://ccc.spdb.com.cn/miniSite/Platamex2018/new211.shtml#Menu=ChildMenu2)：消费达标最多赠送3点
-
-> 2025年1月1日起季度消费满`6万`送1点
+[酒店住宿](https://ccc.spdb.com.cn/miniSite/Platamex2018/new211.shtml#Menu=ChildMenu2)：消费达标最多赠送1点
 
 [靠浦飞延误险](https://ccc.spdb.com.cn/miniSite/Platamex2018/4_4.shtml#Menu=ChildMenu1)：延误`2小时`起赔付机票款（最高1500元）
 
