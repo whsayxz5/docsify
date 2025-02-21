@@ -4,11 +4,11 @@
 
 ##### **一、规则解读**
 
-**普通积分卡：**支付宝/微信/指定MCC刷卡，[查看细则](https://creditcard.ecitic.com/gonggao/news_200415.shtml)
+**普通积分卡：**支付宝/微信/指定MCC刷卡，[查看细则](https://creditcard.citicbank.cn/gonggao/news_250114.shtml)
 
-**联名卡规则（除亚万联名卡）：**支付宝/微信，指定MCC刷卡/扫码/PAY，[查看细则](https://creditcard.ecitic.com/gonggao/news_200415_2.shtml)
+**联名卡规则（除亚万联名卡）：**支付宝/微信，指定MCC刷卡/扫码/PAY，[查看细则](https://creditcard.citicbank.cn/gonggao/news_250114.shtml)
 
-**亚万联名卡：**支付宝/微信，指定MCC刷卡，[查看细则](https://creditcard.ecitic.com/gonggao/news_200415_2.shtml)
+**亚万联名卡：**支付宝/微信，指定MCC刷卡，[查看细则](https://creditcard.citicbank.cn/gonggao/news_250114.shtmll)
 
 > **隐藏规则：**中信有隐藏的商户黑名单，随机商户容易没分，优先考虑固定商户
 
@@ -16,7 +16,7 @@
 
 **刷卡`优先`：**[至尊宝](tool/zzb.md)/[恒信通](tool/hxt.md)
 
-**扫码`辅助`：**[付惠码](tool/fhm.md)/[拉卡拉](tool/lkl.md)/[聚收银](tool/jsy.md)
+**扫码`辅助`：**[付惠码](tool/fhm.md)/[拉卡拉](tool/lkl.md)/[聚收银](tool/jsy.md)/[进钱吧](tool/jqb.md)
 
 ##### 三、操作姿势
 

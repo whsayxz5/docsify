@@ -1,5 +1,5 @@
 # 万豪
 
-![万豪快速升级](https://cos.zjkmkj.com/media/2024/08/20/472da63c71496413eef93ce66480770f-2.webp)
+![万豪](https://cos.zjkmkj.com/media/2025/02/11/fc894fceb2a7e27837ca8b9330c8a513-2.webp)
 
-![万豪会员待遇](https://cos.zjkmkj.com/media/2024/08/20/31ac14c63fdf8bdd52aa240a1757a4cb-2.webp)
+![万豪](https://cos.zjkmkj.com/media/2025/02/11/b104ac81a8dea7ad9324bf1e063a3ca2-2.webp)

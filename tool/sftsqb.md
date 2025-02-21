@@ -28,7 +28,7 @@
 
 **特色：** 可开通多商户，最多2户/人
 
-**功能：** 支持刷卡/插卡/扫码/微信/支付宝
+**功能：** 支持刷卡/插卡/扫码/微信/支付宝，支持运通人民币卡
 
 **到账：** 支持笔笔秒到/合并提现，秒到不加
 
@@ -100,11 +100,11 @@
 
 # 盛付通使用教程
 
-#### 一、下载APP `盛钱呗`
+#### 一、注册登录`盛付通商服公众号`
 
-[苹果：点我下载](https://apps.apple.com/cn/app/%E7%9B%9B%E9%92%B1%E5%91%97/id1495300221)
+扫描二维码-关注`盛付通商服`公众号-注册登录
 
-[安卓：点我下载](http://zqb.shengpay.com/cp-h5-nfcmerchant/download.html)
+<img src="https://cos.zjkmkj.com/media/2025/01/27/aa982f743b174f1ea82963567e8dec63-2.webp" width=800 /><br>
 
 #### 二、商户进件
 
@@ -149,6 +149,12 @@
 扫码申请路径：盛钱呗APP-首页-扫码申请-依次上传-门头照片、室内照片、收银照片-点击提交申请完成申请，申请完之后进行[微信认证](https://wiki.zjkmkj.com/#/tool/wxrz)/[支付宝认证](https://wiki.zjkmkj.com/#/tool/zfbrz)，非机器主要功能，用处不大
 
 > 微信支付宝扫码随缘，建议优先用[拉卡拉](https://wiki.zjkmkj.com/#/tool/lkl)、[付惠码](https://wiki.zjkmkj.com/#/tool/fhm)
+
+#### 七、运通人民币卡开通路径
+
+<img src="https://cos.zjkmkj.com/media/2025/02/21/633ef02e39fc2e28c443f804fb5ce399-2.webp" width=800 /><br>
+
+盛钱呗-我的-运通卡受理
 
 ---
 

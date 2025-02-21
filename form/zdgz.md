@@ -1,3 +1,3 @@
 # 账单规则
 
-![https://cos.zjkmkj.com/media/2024/12/10/7729b0eddcf96751a750c6cdf1fd8043-2.webp](https://cos.zjkmkj.com/media/2024/12/10/7729b0eddcf96751a750c6cdf1fd8043-2.webp)
+![账单规则](https://cos.zjkmkj.com/media/2025/01/14/e842b1ced922df4e7068fe1c158b2843-2.webp)

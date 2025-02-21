@@ -30,7 +30,7 @@
 
 ##### 三、推荐神器
 
-[恒信通](tool/hxt.md)
+[恒信通](tool/hxt.md)`暂时下线`、[综易付](tool/zyf.md)
 
 ##### 四、交易费率
 
@@ -103,7 +103,7 @@
 
 ##### 一、推荐神器
 
-[:moneybag:付惠码](tool/fhm.md)、[:moneybag:拉卡拉](tool/lkl.md)
+[:moneybag:付惠码](tool/fhm.md)、[:moneybag:拉卡拉](tool/lkl.md)、[:moneybag:进钱吧](tool/jqb.md)、[:moneybag:聚收银](tool/jsy.md)、[:moneybag:综易付](tool/zyf.md)
 
 ##### 二、扫码必读
 
@@ -115,7 +115,7 @@
 
 # 龙支付
 
-##### 一、[恒信通](https://wiki.zjkmkj.com/#/tool/hxt)`推荐`
+##### 一、[恒信通](https://wiki.zjkmkj.com/#/tool/hxt)`暂时下线`
 
 1. 打开建行APP-龙支付-付款码
 2. 机器开机-扫一扫，输入金额，确认，自动调用摄像头，对准`龙支付付款码`，完成交易

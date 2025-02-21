@@ -36,9 +36,7 @@
 
 [招行专用](tool/zhzy.md)：[至尊宝](tool/zzb.md)/[电银通](tool/dyt.md)，指定餐厅/酒店刷；配合码牌支付宝/微信，不可`小额PAY/银联扫码`
 
-[龙支付](activity/jhlzf.md)：[恒信通](tool/hxt.md)
-
-其他：[恒信通](tool/hxt.md)/[合利宝](tool/hlb.md)/[安心付](tool/axf.md)/[电银通](tool/dyt.md)，指定有积分MCC刷；配合[恒信通](tool/hxt.md)小额PAY；配合码牌支付宝/微信/银联扫码
+其他：[恒信通](tool/hxt.md)/[合利宝](tool/hlb.md)/[安心付](tool/axf.md)/[电银通](tool/dyt.md)，指定有积分MCC刷；配合[恒信通](tool/hxt.md)`暂时下线`小额PAY；配合码牌支付宝/微信/银联扫码
 
 ---
 

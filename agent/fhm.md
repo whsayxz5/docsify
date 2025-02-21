@@ -56,7 +56,7 @@
 
 > 特别说明：代理等级按照推广用户数量决定
 
-![../media/2453576c5d5327ad32abfa3bb699ac31c8e.png](https://cos.zjkmkj.com/media/2024/08/20/ee09078003c98ddd5194f2ab2871bc9c-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/ee09078003c98ddd5194f2ab2871bc9c-2.webp" width=800 /><br>
 
 ##### 二、分润及返现发放
 
@@ -88,7 +88,7 @@
 
 > 必须设置，否则无法往下划拨码牌
 
-![32411702882234_.pic_hd](https://cos.zjkmkj.com/media/2024/08/20/62dd5e17897fe57f48ba96dd030700f9-2.webp)
+<img src="https://cos.zjkmkj.com/media/2024/08/20/62dd5e17897fe57f48ba96dd030700f9-2.webp" width=800 /><br>
 
 **2、划拨码牌**
 
