@@ -56,6 +56,7 @@
   * [扫码须知](tool/smxz)
   * [风控解读:warning:](tool/skgf.md)
   * [涨价预警:warning:](tool/zjyj.md)
+  * [快钱刷:fire:](tool/kqs.md)
   * [综易付:fire:](tool/zyf.md)
   * [进钱吧:fire:](tool/jqb.md)
   * [盛付通:fire:](tool/sftsqb.md)
@@ -129,6 +130,7 @@
 * 代理
 
   * [加入卡盟:fire:](agent/jrkm.md)
+  * [快钱刷代理:fire:](agent/kqs.md)
   * [综易付代理:fire:](agent/zyf.md)
   * [进钱吧代理:fire:](agent/jqb.md)
   * [盛付通代理:fire:](agent/sftsqb.md)

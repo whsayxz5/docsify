@@ -8,7 +8,7 @@
 
 # 最佳机器
 
-**刷卡：**[恒信通](tool/hxt.md)/[合利宝](tool/hlb.md)/[安心付](tool/axf.md)/[至尊宝](tool/zzb.md)/[电银通](tool/dyt.md)/[盛付通](tool/sftsqb.md)
+**刷卡：**[恒信通](tool/hxt.md)/[合利宝](tool/hlb.md)/[安心付](tool/axf.md)/[至尊宝](tool/zzb.md)/[电银通](tool/dyt.md)/[盛付通](tool/sftsqb.md)/[快钱刷](tool/kqs.md)
 
 **扫码：**[拉卡拉](tool/lkl.md)/[付惠码](tool/fhm.md)/[聚收银](tool/jsy.md)/[进钱吧](tool/jqb.md)/[综易付](tool/zyf.md)
 
@@ -30,11 +30,11 @@
 
 **指定行业刷卡**
 
-> [恒信通](tool/hxt.md)/[合利宝](tool/hlb.md)/[安心付](tool/axf.md)/[至尊宝](tool/zzb.md)/[电银通](tool/dyt.md)/[盛付通](tool/sftsqb.md)
+> [恒信通](tool/hxt.md)/[合利宝](tool/hlb.md)/[安心付](tool/axf.md)/[至尊宝](tool/zzb.md)/[电银通](tool/dyt.md)/[盛付通](tool/sftsqb.md)/[快钱刷](tool/kqs.md)
 
 **微信/支付宝**
 
-> [拉卡拉](tool/lkl.md)/[付惠码](tool/fhm.md)/[聚收银](tool/jsy.md)/[合利宝](tool/hlb.md)/[电银通](tool/dyt.md)/[盛付通](tool/sftsqb.md)/[进钱吧](tool/jqb.md)/[综易付](tool/zyf.md)
+> [拉卡拉](tool/lkl.md)/[付惠码](tool/fhm.md)/[聚收银](tool/jsy.md)/[合利宝](tool/hlb.md)/[电银通](tool/dyt.md)/[盛付通](tool/sftsqb.md)/[进钱吧](tool/jqb.md)/[综易付](tool/zyf.md)/[快钱刷](tool/kqs.md)
 
 **快捷支付**
 
@@ -46,13 +46,13 @@
 
 **手机闪付**
 
-> `暂时下线`[恒信通](tool/hxt.md)
+> `暂时下线`[恒信通](tool/hxt.md)、[快钱刷](tool/kqs.md)
 
 **龙支付**
 
 > `暂时下线`[恒信通](tool/hxt.md)
 
-![最新神器](https://cos.zjkmkj.com/media/2025/02/15/c1d3a7376a12246384b425a5ece36231-2.webp)
+![最新神器](https://cos.zjkmkj.com/media/2025/02/27/bd6a3936b14fe9ec6b7668c7c245422b-2.webp)
 
 ---
 
@@ -71,6 +71,8 @@
 [👉 电银通](tool/dyt.md)：建议选择`餐饮5812/酒店7011`，其他MCC按需选择
 
 [👉 恒信通](tool/hxt.md)：建议选择`餐饮5812/酒店7011`，其他MCC按需选择
+
+[👉快钱刷](tool/kqs.md)：建议选择`餐饮5812/酒店7011`，其他MCC按需选择
 
 **（二）快捷支付`不受银联小微限制`**
 

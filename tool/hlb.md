@@ -21,7 +21,7 @@
 
 ##### 二、一清牌照
 
-<img src="https://cos.zjkmkj.com/media/2024/08/20/f71aef52158e3420ae89bd060c7c50e5-2.webp" alt="wecom-temp-350647-c543d9b9a5cc5c267bf82f36e2aee954" width=400 />
+<img src="https://cos.zjkmkj.com/media/2025/02/28/9665332c0bc918a731c0d073b385edd3-2.webp" alt="wecom-temp-350647-c543d9b9a5cc5c267bf82f36e2aee954" width=400 />
 
 > 合利宝客服热线电话：4006086666
 

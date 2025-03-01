@@ -122,6 +122,14 @@
 
 <img src="https://cos.zjkmkj.com/media/2025/01/06/9b6d33caa84abaef7c52d90c18378e1d-2.webp" width=800 /><br>
 
+##### 十二、切换商户获取收款码
+
+`拉卡拉`APP 点击商户边上的箭头 -点击切换商户 -切换完毕之后点击收款
+
+<img src="https://cos.zjkmkj.com/media/2025/02/27/f16b26889089972167121bed930993ec-2.webp" width=800 /><br>
+
+
+
 ---
 
 # 拉卡拉码牌常见问题

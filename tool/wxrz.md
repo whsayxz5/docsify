@@ -20,9 +20,10 @@
 
 # 适用神器
 
+- [快钱](#十、快钱)`新品`
+- [综易付](#九、综易付)`新品`
 - [进钱吧](#八、进钱吧)`新品`
 - [盛付通](#七、盛付通)`新品`
-- [综易付](#九、综易付)`新品`
 - [电银通](#六、电银通)
 - [至尊宝](#五、至尊宝)
 - [付惠码](#一、付惠码)
@@ -95,6 +96,14 @@
 <img src="https://cos.zjkmkj.com/media/2025/02/13/60cd663da65fcddcca35d0af3a12a643-2.webp" width=800 /><br>
 
 <img src="https://cos.zjkmkj.com/media/2025/02/13/c6af78fc8b3c54f629e17ff9b92eea46-2.webp" width=800 /><br>
+
+##### 十、[快钱](tool/kqs.md)
+
+`快钱刷`APP-扫描申请-开通微信-长按图片识别二维码-进入`微信支付商家助手`公众号-点击开户意愿-核实商户，确认开户
+
+<img src="https://cos.zjkmkj.com/media/2025/02/25/3c4b173e593d396631aa097a2c8b90fd-2.webp" width=800 /><br>
+
+<img src="https://cos.zjkmkj.com/media/2025/02/25/965d3968d74b3e1fcb33bf4d0c160477-2.webp" width=800 /><br>
 
 ---
 
